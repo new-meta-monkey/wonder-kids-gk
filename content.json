@@ -1,1 +1,1303 @@
-{"topics":[{"cards":[{"answer":"The Lion!","didYouKnow":"A group of lions is called a pride.","facts":["A lion's roar can be heard up to 8 km away.","Lions sleep up to 20 hours a day!"],"front":"Who is called the King of the Jungle?","id":"lion"},{"answer":"The Penguin!","didYouKnow":"Penguins cannot fly, but they are amazing swimmers.","facts":["Penguins slide on their bellies on ice — it is called tobogganing.","Emperor penguins are the tallest, about 1.1 metres tall."],"front":"Which bird cannot fly but loves to swim?","id":"penguin"},{"answer":"The African Elephant!","didYouKnow":"It uses its trunk like a hand to pick up food.","facts":["An elephant's trunk has about 40,000 muscles!","Elephants can hear with their feet — they feel rumbles in the ground."],"front":"Which is the largest land animal?","id":"elephant"},{"answer":"The Butterfly!","didYouKnow":"Butterflies taste their food with their feet.","facts":["A butterfly starts life as a caterpillar.","The Monarch butterfly can fly 4,000 km on migration!"],"front":"Which insect tastes with its feet?","id":"butterfly"}],"color":"#FF6B6B","icon":"🦁","id":"amazing-animals","name":"Amazing Animals","questions":[{"correct":[0],"id":"q1-king-jungle","options":["Lion","Tiger","Bear","Wolf"],"text":"Which animal is called the King of the Jungle?"},{"correct":[0,1],"hint":"pick 2","id":"q2-can-fly","multi":true,"options":["Butterfly","Bat","Penguin","Elephant"],"text":"Which of these animals can fly? (pick 2)"},{"correct":[0],"id":"q3-elephant-trunk","options":["With its trunk","With its ears","With its tail","With its teeth"],"text":"How does an elephant pick up food?"},{"correct":[0],"id":"q4-zebra-stripes","options":["Zebra","Horse","Giraffe","Leopard"],"text":"Which animal's stripes are like human fingerprints — no two are alike?"},{"correct":[0],"id":"q5-baby-frog","options":["Tadpole","Cub","Chick","Pup"],"text":"What is a baby frog called?"}]},{"cards":[{"answer":"The Moon!","didYouKnow":"The Moon has no air, so astronauts' footprints are still there.","facts":["It takes about 27 days to go around the Earth.","We always see the same side of the Moon."],"front":"What glows in the night sky?","id":"moon"},{"answer":"The Sun!","didYouKnow":"Light from the Sun takes about 8 minutes to reach us.","facts":["About 1.3 million Earths could fit inside it.","The Sun is a star — the closest one to Earth."],"front":"Which star gives us light and heat?","id":"sun"},{"answer":"Mars!","didYouKnow":"Mars has the tallest volcano in the solar system, Olympus Mons.","facts":["It looks red because of rusty dust.","A day on Mars is about 24 hours and 37 minutes."],"front":"Which planet is called the Red Planet?","id":"mars"},{"answer":"Saturn!","didYouKnow":"Saturn is so light it would float in water!","facts":["Its rings are made of ice and rock.","Saturn has more than 140 moons."],"front":"Which planet wears beautiful rings?","id":"saturn"}],"color":"#7B61FF","icon":"🚀","id":"space-adventure","name":"Space Adventure","questions":[{"correct":[0],"id":"q1-red-planet","options":["Mars","Venus","Jupiter","Mercury"],"text":"Which planet is called the Red Planet?"},{"correct":[0],"id":"q2-closest-star","options":["The Sun","The Moon","Mars","Sirius"],"text":"What is the closest star to Earth?"},{"correct":[0],"id":"q3-biggest-rings","options":["Saturn","Mars","Venus","Neptune"],"text":"Which planet has the biggest rings?"},{"correct":[0],"id":"q4-moon-days","options":["About 27","7","365","1"],"text":"How many days does the Moon take to go around the Earth?"},{"correct":[0,1],"hint":"pick 2","id":"q5-planets","multi":true,"options":["Mars","Saturn","The Sun","The Moon"],"text":"Which of these are planets? (pick 2)"}]},{"cards":[{"answer":"The Eiffel Tower!","didYouKnow":"It grows a little taller in summer because the iron expands in the heat.","facts":["Built in 1889, it is 330 metres tall.","It was the tallest building in the world for 41 years."],"front":"Which tall tower stands in Paris?","id":"eiffel"},{"answer":"The Pyramids of Giza!","didYouKnow":"The Great Pyramid was built with about 2.3 million stone blocks.","facts":["Built as tombs for kings more than 4,500 years ago.","It was the tallest human-made structure for over 3,800 years."],"front":"Which giant triangles stand in the desert of Egypt?","id":"pyramids"},{"answer":"The Great Wall of China!","didYouKnow":"It was built to protect China from invaders.","facts":["It is over 21,000 km long.","Sticky rice was used in the mortar to hold the bricks together!"],"front":"Which is one of the longest walls ever built?","id":"great-wall"},{"answer":"The Statue of Liberty!","didYouKnow":"Its full name is 'Liberty Enlightening the World'.","facts":["A gift from France in 1886.","Its torch flame is covered in gold leaf."],"front":"Which statue holds a torch in New York?","id":"liberty"}],"color":"#2EC4B6","icon":"🌍","id":"our-wonderful-world","name":"Our Wonderful World","questions":[{"correct":[0],"id":"q1-eiffel-city","options":["Paris","London","Rome","Berlin"],"text":"In which city is the Eiffel Tower?"},{"correct":[0],"id":"q2-pyramids-country","options":["Egypt","India","Mexico","Greece"],"text":"The Pyramids of Giza are in which country?"},{"correct":[0],"id":"q3-wall-country","options":["China","Japan","Korea","Thailand"],"text":"The Great Wall is in which country?"},{"correct":[0],"id":"q4-torch-statue","options":["Statue of Liberty","Big Ben","Eiffel Tower","Colosseum"],"text":"Which statue holds a torch in New York?"},{"correct":[0,1],"hint":"pick 2","id":"q5-manmade","multi":true,"options":["Eiffel Tower","Great Wall of China","Rainbow","Volcano"],"text":"Which of these are man-made wonders? (pick 2)"}]},{"cards":[{"answer":"A Rainbow!","didYouKnow":"You can never touch a rainbow — it moves when you move.","facts":["It has 7 colours: red, orange, yellow, green, blue, indigo and violet.","Rainbows appear when sunlight shines through raindrops."],"front":"What appears in the sky after rain and sunshine?","id":"rainbow"},{"answer":"A Volcano!","didYouKnow":"The word 'volcano' comes from Vulcan, the Roman god of fire.","facts":["Lava is melted rock hotter than 1,000°C.","There are about 1,500 active volcanoes on Earth."],"front":"Which mountain can spit out hot lava?","id":"volcano"},{"answer":"A Magnet!","didYouKnow":"The Earth itself is like a giant magnet.","facts":["Magnets have a north pole and a south pole.","Opposite poles attract, same poles push away."],"front":"What can pull iron without touching it?","id":"magnet"},{"answer":"The Honey Bee!","didYouKnow":"Bees dance to tell other bees where flowers are.","facts":["One bee makes only about half a teaspoon of honey in its whole life.","A hive can have up to 60,000 bees!"],"front":"Which tiny insect makes honey?","id":"bee"}],"color":"#FFC93C","icon":"🔬","id":"science-fun","name":"Science Fun","questions":[{"correct":[0],"id":"q1-rainbow-colours","options":["7","5","6","8"],"text":"How many colours are in a rainbow?"},{"correct":[0],"id":"q2-volcano","options":["Lava","Water","Snow","Smoke only"],"text":"What comes out of a volcano?"},{"correct":[0],"id":"q3-magnet","options":["Iron","Wood","Plastic","Glass"],"text":"What does a magnet attract?"},{"correct":[0],"id":"q4-honey-bee","options":["Honey bee","Butterfly","Ant","Ladybird"],"text":"Which insect makes honey?"},{"correct":[0,1],"hint":"pick 2","id":"q5-need-sunlight","multi":true,"options":["Rainbow","A plant growing","A magnet","A volcano"],"text":"Which two need sunlight? (pick 2)"}]},{"cards":[{"answer":"Football!","didYouKnow":"The first football World Cup was in 1930.","facts":["It is the most popular sport in the world.","A football match lasts 90 minutes."],"front":"Which sport is played with a round ball and feet?","id":"football"},{"answer":"Pizza!","didYouKnow":"The world's longest pizza was over 1.8 km long!","facts":["The first pizzas were made in Naples, Italy.","October is National Pizza Month in the USA."],"front":"Which yummy food comes from Italy?","id":"pizza"},{"answer":"Chocolate!","didYouKnow":"Chocolate was once used as money by the Aztecs.","facts":["Cocoa beans grow on trees in warm countries.","White chocolate is not really chocolate — it has no cocoa solids."],"front":"Which sweet treat comes from cocoa beans?","id":"chocolate"},{"answer":"The Olympic Games!","didYouKnow":"The Olympic rings stand for the five inhabited continents.","facts":["They happen every 4 years.","The first modern Olympics were in Athens in 1896."],"front":"Which games bring athletes from all over the world?","id":"olympics"}],"color":"#FF9F43","icon":"⚽","id":"sports-yummy-food","name":"Sports & Yummy Food","questions":[{"correct":[0],"id":"q1-popular-sport","options":["Football","Cricket","Tennis","Basketball"],"text":"Which is the most popular sport in the world?"},{"correct":[0],"id":"q2-pizza-country","options":["Italy","France","Spain","Mexico"],"text":"Pizza comes from which country?"},{"correct":[0],"id":"q3-chocolate-from","options":["Cocoa beans","Coffee beans","Sugar cane","Wheat"],"text":"Chocolate is made from...?"},{"correct":[0],"id":"q4-olympics-often","options":["Every 4 years","Every year","Every 2 years","Every 10 years"],"text":"How often are the Olympic Games held?"},{"correct":[0,1],"hint":"pick 2","id":"q5-foods","multi":true,"options":["Pizza","Chocolate","Football","The Olympics"],"text":"Which of these are foods? (pick 2)"}]}],"version":1}
+{
+  "topics": [
+    {
+      "cards": [
+        {
+          "answer": "The Lion!",
+          "didYouKnow": "A group of lions is called a pride.",
+          "facts": [
+            "A lion's roar can be heard up to 8 km away.",
+            "Lions sleep up to 20 hours a day!"
+          ],
+          "front": "Who is called the King of the Jungle?",
+          "id": "lion"
+        },
+        {
+          "answer": "The Penguin!",
+          "didYouKnow": "Penguins cannot fly, but they are amazing swimmers.",
+          "facts": [
+            "Penguins slide on their bellies on ice — it is called tobogganing.",
+            "Emperor penguins are the tallest, about 1.1 metres tall."
+          ],
+          "front": "Which bird cannot fly but loves to swim?",
+          "id": "penguin"
+        },
+        {
+          "answer": "The African Elephant!",
+          "didYouKnow": "It uses its trunk like a hand to pick up food.",
+          "facts": [
+            "An elephant's trunk has about 40,000 muscles!",
+            "Elephants can hear with their feet — they feel rumbles in the ground."
+          ],
+          "front": "Which is the largest land animal?",
+          "id": "elephant"
+        },
+        {
+          "answer": "The Butterfly!",
+          "didYouKnow": "Butterflies taste their food with their feet.",
+          "facts": [
+            "A butterfly starts life as a caterpillar.",
+            "The Monarch butterfly can fly 4,000 km on migration!"
+          ],
+          "front": "Which insect tastes with its feet?",
+          "id": "butterfly"
+        }
+      ],
+      "color": "#FF6B6B",
+      "icon": "🦁",
+      "id": "amazing-animals",
+      "name": "Amazing Animals",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "q1-king-jungle",
+          "options": [
+            "Lion",
+            "Tiger",
+            "Bear",
+            "Wolf"
+          ],
+          "text": "Which animal is called the King of the Jungle?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "q2-can-fly",
+          "multi": true,
+          "options": [
+            "Butterfly",
+            "Bat",
+            "Penguin",
+            "Elephant"
+          ],
+          "text": "Which of these animals can fly? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q3-elephant-trunk",
+          "options": [
+            "With its trunk",
+            "With its ears",
+            "With its tail",
+            "With its teeth"
+          ],
+          "text": "How does an elephant pick up food?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q4-zebra-stripes",
+          "options": [
+            "Zebra",
+            "Horse",
+            "Giraffe",
+            "Leopard"
+          ],
+          "text": "Which animal's stripes are like human fingerprints — no two are alike?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q5-baby-frog",
+          "options": [
+            "Tadpole",
+            "Cub",
+            "Chick",
+            "Pup"
+          ],
+          "text": "What is a baby frog called?"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "answer": "The Moon!",
+          "didYouKnow": "The Moon has no air, so astronauts' footprints are still there.",
+          "facts": [
+            "It takes about 27 days to go around the Earth.",
+            "We always see the same side of the Moon."
+          ],
+          "front": "What glows in the night sky?",
+          "id": "moon"
+        },
+        {
+          "answer": "The Sun!",
+          "didYouKnow": "Light from the Sun takes about 8 minutes to reach us.",
+          "facts": [
+            "About 1.3 million Earths could fit inside it.",
+            "The Sun is a star — the closest one to Earth."
+          ],
+          "front": "Which star gives us light and heat?",
+          "id": "sun"
+        },
+        {
+          "answer": "Mars!",
+          "didYouKnow": "Mars has the tallest volcano in the solar system, Olympus Mons.",
+          "facts": [
+            "It looks red because of rusty dust.",
+            "A day on Mars is about 24 hours and 37 minutes."
+          ],
+          "front": "Which planet is called the Red Planet?",
+          "id": "mars"
+        },
+        {
+          "answer": "Saturn!",
+          "didYouKnow": "Saturn is so light it would float in water!",
+          "facts": [
+            "Its rings are made of ice and rock.",
+            "Saturn has more than 140 moons."
+          ],
+          "front": "Which planet wears beautiful rings?",
+          "id": "saturn"
+        }
+      ],
+      "color": "#7B61FF",
+      "icon": "🚀",
+      "id": "space-adventure",
+      "name": "Space Adventure",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "q1-red-planet",
+          "options": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Mercury"
+          ],
+          "text": "Which planet is called the Red Planet?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q2-closest-star",
+          "options": [
+            "The Sun",
+            "The Moon",
+            "Mars",
+            "Sirius"
+          ],
+          "text": "What is the closest star to Earth?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q3-biggest-rings",
+          "options": [
+            "Saturn",
+            "Mars",
+            "Venus",
+            "Neptune"
+          ],
+          "text": "Which planet has the biggest rings?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q4-moon-days",
+          "options": [
+            "About 27",
+            "7",
+            "365",
+            "1"
+          ],
+          "text": "How many days does the Moon take to go around the Earth?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "q5-planets",
+          "multi": true,
+          "options": [
+            "Mars",
+            "Saturn",
+            "The Sun",
+            "The Moon"
+          ],
+          "text": "Which of these are planets? (pick 2)"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "answer": "The Eiffel Tower!",
+          "didYouKnow": "It grows a little taller in summer because the iron expands in the heat.",
+          "facts": [
+            "Built in 1889, it is 330 metres tall.",
+            "It was the tallest building in the world for 41 years."
+          ],
+          "front": "Which tall tower stands in Paris?",
+          "id": "eiffel"
+        },
+        {
+          "answer": "The Pyramids of Giza!",
+          "didYouKnow": "The Great Pyramid was built with about 2.3 million stone blocks.",
+          "facts": [
+            "Built as tombs for kings more than 4,500 years ago.",
+            "It was the tallest human-made structure for over 3,800 years."
+          ],
+          "front": "Which giant triangles stand in the desert of Egypt?",
+          "id": "pyramids"
+        },
+        {
+          "answer": "The Great Wall of China!",
+          "didYouKnow": "It was built to protect China from invaders.",
+          "facts": [
+            "It is over 21,000 km long.",
+            "Sticky rice was used in the mortar to hold the bricks together!"
+          ],
+          "front": "Which is one of the longest walls ever built?",
+          "id": "great-wall"
+        },
+        {
+          "answer": "The Statue of Liberty!",
+          "didYouKnow": "Its full name is 'Liberty Enlightening the World'.",
+          "facts": [
+            "A gift from France in 1886.",
+            "Its torch flame is covered in gold leaf."
+          ],
+          "front": "Which statue holds a torch in New York?",
+          "id": "liberty"
+        }
+      ],
+      "color": "#2EC4B6",
+      "icon": "🌍",
+      "id": "our-wonderful-world",
+      "name": "Our Wonderful World",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "q1-eiffel-city",
+          "options": [
+            "Paris",
+            "London",
+            "Rome",
+            "Berlin"
+          ],
+          "text": "In which city is the Eiffel Tower?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q2-pyramids-country",
+          "options": [
+            "Egypt",
+            "India",
+            "Mexico",
+            "Greece"
+          ],
+          "text": "The Pyramids of Giza are in which country?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q3-wall-country",
+          "options": [
+            "China",
+            "Japan",
+            "Korea",
+            "Thailand"
+          ],
+          "text": "The Great Wall is in which country?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q4-torch-statue",
+          "options": [
+            "Statue of Liberty",
+            "Big Ben",
+            "Eiffel Tower",
+            "Colosseum"
+          ],
+          "text": "Which statue holds a torch in New York?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "q5-manmade",
+          "multi": true,
+          "options": [
+            "Eiffel Tower",
+            "Great Wall of China",
+            "Rainbow",
+            "Volcano"
+          ],
+          "text": "Which of these are man-made wonders? (pick 2)"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "answer": "A Rainbow!",
+          "didYouKnow": "You can never touch a rainbow — it moves when you move.",
+          "facts": [
+            "It has 7 colours: red, orange, yellow, green, blue, indigo and violet.",
+            "Rainbows appear when sunlight shines through raindrops."
+          ],
+          "front": "What appears in the sky after rain and sunshine?",
+          "id": "rainbow"
+        },
+        {
+          "answer": "A Volcano!",
+          "didYouKnow": "The word 'volcano' comes from Vulcan, the Roman god of fire.",
+          "facts": [
+            "Lava is melted rock hotter than 1,000°C.",
+            "There are about 1,500 active volcanoes on Earth."
+          ],
+          "front": "Which mountain can spit out hot lava?",
+          "id": "volcano"
+        },
+        {
+          "answer": "A Magnet!",
+          "didYouKnow": "The Earth itself is like a giant magnet.",
+          "facts": [
+            "Magnets have a north pole and a south pole.",
+            "Opposite poles attract, same poles push away."
+          ],
+          "front": "What can pull iron without touching it?",
+          "id": "magnet"
+        },
+        {
+          "answer": "The Honey Bee!",
+          "didYouKnow": "Bees dance to tell other bees where flowers are.",
+          "facts": [
+            "One bee makes only about half a teaspoon of honey in its whole life.",
+            "A hive can have up to 60,000 bees!"
+          ],
+          "front": "Which tiny insect makes honey?",
+          "id": "bee"
+        }
+      ],
+      "color": "#FFC93C",
+      "icon": "🔬",
+      "id": "science-fun",
+      "name": "Science Fun",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "q1-rainbow-colours",
+          "options": [
+            "7",
+            "5",
+            "6",
+            "8"
+          ],
+          "text": "How many colours are in a rainbow?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q2-volcano",
+          "options": [
+            "Lava",
+            "Water",
+            "Snow",
+            "Smoke only"
+          ],
+          "text": "What comes out of a volcano?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q3-magnet",
+          "options": [
+            "Iron",
+            "Wood",
+            "Plastic",
+            "Glass"
+          ],
+          "text": "What does a magnet attract?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q4-honey-bee",
+          "options": [
+            "Honey bee",
+            "Butterfly",
+            "Ant",
+            "Ladybird"
+          ],
+          "text": "Which insect makes honey?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "q5-need-sunlight",
+          "multi": true,
+          "options": [
+            "Rainbow",
+            "A plant growing",
+            "A magnet",
+            "A volcano"
+          ],
+          "text": "Which two need sunlight? (pick 2)"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "answer": "Football!",
+          "didYouKnow": "The first football World Cup was in 1930.",
+          "facts": [
+            "It is the most popular sport in the world.",
+            "A football match lasts 90 minutes."
+          ],
+          "front": "Which sport is played with a round ball and feet?",
+          "id": "football"
+        },
+        {
+          "answer": "Pizza!",
+          "didYouKnow": "The world's longest pizza was over 1.8 km long!",
+          "facts": [
+            "The first pizzas were made in Naples, Italy.",
+            "October is National Pizza Month in the USA."
+          ],
+          "front": "Which yummy food comes from Italy?",
+          "id": "pizza"
+        },
+        {
+          "answer": "Chocolate!",
+          "didYouKnow": "Chocolate was once used as money by the Aztecs.",
+          "facts": [
+            "Cocoa beans grow on trees in warm countries.",
+            "White chocolate is not really chocolate — it has no cocoa solids."
+          ],
+          "front": "Which sweet treat comes from cocoa beans?",
+          "id": "chocolate"
+        },
+        {
+          "answer": "The Olympic Games!",
+          "didYouKnow": "The Olympic rings stand for the five inhabited continents.",
+          "facts": [
+            "They happen every 4 years.",
+            "The first modern Olympics were in Athens in 1896."
+          ],
+          "front": "Which games bring athletes from all over the world?",
+          "id": "olympics"
+        }
+      ],
+      "color": "#FF9F43",
+      "icon": "⚽",
+      "id": "sports-yummy-food",
+      "name": "Sports & Yummy Food",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "q1-popular-sport",
+          "options": [
+            "Football",
+            "Cricket",
+            "Tennis",
+            "Basketball"
+          ],
+          "text": "Which is the most popular sport in the world?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q2-pizza-country",
+          "options": [
+            "Italy",
+            "France",
+            "Spain",
+            "Mexico"
+          ],
+          "text": "Pizza comes from which country?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q3-chocolate-from",
+          "options": [
+            "Cocoa beans",
+            "Coffee beans",
+            "Sugar cane",
+            "Wheat"
+          ],
+          "text": "Chocolate is made from...?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "q4-olympics-often",
+          "options": [
+            "Every 4 years",
+            "Every year",
+            "Every 2 years",
+            "Every 10 years"
+          ],
+          "text": "How often are the Olympic Games held?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "q5-foods",
+          "multi": true,
+          "options": [
+            "Pizza",
+            "Chocolate",
+            "Football",
+            "The Olympics"
+          ],
+          "text": "Which of these are foods? (pick 2)"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "answer": "New Delhi!",
+          "didYouKnow": "New Delhi was built as the capital almost 100 years ago.",
+          "facts": [
+            "New Delhi is the capital city of India.",
+            "The President of India lives in Rashtrapati Bhavan in New Delhi."
+          ],
+          "front": "What is the capital of India?",
+          "id": "in-easy-delhi"
+        },
+        {
+          "answer": "The Bengal Tiger!",
+          "didYouKnow": "Tigers love to swim and are very good swimmers.",
+          "facts": [
+            "The Bengal tiger is the national animal of India.",
+            "Tigers have stripes just like human fingerprints — no two tigers have the same stripes."
+          ],
+          "front": "Which animal is the national animal of India?",
+          "id": "in-easy-tiger"
+        },
+        {
+          "answer": "The Taj Mahal!",
+          "didYouKnow": "About 20,000 people worked to build it.",
+          "facts": [
+            "The Taj Mahal is made of white marble.",
+            "It was built by Emperor Shah Jahan for his wife Mumtaz Mahal."
+          ],
+          "front": "Which famous white building stands in Agra?",
+          "id": "in-easy-taj"
+        },
+        {
+          "answer": "The Peacock!",
+          "didYouKnow": "A peacock's tail can be more than 1.5 metres long.",
+          "facts": [
+            "The peacock is the national bird of India.",
+            "Only male peacocks have the big colourful tail with eye-like spots."
+          ],
+          "front": "Which beautiful bird is the national bird of India?",
+          "id": "in-easy-peacock"
+        }
+      ],
+      "color": "#FF9933",
+      "icon": "🇮🇳",
+      "id": "india-gk-easy",
+      "name": "India GK – Easy",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-easy-q1-capital",
+          "options": [
+            "New Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Chennai"
+          ],
+          "text": "What is the capital of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-easy-q2-animal",
+          "options": [
+            "Bengal Tiger",
+            "Lion",
+            "Elephant",
+            "Peacock"
+          ],
+          "text": "Which animal is the national animal of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-easy-q3-flag",
+          "options": [
+            "Navy blue",
+            "Red",
+            "Green",
+            "Yellow"
+          ],
+          "text": "What colour is the wheel in the middle of the Indian flag?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-easy-q4-taj",
+          "options": [
+            "Agra",
+            "Delhi",
+            "Jaipur",
+            "Mumbai"
+          ],
+          "text": "The Taj Mahal is in which city?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "in-easy-q5-symbols",
+          "multi": true,
+          "options": [
+            "Peacock",
+            "Bengal Tiger",
+            "Lion",
+            "Penguin"
+          ],
+          "text": "Which of these are national symbols of India? (pick 2)"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "answer": "The Ganga!",
+          "didYouKnow": "The Ganga is about 2,500 km long.",
+          "facts": [
+            "The Ganga is the longest river in India.",
+            "It starts in the Himalayas and flows into the Bay of Bengal."
+          ],
+          "front": "Which is the longest river in India?",
+          "id": "in-med-ganges"
+        },
+        {
+          "answer": "Mumbai!",
+          "didYouKnow": "Mumbai was once called Bombay.",
+          "facts": [
+            "Mumbai is the capital of Maharashtra.",
+            "It is also the financial capital of India."
+          ],
+          "front": "Which city is the capital of Maharashtra?",
+          "id": "in-med-mumbai"
+        },
+        {
+          "answer": "Mahatma Gandhi!",
+          "didYouKnow": "Gandhi's full name was Mohandas Karamchand Gandhi.",
+          "facts": [
+            "Mahatma Gandhi led India to freedom with non-violence.",
+            "His birthday, 2nd October, is celebrated as Gandhi Jayanti."
+          ],
+          "front": "Who is called the Father of the Nation in India?",
+          "id": "in-med-gandhi"
+        },
+        {
+          "answer": "Kaziranga!",
+          "didYouKnow": "Kaziranga is a UNESCO World Heritage Site.",
+          "facts": [
+            "Kaziranga National Park is in Assam.",
+            "It is home to the largest number of one-horned rhinos in the world."
+          ],
+          "front": "Which national park is famous for one-horned rhinos?",
+          "id": "in-med-kaziranga"
+        }
+      ],
+      "color": "#FF9933",
+      "icon": "🇮🇳",
+      "id": "india-gk-medium",
+      "name": "India GK – Medium",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-med-q1-river",
+          "options": [
+            "Ganga",
+            "Yamuna",
+            "Godavari",
+            "Narmada"
+          ],
+          "text": "Which is the longest river in India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-med-q2-state",
+          "options": [
+            "Maharashtra",
+            "Gujarat",
+            "Karnataka",
+            "Goa"
+          ],
+          "text": "Which state is Mumbai the capital of?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-med-q3-freedom",
+          "options": [
+            "1947",
+            "1950",
+            "1857",
+            "1930"
+          ],
+          "text": "In which year did India become independent?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-med-q4-park",
+          "options": [
+            "One-horned rhino",
+            "Lion",
+            "Tiger",
+            "Elephant"
+          ],
+          "text": "Kaziranga National Park is famous for which animal?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "in-med-q5-states",
+          "multi": true,
+          "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Colombo",
+            "Kathmandu"
+          ],
+          "text": "Which of these are states of India? (pick 2)"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "answer": "26th January 1950!",
+          "didYouKnow": "Dr. B. R. Ambedkar is called the Father of the Indian Constitution.",
+          "facts": [
+            "The Constitution came into effect on 26th January 1950.",
+            "That is why we celebrate Republic Day every year on 26th January."
+          ],
+          "front": "When did the Constitution of India come into effect?",
+          "id": "in-hard-constitution"
+        },
+        {
+          "answer": "Kanchenjunga!",
+          "didYouKnow": "Kanchenjunga is on the border of Sikkim and Nepal.",
+          "facts": [
+            "Kanchenjunga is the highest mountain peak in India.",
+            "It is the third highest mountain in the world."
+          ],
+          "front": "Which is the highest mountain peak in India?",
+          "id": "in-hard-himalaya"
+        },
+        {
+          "answer": "Dr. A. P. J. Abdul Kalam!",
+          "didYouKnow": "Dr. Kalam wrote a famous book called 'Wings of Fire'.",
+          "facts": [
+            "Dr. Kalam was a great scientist and the 11th President of India.",
+            "He helped build India's first satellite launch vehicle."
+          ],
+          "front": "Who is known as the Missile Man of India?",
+          "id": "in-hard-kalam"
+        },
+        {
+          "answer": "Rabindranath Tagore!",
+          "didYouKnow": "Tagore also wrote the national anthem of Bangladesh.",
+          "facts": [
+            "Tagore won the Nobel Prize in Literature in 1913.",
+            "He wrote India's national anthem, Jana Gana Mana."
+          ],
+          "front": "Who was the first Indian to win the Nobel Prize?",
+          "id": "in-hard-nobel"
+        }
+      ],
+      "color": "#FF9933",
+      "icon": "🇮🇳",
+      "id": "india-gk-hard",
+      "name": "India GK – Hard",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-hard-q1-republic",
+          "options": [
+            "26 January 1950",
+            "15 August 1947",
+            "26 January 1947",
+            "15 August 1950"
+          ],
+          "text": "On which date did the Constitution of India come into effect?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-hard-q2-peak",
+          "options": [
+            "Kanchenjunga",
+            "Mount Everest",
+            "Nanda Devi",
+            "K2"
+          ],
+          "text": "Which is the highest mountain peak in India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-hard-q3-president",
+          "options": [
+            "Dr. Rajendra Prasad",
+            "Dr. A. P. J. Abdul Kalam",
+            "Dr. S. Radhakrishnan",
+            "Giani Zail Singh"
+          ],
+          "text": "Who was the first President of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "in-hard-q4-nobel",
+          "options": [
+            "Rabindranath Tagore",
+            "C. V. Raman",
+            "Mother Teresa",
+            "Amartya Sen"
+          ],
+          "text": "Who was the first Indian to win the Nobel Prize?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "in-hard-q5-leaders",
+          "multi": true,
+          "options": [
+            "Dr. Rajendra Prasad",
+            "Dr. A. P. J. Abdul Kalam",
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru"
+          ],
+          "text": "Which of these were Presidents of India? (pick 2)"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "answer": "Chennai!",
+          "didYouKnow": "Chennai was once called Madras.",
+          "facts": [
+            "Chennai is the capital of Tamil Nadu.",
+            "Chennai is on the east coast of India, by the Bay of Bengal."
+          ],
+          "front": "What is the capital of Tamil Nadu?",
+          "id": "tn-easy-chennai"
+        },
+        {
+          "answer": "Meenakshi Temple!",
+          "didYouKnow": "The temple has thousands of colourful statues on its towers.",
+          "facts": [
+            "Meenakshi Temple is in the city of Madurai.",
+            "It is famous for its tall, colourful towers called gopurams."
+          ],
+          "front": "Which famous temple stands in Madurai?",
+          "id": "tn-easy-meenakshi"
+        },
+        {
+          "answer": "Tamil!",
+          "didYouKnow": "Tamil is one of the oldest languages still spoken today.",
+          "facts": [
+            "Tamil is one of the oldest languages in the world.",
+            "Tamil Nadu's name means 'the land of Tamils'."
+          ],
+          "front": "Which language do most people speak in Tamil Nadu?",
+          "id": "tn-easy-tamil"
+        },
+        {
+          "answer": "Pongal!",
+          "didYouKnow": "Pongal is celebrated for four days.",
+          "facts": [
+            "Pongal is a harvest festival celebrated in January.",
+            "Families cook sweet pongal in new pots to thank the Sun."
+          ],
+          "front": "Which harvest festival is celebrated in Tamil Nadu?",
+          "id": "tn-easy-pongal"
+        }
+      ],
+      "color": "#E91E63",
+      "icon": "🛕",
+      "id": "tamil-nadu-gk-easy",
+      "name": "Tamil Nadu GK – Easy",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-easy-q1-capital",
+          "options": [
+            "Chennai",
+            "Madurai",
+            "Coimbatore",
+            "Salem"
+          ],
+          "text": "What is the capital of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-easy-q2-temple",
+          "options": [
+            "Madurai",
+            "Thanjavur",
+            "Chennai",
+            "Trichy"
+          ],
+          "text": "Meenakshi Temple is in which city?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-easy-q3-food",
+          "options": [
+            "Dosa",
+            "Pizza",
+            "Pasta",
+            "Burger"
+          ],
+          "text": "Which of these is a famous food of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-easy-q4-festival",
+          "options": [
+            "Pongal",
+            "Diwali",
+            "Holi",
+            "Onam"
+          ],
+          "text": "Which harvest festival is celebrated in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "tn-easy-q5-foods",
+          "multi": true,
+          "options": [
+            "Dosa",
+            "Idli",
+            "Pizza",
+            "Noodles"
+          ],
+          "text": "Which of these are famous foods of Tamil Nadu? (pick 2)"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "answer": "Bharatanatyam!",
+          "didYouKnow": "Bharatanatyam dancers tell stories with hand movements called mudras.",
+          "facts": [
+            "Bharatanatyam is one of the oldest classical dances of India.",
+            "It began in the temples of Tamil Nadu many hundreds of years ago."
+          ],
+          "front": "Which classical dance comes from Tamil Nadu?",
+          "id": "tn-med-bharatanatyam"
+        },
+        {
+          "answer": "The Kaveri!",
+          "didYouKnow": "The Kaveri starts in the hills of Karnataka and flows to the Bay of Bengal.",
+          "facts": [
+            "The Kaveri is the most important river of Tamil Nadu.",
+            "It helps farmers grow rice in the delta region."
+          ],
+          "front": "Which is the most important river of Tamil Nadu?",
+          "id": "tn-med-kaveri"
+        },
+        {
+          "answer": "K. Kamaraj!",
+          "didYouKnow": "Kamaraj opened many schools so that every child could study.",
+          "facts": [
+            "K. Kamaraj was a Chief Minister of Tamil Nadu.",
+            "He started the mid-day meal scheme in schools."
+          ],
+          "front": "Who is known as the 'Kingmaker' of Tamil Nadu?",
+          "id": "tn-med-kamaraj"
+        },
+        {
+          "answer": "Ooty!",
+          "didYouKnow": "Ooty's full name is Udhagamandalam.",
+          "facts": [
+            "Ooty is a hill station in the Nilgiri Hills.",
+            "It is famous for its cool weather, tea gardens and the toy train."
+          ],
+          "front": "Which hill station is called the Queen of the Nilgiris?",
+          "id": "tn-med-ooty"
+        }
+      ],
+      "color": "#E91E63",
+      "icon": "🛕",
+      "id": "tamil-nadu-gk-medium",
+      "name": "Tamil Nadu GK – Medium",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-med-q1-dance",
+          "options": [
+            "Bharatanatyam",
+            "Kathak",
+            "Kathakali",
+            "Odissi"
+          ],
+          "text": "Which classical dance comes from Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-med-q2-river",
+          "options": [
+            "Kaveri",
+            "Ganga",
+            "Yamuna",
+            "Krishna"
+          ],
+          "text": "Which is the most important river of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-med-q3-district",
+          "options": [
+            "Coimbatore",
+            "Chennai",
+            "Madurai",
+            "Salem"
+          ],
+          "text": "Which city is called the Manchester of South India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-med-q4-animal",
+          "options": [
+            "Nilgiri Tahr",
+            "Bengal Tiger",
+            "Lion",
+            "Elephant"
+          ],
+          "text": "Which animal is the state animal of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "tn-med-q5-hills",
+          "multi": true,
+          "options": [
+            "Ooty",
+            "Kodaikanal",
+            "Chennai",
+            "Madurai"
+          ],
+          "text": "Which of these are hill stations of Tamil Nadu? (pick 2)"
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "answer": "Thiruvalluvar!",
+          "didYouKnow": "The Thirukkural has been translated into many languages around the world.",
+          "facts": [
+            "Thiruvalluvar wrote the Thirukkural more than 2,000 years ago.",
+            "It has 1,330 short poems about life, love and good conduct."
+          ],
+          "front": "Who wrote the Thirukkural?",
+          "id": "tn-hard-thirukkural"
+        },
+        {
+          "answer": "Brihadeeswara Temple!",
+          "didYouKnow": "The temple is a UNESCO World Heritage Site.",
+          "facts": [
+            "Raja Raja Chola built the Brihadeeswara Temple about 1,000 years ago.",
+            "Its tower is made of granite stone and is about 66 metres tall."
+          ],
+          "front": "Which great temple did Raja Raja Chola build in Thanjavur?",
+          "id": "tn-hard-brihadeeswara"
+        },
+        {
+          "answer": "E. V. Ramasamy!",
+          "didYouKnow": "Periyar's birthday, 17 September, is celebrated as Social Justice Day in Tamil Nadu.",
+          "facts": [
+            "Periyar worked for social reform and equality in Tamil Nadu.",
+            "He started the Self-Respect Movement."
+          ],
+          "front": "Who is known as Periyar?",
+          "id": "tn-hard-periyar"
+        },
+        {
+          "answer": "Marina Beach!",
+          "didYouKnow": "Marina Beach is about 13 km long.",
+          "facts": [
+            "Marina Beach is in Chennai.",
+            "It is one of the longest urban beaches in the world."
+          ],
+          "front": "Which is the longest natural urban beach in India?",
+          "id": "tn-hard-marina"
+        }
+      ],
+      "color": "#E91E63",
+      "icon": "🛕",
+      "id": "tamil-nadu-gk-hard",
+      "name": "Tamil Nadu GK – Hard",
+      "questions": [
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-hard-q1-kural",
+          "options": [
+            "Thiruvalluvar",
+            "Kambar",
+            "Avvaiyar",
+            "Bharathiyar"
+          ],
+          "text": "Who wrote the Thirukkural?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-hard-q2-chola",
+          "options": [
+            "Raja Raja Chola I",
+            "Rajendra Chola",
+            "Karikala Chola",
+            "Kulothunga Chola"
+          ],
+          "text": "Which Chola king built the Brihadeeswara Temple?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-hard-q3-poet",
+          "options": [
+            "Subramania Bharathiyar",
+            "Kambar",
+            "Thiruvalluvar",
+            "Avvaiyar"
+          ],
+          "text": "Who is known as Mahakavi in Tamil literature?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tn-hard-q4-sangam",
+          "options": [
+            "Tamil",
+            "Sanskrit",
+            "Telugu",
+            "Hindi"
+          ],
+          "text": "The Sangam literature was written in which language?"
+        },
+        {
+          "correct": [
+            0,
+            1
+          ],
+          "hint": "pick 2",
+          "id": "tn-hard-q5-reformers",
+          "multi": true,
+          "options": [
+            "Periyar E. V. Ramasamy",
+            "Rettaimalai Srinivasan",
+            "Raja Raja Chola",
+            "Tipu Sultan"
+          ],
+          "text": "Which of these were social reformers of Tamil Nadu? (pick 2)"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
