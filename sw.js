@@ -1,5 +1,5 @@
 /* Wonder Kids GK — offline service worker (cache-first, then network). */
-var CACHE = 'wonder-kids-gk-v1';
+var CACHE = 'wonder-kids-gk-v2';
 var CORE = ['./', './index.html', './content.json', './manifest.json'];
 
 self.addEventListener('install', function (event) {
