@@ -200,6 +200,266 @@
             "Emu"
           ],
           "text": "Which bird cannot fly but runs the fastest on land?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x8",
+          "options": [
+            "Giant panda",
+            "Polar bear",
+            "Brown bear",
+            "Grizzly bear"
+          ],
+          "text": "Which bear eats almost only bamboo?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x9",
+          "options": [
+            "Kitten",
+            "Cub",
+            "Calf",
+            "Chick"
+          ],
+          "text": "What is a baby cat called?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x10",
+          "options": [
+            "Dove",
+            "Eagle",
+            "Owl",
+            "Crow"
+          ],
+          "text": "Which bird is a symbol of peace?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x11",
+          "options": [
+            "Hen",
+            "Dog",
+            "Cat",
+            "Cow"
+          ],
+          "text": "Which of these animals lays eggs?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x12",
+          "options": [
+            "Camel",
+            "Horse",
+            "Donkey",
+            "Elephant"
+          ],
+          "text": "Which animal is known as the 'ship of the desert'?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x13",
+          "options": [
+            "Chameleon",
+            "Frog",
+            "Snake",
+            "Lizard"
+          ],
+          "text": "Which animal can change its colour to hide from enemies?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x14",
+          "options": [
+            "Cheetah",
+            "Lion",
+            "Horse",
+            "Tiger"
+          ],
+          "text": "Which is faster — a cheetah or a lion?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x15",
+          "options": [
+            "Lion",
+            "Wolf",
+            "Tiger",
+            "Bear"
+          ],
+          "text": "Which animal hunts in a group called a pride?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x16",
+          "options": [
+            "6",
+            "8",
+            "4",
+            "10"
+          ],
+          "text": "How many legs does an insect have?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x17",
+          "options": [
+            "Bat",
+            "Owl",
+            "Eagle",
+            "Penguin"
+          ],
+          "text": "Which of these is NOT a bird?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x18",
+          "options": [
+            "Octopus",
+            "Shark",
+            "Starfish",
+            "Jellyfish"
+          ],
+          "text": "Which sea animal has eight arms?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x19",
+          "options": [
+            "Snake",
+            "Frog",
+            "Fish",
+            "Bird"
+          ],
+          "text": "Which of these animals is a reptile?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x20",
+          "options": [
+            "Antarctica",
+            "North Pole",
+            "Africa",
+            "Australia"
+          ],
+          "text": "Where do most penguins live?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x21",
+          "options": [
+            "Elephant",
+            "Rhinoceros",
+            "Hippopotamus",
+            "Giraffe"
+          ],
+          "text": "Which animal has a long trunk and big ears?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x22",
+          "options": [
+            "Blue whale",
+            "Elephant",
+            "Giraffe",
+            "Hippopotamus"
+          ],
+          "text": "Which is bigger — a blue whale or an elephant?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x23",
+          "options": [
+            "A school",
+            "A pack",
+            "A pride",
+            "A flock"
+          ],
+          "text": "What is a group of fish called?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x24",
+          "options": [
+            "Frog",
+            "Fish",
+            "Snake",
+            "Bird"
+          ],
+          "text": "Which animal can live both in water and on land?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x25",
+          "options": [
+            "Kangaroo",
+            "Koala",
+            "Rabbit",
+            "Deer"
+          ],
+          "text": "Which animal's baby is called a joey?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x26",
+          "options": [
+            "Hummingbird",
+            "Eagle",
+            "Owl",
+            "Sparrow"
+          ],
+          "text": "Which bird can fly backwards?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x27",
+          "options": [
+            "A chrysalis",
+            "A nest",
+            "A shell",
+            "A web"
+          ],
+          "text": "A butterfly starts life as a caterpillar. What does it turn into before it becomes a butterfly?"
         }
       ]
     },
@@ -403,6 +663,266 @@
             "A moon"
           ],
           "text": "What do we call a star that falls from the sky and burns brightly?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x8",
+          "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Mercury"
+          ],
+          "text": "Which planet is known as the Morning Star?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x9",
+          "options": [
+            "8",
+            "9",
+            "7",
+            "10"
+          ],
+          "text": "How many planets are in our solar system?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x10",
+          "options": [
+            "Mercury",
+            "Mars",
+            "Venus",
+            "Earth"
+          ],
+          "text": "Which is the smallest planet in our solar system?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x11",
+          "options": [
+            "A star",
+            "A planet",
+            "A moon",
+            "A comet"
+          ],
+          "text": "What is the Sun?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x12",
+          "options": [
+            "One year",
+            "One month",
+            "One week",
+            "One day"
+          ],
+          "text": "How long does the Earth take to go around the Sun?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x13",
+          "options": [
+            "Venus",
+            "Mercury",
+            "Mars",
+            "Jupiter"
+          ],
+          "text": "Which planet is the hottest in our solar system?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x14",
+          "options": [
+            "A meteorite",
+            "A comet",
+            "An asteroid",
+            "A star"
+          ],
+          "text": "What do we call a rock from space that lands on Earth?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x15",
+          "options": [
+            "Venus",
+            "Mars",
+            "Mercury",
+            "Jupiter"
+          ],
+          "text": "Which is the closest planet to Earth?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x16",
+          "options": [
+            "Earth's journey around the Sun",
+            "The Moon's journey around the Earth",
+            "They take the same time",
+            "The Moon's journey around the Sun"
+          ],
+          "text": "The Moon takes about 27 days to go around the Earth. The Earth takes 365 days to go around the Sun. Which journey is longer?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x17",
+          "options": [
+            "The Milky Way",
+            "The Sun",
+            "Mars",
+            "The Moon"
+          ],
+          "text": "Which of these is a galaxy, not a star or a planet?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x18",
+          "options": [
+            "Gravity",
+            "Magnetism",
+            "Wind",
+            "Light"
+          ],
+          "text": "What force pulls us down to the ground and keeps the Moon near the Earth?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x19",
+          "options": [
+            "Uranus",
+            "Neptune",
+            "Mars",
+            "Venus"
+          ],
+          "text": "Which planet spins on its side, like a rolling ball?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x20",
+          "options": [
+            "2",
+            "1",
+            "0",
+            "5"
+          ],
+          "text": "How many moons does Mars have?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x21",
+          "options": [
+            "Neptune",
+            "Uranus",
+            "Saturn",
+            "Pluto"
+          ],
+          "text": "Which planet is the farthest from the Sun?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x22",
+          "options": [
+            "1",
+            "2",
+            "16",
+            "4"
+          ],
+          "text": "Astronauts on the space station see 16 sunrises a day. How many sunrises do we see on Earth in one day?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x23",
+          "options": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Rakesh Sharma"
+          ],
+          "text": "Who was the first person to walk on the Moon?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x24",
+          "options": [
+            "The Sun",
+            "Jupiter",
+            "The Earth",
+            "The Moon"
+          ],
+          "text": "Which of these is the biggest — the Sun, Jupiter, or the Earth?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x25",
+          "options": [
+            "An orbit",
+            "A ring",
+            "A trail",
+            "A spin"
+          ],
+          "text": "What do we call the path a planet takes around the Sun?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x26",
+          "options": [
+            "Venus",
+            "Mercury",
+            "Mars",
+            "Earth"
+          ],
+          "text": "Which planet has a day that is longer than its year?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x27",
+          "options": [
+            "They would drift away into space",
+            "They would stop moving at once",
+            "They would fall into the Moon",
+            "Nothing would change"
+          ],
+          "text": "If the Sun disappeared, what would happen to the planets?"
         }
       ]
     },
@@ -606,6 +1126,266 @@
             "Thar"
           ],
           "text": "Which desert is the largest hot desert in the world?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x8",
+          "options": [
+            "The Thames",
+            "The Seine",
+            "The Danube",
+            "The Nile"
+          ],
+          "text": "Which river flows through London?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x9",
+          "options": [
+            "The Pacific Ocean",
+            "The Atlantic Ocean",
+            "The Indian Ocean",
+            "The Arctic Ocean"
+          ],
+          "text": "Which is the largest ocean in the world?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x10",
+          "options": [
+            "Australia",
+            "Africa",
+            "India",
+            "Brazil"
+          ],
+          "text": "Which country is home to the kangaroo?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x11",
+          "options": [
+            "Africa",
+            "France",
+            "Japan",
+            "Brazil"
+          ],
+          "text": "Which of these is a continent, not a country?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x12",
+          "options": [
+            "The Colosseum",
+            "Big Ben",
+            "The Statue of Liberty",
+            "The Leaning Tower of Pisa"
+          ],
+          "text": "Which of these was built first?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x13",
+          "options": [
+            "Italy",
+            "France",
+            "Spain",
+            "Greece"
+          ],
+          "text": "In which country is the Leaning Tower of Pisa?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x14",
+          "options": [
+            "The Netherlands",
+            "France",
+            "Germany",
+            "Belgium"
+          ],
+          "text": "Which country is famous for tulips and windmills?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x15",
+          "options": [
+            "Antarctica",
+            "Sahara",
+            "Gobi",
+            "Kalahari"
+          ],
+          "text": "Which desert is the coldest in the world?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x16",
+          "options": [
+            "Greenland",
+            "Madagascar",
+            "Australia",
+            "Borneo"
+          ],
+          "text": "Which is the largest island in the world?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x17",
+          "options": [
+            "India",
+            "China",
+            "USA",
+            "Indonesia"
+          ],
+          "text": "Which country has the largest population in the world?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x18",
+          "options": [
+            "Mount Everest",
+            "K2",
+            "Kanchenjunga",
+            "Mount Kilimanjaro"
+          ],
+          "text": "Which mountain is the tallest in the world?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x19",
+          "options": [
+            "Tokyo",
+            "Beijing",
+            "Seoul",
+            "Bangkok"
+          ],
+          "text": "Which city is the capital of Japan?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x20",
+          "options": [
+            "The Arctic Ocean",
+            "The Indian Ocean",
+            "The Atlantic Ocean",
+            "The Pacific Ocean"
+          ],
+          "text": "Which ocean is the smallest in the world?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x21",
+          "options": [
+            "The Statue of Liberty",
+            "The Eiffel Tower",
+            "The Colosseum",
+            "The Great Pyramid"
+          ],
+          "text": "The Eiffel Tower was built in 1889. The Statue of Liberty was a gift in 1886. Which one is older?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x22",
+          "options": [
+            "Africa",
+            "Asia",
+            "Australia",
+            "South America"
+          ],
+          "text": "Which continent is the Sahara Desert in?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x23",
+          "options": [
+            "The Amazon Rainforest",
+            "The Congo Rainforest",
+            "The Daintree Rainforest",
+            "The Black Forest"
+          ],
+          "text": "Which is the largest rainforest in the world?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x24",
+          "options": [
+            "Japan",
+            "China",
+            "Thailand",
+            "Korea"
+          ],
+          "text": "Which country is known as the Land of the Rising Sun?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x25",
+          "options": [
+            "The Pyramids of Giza",
+            "The Colosseum",
+            "The Eiffel Tower",
+            "The Statue of Liberty"
+          ],
+          "text": "Which is older — the Pyramids of Giza or the Colosseum?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x26",
+          "options": [
+            "Canberra",
+            "Sydney",
+            "Melbourne",
+            "Perth"
+          ],
+          "text": "What is the capital of Australia?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x27",
+          "options": [
+            "The Dead Sea",
+            "The Red Sea",
+            "The Black Sea",
+            "The Caspian Sea"
+          ],
+          "text": "In which sea can people float easily because it is so salty?"
         }
       ]
     },
@@ -809,6 +1589,266 @@
             "Sleet"
           ],
           "text": "What do we call water that falls from the sky as frozen balls of ice?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x8",
+          "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "text": "What gas do plants take in from the air?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x9",
+          "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Helium"
+          ],
+          "text": "What gas do we need to breathe to live?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x10",
+          "options": [
+            "Gravity",
+            "Magnetism",
+            "Friction",
+            "Wind"
+          ],
+          "text": "What force makes a ball fall back to the ground?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x11",
+          "options": [
+            "Diamond",
+            "Gold",
+            "Iron",
+            "Glass"
+          ],
+          "text": "Which is the hardest natural material on Earth?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x12",
+          "options": [
+            "Butterflies",
+            "Bees",
+            "Ants",
+            "Beetles"
+          ],
+          "text": "What do caterpillars turn into?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x13",
+          "options": [
+            "The brain",
+            "The heart",
+            "The lungs",
+            "The stomach"
+          ],
+          "text": "Which organ helps us think and learn?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x14",
+          "options": [
+            "206",
+            "106",
+            "306",
+            "56"
+          ],
+          "text": "How many bones are in an adult human body?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x15",
+          "options": [
+            "100°C",
+            "50°C",
+            "90°C",
+            "200°C"
+          ],
+          "text": "What is the boiling point of water?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x16",
+          "options": [
+            "Precipitation",
+            "Evaporation",
+            "Condensation",
+            "Pollution"
+          ],
+          "text": "What do we call water that falls from the sky as rain, snow or hail?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x17",
+          "options": [
+            "The leaf",
+            "The root",
+            "The stem",
+            "The flower"
+          ],
+          "text": "Which part of a plant makes food using sunlight?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x18",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "14"
+          ],
+          "text": "A spider has 8 legs. An insect has 6 legs. How many more legs does a spider have than an insect?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x19",
+          "options": [
+            "The bat",
+            "The eagle",
+            "The butterfly",
+            "The flying squirrel"
+          ],
+          "text": "Which animal is the only mammal that can truly fly?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x20",
+          "options": [
+            "The Sun",
+            "The Moon",
+            "The wind",
+            "The sea"
+          ],
+          "text": "What is the main source of energy for the Earth?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x21",
+          "options": [
+            "A rock",
+            "A tree",
+            "A fish",
+            "A bird"
+          ],
+          "text": "Which of these is NOT a living thing?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x22",
+          "options": [
+            "366",
+            "365",
+            "364",
+            "360"
+          ],
+          "text": "How many days are there in a leap year?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x23",
+          "options": [
+            "A telescope",
+            "A microscope",
+            "A magnet",
+            "A thermometer"
+          ],
+          "text": "What do we use to see things that are very far away in the sky?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x24",
+          "options": [
+            "A thermometer",
+            "A telescope",
+            "A microscope",
+            "A magnet"
+          ],
+          "text": "What do we use to measure how hot or cold something is?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x25",
+          "options": [
+            "Nocturnal",
+            "Diurnal",
+            "Hibernating",
+            "Migrating"
+          ],
+          "text": "What do we call animals that are active at night?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x26",
+          "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Smoke"
+          ],
+          "text": "Which gas do plants give out during the day?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x27",
+          "options": [
+            "Lightning",
+            "Lava",
+            "A hot oven",
+            "Boiling water"
+          ],
+          "text": "Lightning is hotter than the surface of the Sun. Lava is melted rock hotter than 1,000°C. Which is hotter — lightning or lava?"
         }
       ]
     },
@@ -1012,6 +2052,266 @@
             "Los Angeles"
           ],
           "text": "The first ice cream shop in America opened in which city?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x8",
+          "options": [
+            "11",
+            "9",
+            "7",
+            "5"
+          ],
+          "text": "How many players are there in a football team on the field?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x9",
+          "options": [
+            "Badminton",
+            "Tennis",
+            "Squash",
+            "Table tennis"
+          ],
+          "text": "In which sport do players hit a shuttlecock over a net?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x10",
+          "options": [
+            "Banana",
+            "Apple",
+            "Orange",
+            "Grapes"
+          ],
+          "text": "Which fruit is yellow and curved?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x11",
+          "options": [
+            "Ice hockey",
+            "Football",
+            "Basketball",
+            "Cricket"
+          ],
+          "text": "Which sport is played on ice with skates and a puck?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x12",
+          "options": [
+            "5",
+            "4",
+            "6",
+            "7"
+          ],
+          "text": "How many rings are there on the Olympic flag?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x13",
+          "options": [
+            "Cheese",
+            "Bread",
+            "Rice",
+            "Apple"
+          ],
+          "text": "Which of these is a dairy food?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x14",
+          "options": [
+            "Tennis",
+            "Badminton",
+            "Cricket",
+            "Golf"
+          ],
+          "text": "Which sport needs a racket and a small yellow ball?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x15",
+          "options": [
+            "180",
+            "90",
+            "120",
+            "45"
+          ],
+          "text": "A football match lasts 90 minutes. How many minutes are there in two football matches?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x16",
+          "options": [
+            "Pineapple",
+            "Mango",
+            "Papaya",
+            "Banana"
+          ],
+          "text": "Which fruit has a crown on top and is sweet and yellow inside?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x17",
+          "options": [
+            "Carrot",
+            "Apple",
+            "Banana",
+            "Grapes"
+          ],
+          "text": "Which of these is a vegetable?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x18",
+          "options": [
+            "Basketball",
+            "Football",
+            "Volleyball",
+            "Hockey"
+          ],
+          "text": "In which sport do you score by putting the ball in a hoop?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x19",
+          "options": [
+            "Potato",
+            "Tomato",
+            "Apple",
+            "Banana"
+          ],
+          "text": "Which of these is NOT a fruit?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x20",
+          "options": [
+            "Cricket",
+            "Football",
+            "Tennis",
+            "Golf"
+          ],
+          "text": "Which sport is called the 'gentleman's game'?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x21",
+          "options": [
+            "18",
+            "9",
+            "12",
+            "20"
+          ],
+          "text": "How many holes are there in a full round of golf?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x22",
+          "options": [
+            "Potato",
+            "Tomato",
+            "Carrot",
+            "Onion"
+          ],
+          "text": "Which food is the main ingredient of French fries?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x23",
+          "options": [
+            "Surfing",
+            "Sailing",
+            "Rowing",
+            "Diving"
+          ],
+          "text": "Which sport uses a board and waves in the sea?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x24",
+          "options": [
+            "Flour",
+            "Rice",
+            "Sugar",
+            "Milk"
+          ],
+          "text": "What is the main ingredient in bread?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x25",
+          "options": [
+            "6",
+            "5",
+            "10",
+            "12"
+          ],
+          "text": "In cricket, how many balls are there in one over?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x26",
+          "options": [
+            "Mango",
+            "Banana",
+            "Apple",
+            "Orange"
+          ],
+          "text": "Which fruit is known as the 'king of fruits'?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x27",
+          "options": [
+            "1900",
+            "1898",
+            "1904",
+            "1896"
+          ],
+          "text": "The first modern Olympics were in Athens in 1896 and happen every 4 years. In which year were the second modern Olympics held?"
         }
       ]
     },
@@ -1215,6 +2515,266 @@
             "Bihar"
           ],
           "text": "The Taj Mahal is in Agra. Agra is in which state?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x8",
+          "options": [
+            "Banyan tree",
+            "Mango tree",
+            "Coconut tree",
+            "Neem tree"
+          ],
+          "text": "Which is the national tree of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x9",
+          "options": [
+            "Jana Gana Mana",
+            "Vande Mataram",
+            "Sare Jahan Se Achha",
+            "Jai Ho"
+          ],
+          "text": "What is the national anthem of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x10",
+          "options": [
+            "Three",
+            "Four",
+            "Two",
+            "Five"
+          ],
+          "text": "How many colours are there in the Indian flag?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x11",
+          "options": [
+            "Goa",
+            "Kerala",
+            "Sikkim",
+            "Tripura"
+          ],
+          "text": "Which is the smallest state in India by size?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x12",
+          "options": [
+            "Diwali",
+            "Holi",
+            "Eid",
+            "Christmas"
+          ],
+          "text": "Which festival is called the festival of lights?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x13",
+          "options": [
+            "Rupee",
+            "Dollar",
+            "Pound",
+            "Yen"
+          ],
+          "text": "What is the national currency of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x14",
+          "options": [
+            "Camel",
+            "Horse",
+            "Elephant",
+            "Donkey"
+          ],
+          "text": "Which animal is called the Ship of the Desert?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x15",
+          "options": [
+            "Potato",
+            "Mango",
+            "Banana",
+            "Apple"
+          ],
+          "text": "Which of these is NOT a fruit?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x16",
+          "options": [
+            "Delhi",
+            "Agra",
+            "Jaipur",
+            "Mumbai"
+          ],
+          "text": "The Red Fort is in which city?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x17",
+          "options": [
+            "Cub",
+            "Pup",
+            "Calf",
+            "Kitten"
+          ],
+          "text": "What do we call the baby of a lion?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x18",
+          "options": [
+            "Holi",
+            "Diwali",
+            "Pongal",
+            "Raksha Bandhan"
+          ],
+          "text": "Which Indian festival is celebrated with colours?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x19",
+          "options": [
+            "Bengaluru",
+            "Mysuru",
+            "Mangaluru",
+            "Hubballi"
+          ],
+          "text": "What is the capital of Karnataka?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x20",
+          "options": [
+            "Ganga",
+            "Kaveri",
+            "Yamuna",
+            "Godavari"
+          ],
+          "text": "Which river is called the holy river of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x21",
+          "options": [
+            "White",
+            "Saffron",
+            "Green",
+            "Blue"
+          ],
+          "text": "The Indian flag has saffron, white and green bands. Which colour band is in the middle?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x22",
+          "options": [
+            "Asiatic Lion",
+            "Bengal Tiger",
+            "Panda",
+            "Kangaroo"
+          ],
+          "text": "Which of these animals is found in the Gir Forest?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x23",
+          "options": [
+            "Tabla",
+            "Piano",
+            "Guitar",
+            "Violin"
+          ],
+          "text": "Which of these is an Indian musical instrument?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x24",
+          "options": [
+            "August",
+            "January",
+            "October",
+            "March"
+          ],
+          "text": "In which month is Independence Day celebrated in India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x25",
+          "options": [
+            "Lion",
+            "Tiger",
+            "Elephant",
+            "Peacock"
+          ],
+          "text": "What animal is on the national emblem of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x26",
+          "options": [
+            "Punjab",
+            "Kathmandu",
+            "Colombo",
+            "Dhaka"
+          ],
+          "text": "Which of these is a state of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x27",
+          "options": [
+            "Kolkata",
+            "Mumbai",
+            "Delhi",
+            "Chennai"
+          ],
+          "text": "Which city is called the City of Joy?"
         }
       ]
     },
@@ -1418,6 +2978,266 @@
             "Godavari"
           ],
           "text": "Which of these is NOT a river of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x8",
+          "options": [
+            "Telangana",
+            "Andhra Pradesh",
+            "Karnataka",
+            "Tamil Nadu"
+          ],
+          "text": "Hyderabad is the capital of which state?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x9",
+          "options": [
+            "Tehri Dam",
+            "Bhakra Dam",
+            "Hirakud Dam",
+            "Sardar Sarovar Dam"
+          ],
+          "text": "Which is the highest dam in India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x10",
+          "options": [
+            "Bengaluru",
+            "Hyderabad",
+            "Pune",
+            "Chennai"
+          ],
+          "text": "Which Indian city is called the Silicon Valley of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x11",
+          "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Rabindranath Tagore",
+            "Sardar Patel"
+          ],
+          "text": "Who wrote the book 'Discovery of India'?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x12",
+          "options": [
+            "Goa",
+            "Ladakh",
+            "Puducherry",
+            "Chandigarh"
+          ],
+          "text": "Which of these is NOT a union territory of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x13",
+          "options": [
+            "Thar Desert",
+            "Rann of Kutch",
+            "Sahara Desert",
+            "Gobi Desert"
+          ],
+          "text": "Which is the largest desert in India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x14",
+          "options": [
+            "1949",
+            "1947",
+            "1950",
+            "1952"
+          ],
+          "text": "The Constitution came into effect on 26 January 1950. In which year was it adopted?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x15",
+          "options": [
+            "Yamuna",
+            "Ganga",
+            "Narmada",
+            "Godavari"
+          ],
+          "text": "Which river flows through Delhi?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x16",
+          "options": [
+            "Aravalli Range",
+            "Himalayas",
+            "Western Ghats",
+            "Vindhya Range"
+          ],
+          "text": "Which is the oldest mountain range in India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x17",
+          "options": [
+            "Sardar Vallabhbhai Patel",
+            "Bhagat Singh",
+            "Subhas Chandra Bose",
+            "Lal Bahadur Shastri"
+          ],
+          "text": "Who is known as the Iron Man of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x18",
+          "options": [
+            "Gujarat",
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Maharashtra"
+          ],
+          "text": "Which state has the longest coastline in India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x19",
+          "options": [
+            "Baisakhi",
+            "Pongal",
+            "Onam",
+            "Bihu"
+          ],
+          "text": "Which festival marks the harvest in Punjab?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x20",
+          "options": [
+            "Lakshadweep",
+            "Delhi",
+            "Chandigarh",
+            "Puducherry"
+          ],
+          "text": "Which is the smallest union territory in India by size?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x21",
+          "options": [
+            "Kathakali",
+            "Bharatanatyam",
+            "Kuchipudi",
+            "Odissi"
+          ],
+          "text": "Which of these is a classical dance of Kerala?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x22",
+          "options": [
+            "Yamuna",
+            "Chambal",
+            "Betwa",
+            "Gandak"
+          ],
+          "text": "Which is the longest tributary of the river Ganga?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x23",
+          "options": [
+            "Vikram Sarabhai",
+            "Homi Bhabha",
+            "A. P. J. Abdul Kalam",
+            "C. V. Raman"
+          ],
+          "text": "Which Indian scientist is known as the Father of the Indian Space Programme?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x24",
+          "options": [
+            "It is in Delhi",
+            "It was built by Shah Jahan",
+            "It is made of white marble",
+            "About 20,000 workers built it"
+          ],
+          "text": "Which of these is NOT true about the Taj Mahal?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x25",
+          "options": [
+            "1983",
+            "1975",
+            "2011",
+            "1996"
+          ],
+          "text": "In which year did India win its first Cricket World Cup?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x26",
+          "options": [
+            "Punjab",
+            "Haryana",
+            "Gujarat",
+            "Rajasthan"
+          ],
+          "text": "Which state is known as the Land of Five Rivers?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x27",
+          "options": [
+            "Varanasi",
+            "Bhopal",
+            "Jaipur",
+            "Nagpur"
+          ],
+          "text": "Which of these cities is on the banks of the river Ganga?"
         }
       ]
     },
@@ -1621,6 +3441,266 @@
             "Draupadi Murmu"
           ],
           "text": "Who was the first woman President of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x8",
+          "options": [
+            "Mother Teresa",
+            "Sarojini Naidu",
+            "Indira Gandhi",
+            "Lata Mangeshkar"
+          ],
+          "text": "Who was the first Indian woman to win a Nobel Prize?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x9",
+          "options": [
+            "Article 17",
+            "Article 19",
+            "Article 21",
+            "Article 32"
+          ],
+          "text": "Which article of the Indian Constitution abolishes untouchability?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x10",
+          "options": [
+            "1757",
+            "1857",
+            "1764",
+            "1747"
+          ],
+          "text": "In which year was the Battle of Plassey fought?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x11",
+          "options": [
+            "Uttar Pradesh",
+            "Maharashtra",
+            "West Bengal",
+            "Bihar"
+          ],
+          "text": "Which state has the largest number of Lok Sabha seats?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x12",
+          "options": [
+            "5 years",
+            "3 years",
+            "7 years",
+            "10 years"
+          ],
+          "text": "The Quit India Movement started in 1942. How many years before independence did it start?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x13",
+          "options": [
+            "W. C. Bonnerjee",
+            "Dadabhai Naoroji",
+            "A. O. Hume",
+            "Gopal Krishna Gokhale"
+          ],
+          "text": "Who was the first President of the Indian National Congress?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x14",
+          "options": [
+            "Right to Property",
+            "Right to Equality",
+            "Right to Freedom",
+            "Right to Education"
+          ],
+          "text": "Which of these is NOT a fundamental right in India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x15",
+          "options": [
+            "Zoji La",
+            "Rohtang Pass",
+            "Nathu La",
+            "Shipki La"
+          ],
+          "text": "Which mountain pass connects the Kashmir Valley with Ladakh?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x16",
+          "options": [
+            "Abhinav Bindra",
+            "Milkha Singh",
+            "P. V. Sindhu",
+            "Neeraj Chopra"
+          ],
+          "text": "Who won India's first individual Olympic gold medal?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x17",
+          "options": [
+            "Harappan civilisation",
+            "Mauryan Empire",
+            "Gupta Empire",
+            "Mughal Empire"
+          ],
+          "text": "Which is older — the Harappan civilisation or the Mauryan Empire?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x18",
+          "options": [
+            "Bengaluru",
+            "Chennai",
+            "Hyderabad",
+            "New Delhi"
+          ],
+          "text": "Which city is the headquarters of ISRO?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x19",
+          "options": [
+            "1919",
+            "1921",
+            "1917",
+            "1942"
+          ],
+          "text": "In which year did the Jallianwala Bagh massacre take place?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x20",
+          "options": [
+            "Narmada",
+            "Godavari",
+            "Krishna",
+            "Kaveri"
+          ],
+          "text": "Which of these rivers flows into the Arabian Sea?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x21",
+          "options": [
+            "R. K. Narayan",
+            "Ruskin Bond",
+            "Salman Rushdie",
+            "Arundhati Roy"
+          ],
+          "text": "Who is the author of 'Malgudi Days'?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x22",
+          "options": [
+            "The wheel is red in colour",
+            "The wheel has 24 spokes",
+            "Saffron is the top band",
+            "The flag is called the Tiranga"
+          ],
+          "text": "Which of these is NOT true about the Indian national flag?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x23",
+          "options": [
+            "Andhra Pradesh",
+            "Tamil Nadu",
+            "Maharashtra",
+            "Karnataka"
+          ],
+          "text": "Which Indian state was the first to be formed on a linguistic basis?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x24",
+          "options": [
+            "Hubballi Junction",
+            "Gorakhpur",
+            "Kollam",
+            "Kharagpur"
+          ],
+          "text": "Which is the longest railway platform in India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x25",
+          "options": [
+            "Rakesh Sharma",
+            "Kalpana Chawla",
+            "Sunita Williams",
+            "Vikram Sarabhai"
+          ],
+          "text": "Who was the first Indian to travel to space?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x26",
+          "options": [
+            "Dras",
+            "Leh",
+            "Shimla",
+            "Srinagar"
+          ],
+          "text": "Which is the coldest inhabited place in India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x27",
+          "options": [
+            "Third Battle of Panipat",
+            "Battle of Plassey",
+            "Battle of Buxar",
+            "First Battle of Panipat"
+          ],
+          "text": "Which of these battles was fought in 1761?"
         }
       ]
     },
@@ -1824,6 +3904,266 @@
             "Modak"
           ],
           "text": "Which of these is a famous sweet of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x8",
+          "options": [
+            "Gloriosa lily",
+            "Lotus",
+            "Jasmine",
+            "Rose"
+          ],
+          "text": "Which is the state flower of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x9",
+          "options": [
+            "Palm tree",
+            "Banyan tree",
+            "Mango tree",
+            "Coconut tree"
+          ],
+          "text": "Which is the state tree of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x10",
+          "options": [
+            "Banana",
+            "Apple",
+            "Grapes",
+            "Orange"
+          ],
+          "text": "Which fruit is Tamil Nadu famous for?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x11",
+          "options": [
+            "Kanchipuram",
+            "Varanasi",
+            "Jaipur",
+            "Ujjain"
+          ],
+          "text": "Which of these is a famous temple city in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x12",
+          "options": [
+            "Jigarthanda",
+            "Rasgulla",
+            "Ladoo",
+            "Barfi"
+          ],
+          "text": "Which of these is a famous drink of Madurai?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x13",
+          "options": [
+            "Bay of Bengal",
+            "Arabian Sea",
+            "Indian Ocean",
+            "Red Sea"
+          ],
+          "text": "Which sea is to the east of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x14",
+          "options": [
+            "Pizza",
+            "Idli",
+            "Vada",
+            "Pongal"
+          ],
+          "text": "Which of these is NOT a food of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x15",
+          "options": [
+            "Tamil",
+            "Hindi",
+            "Telugu",
+            "Malayalam"
+          ],
+          "text": "The letters அ, ஆ, இ belong to which language?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x16",
+          "options": [
+            "Doddabetta",
+            "Kodaikanal",
+            "Ooty",
+            "Yercaud"
+          ],
+          "text": "Which is the highest peak in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x17",
+          "options": [
+            "Thursday",
+            "Wednesday",
+            "Friday",
+            "Sunday"
+          ],
+          "text": "Pongal is celebrated for four days. If it starts on a Monday, on which day does it end?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x18",
+          "options": [
+            "Courtallam",
+            "Jog Falls",
+            "Chitrakote",
+            "Dudhsagar"
+          ],
+          "text": "Which of these is a famous waterfall in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x19",
+          "options": [
+            "Therukoothu",
+            "Kathak",
+            "Bhangra",
+            "Garba"
+          ],
+          "text": "Which of these is a traditional street theatre of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x20",
+          "options": [
+            "Karthigai Deepam",
+            "Holi",
+            "Eid",
+            "Christmas"
+          ],
+          "text": "Which Tamil festival is known as the festival of lights?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x21",
+          "options": [
+            "Kanchipuram",
+            "Madurai",
+            "Trichy",
+            "Salem"
+          ],
+          "text": "Which city in Tamil Nadu is famous for its silk sarees?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x22",
+          "options": [
+            "Avvaiyar",
+            "Bharathiyar",
+            "Kambar",
+            "Thiruvalluvar"
+          ],
+          "text": "Which Tamil poet wrote poems for children?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x23",
+          "options": [
+            "Tamil Thai Vazhthu",
+            "Jana Gana Mana",
+            "Vande Mataram",
+            "Sare Jahan Se Achha"
+          ],
+          "text": "What is the state song of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x24",
+          "options": [
+            "Lion",
+            "Penguin",
+            "Polar Bear",
+            "Panda"
+          ],
+          "text": "Which of these animals can you see at the Vandalur Zoo near Chennai?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x25",
+          "options": [
+            "Yercaud",
+            "Chennai",
+            "Madurai",
+            "Trichy"
+          ],
+          "text": "Which of these is a hill station in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x26",
+          "options": [
+            "Rice",
+            "Wheat",
+            "Corn",
+            "Barley"
+          ],
+          "text": "What is the main crop farmers grow in the Kaveri delta?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x27",
+          "options": [
+            "Chithirai",
+            "January",
+            "March",
+            "December"
+          ],
+          "text": "Which of these is a Tamil month?"
         }
       ]
     },
@@ -2027,6 +4367,266 @@
             "Madurai"
           ],
           "text": "Which of these is NOT a district of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x8",
+          "options": [
+            "Thanjavur",
+            "Wayanad",
+            "Ernakulam",
+            "Mysuru"
+          ],
+          "text": "Which of these is a district of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x9",
+          "options": [
+            "Mettur Dam",
+            "Bhakra Dam",
+            "Hirakud Dam",
+            "Tehri Dam"
+          ],
+          "text": "Which dam is built across the river Kaveri in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x10",
+          "options": [
+            "Janaki Ramachandran",
+            "J. Jayalalithaa",
+            "Kanimozhi",
+            "Sasikala"
+          ],
+          "text": "Who was the first woman Chief Minister of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x11",
+          "options": [
+            "Chennai",
+            "Kanchipuram",
+            "Madurai",
+            "Coimbatore"
+          ],
+          "text": "Which is the smallest district in Tamil Nadu by area?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x12",
+          "options": [
+            "Tuticorin",
+            "Kochi",
+            "Mumbai",
+            "Visakhapatnam"
+          ],
+          "text": "Which of these is a famous port in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x13",
+          "options": [
+            "4 days",
+            "2 days",
+            "8 days",
+            "10 days"
+          ],
+          "text": "The Kaveri is about 800 km long. If a boat travels 200 km a day, how many days would it take to travel the whole river?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x14",
+          "options": [
+            "Narasimhavarman II",
+            "Raja Raja Chola",
+            "Rajendra Chola",
+            "Karikala Chola"
+          ],
+          "text": "Which king built the Shore Temple at Mamallapuram?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x15",
+          "options": [
+            "Kuchipudi",
+            "Bharatanatyam",
+            "Sadir",
+            "Karagattam"
+          ],
+          "text": "Which of these is NOT a dance of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x16",
+          "options": [
+            "Palar",
+            "Vaigai",
+            "Thamirabarani",
+            "Vellar"
+          ],
+          "text": "Which is longer — the Vaigai or the Palar?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x17",
+          "options": [
+            "Jackfruit",
+            "Mango",
+            "Banana",
+            "Coconut"
+          ],
+          "text": "Which is the state fruit of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x18",
+          "options": [
+            "Chennai",
+            "Coimbatore",
+            "Madurai",
+            "Trichy"
+          ],
+          "text": "Which city is called the Detroit of Asia?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x19",
+          "options": [
+            "Dindigul",
+            "Madurai",
+            "Salem",
+            "Erode"
+          ],
+          "text": "Which Tamil Nadu town is famous for its locks?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x20",
+          "options": [
+            "Mudumalai",
+            "Kaziranga",
+            "Gir",
+            "Ranthambore"
+          ],
+          "text": "Which of these is a wildlife sanctuary in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x21",
+          "options": [
+            "It is a folk dance of Punjab",
+            "It comes from Tamil Nadu",
+            "Dancers use hand movements called mudras",
+            "It began in temples"
+          ],
+          "text": "Which of these is NOT true about Bharatanatyam?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x22",
+          "options": [
+            "Kallanai Dam",
+            "Mettur Dam",
+            "Bhavani Sagar Dam",
+            "Vaigai Dam"
+          ],
+          "text": "Which dam is called the Grand Anicut?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x23",
+          "options": [
+            "Kalki Krishnamurthy",
+            "Subramania Bharathiyar",
+            "Kambar",
+            "Akilan"
+          ],
+          "text": "Who wrote 'Ponniyin Selvan'?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x24",
+          "options": [
+            "Trichy",
+            "Madurai",
+            "Salem",
+            "Vellore"
+          ],
+          "text": "Which of these cities is on the river Kaveri?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x25",
+          "options": [
+            "Madras",
+            "Madurai",
+            "Tanjore",
+            "Trichinopoly"
+          ],
+          "text": "What was the old name of Chennai?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x26",
+          "options": [
+            "Pulicat Lake",
+            "Veeranam Lake",
+            "Chembarambakkam Lake",
+            "Kodaikanal Lake"
+          ],
+          "text": "Which is the biggest lake in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x27",
+          "options": [
+            "Swamimalai",
+            "Kumbakonam",
+            "Thanjavur",
+            "Madurai"
+          ],
+          "text": "Which Tamil Nadu town is famous for its bronze statues?"
         }
       ]
     },
@@ -2230,9 +4830,269 @@
             "Avvaiyar"
           ],
           "text": "Which Tamil poet wrote the epic Silappatikaram?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x8",
+          "options": [
+            "Seethalai Saathanaar",
+            "Ilango Adigal",
+            "Kambar",
+            "Thiruvalluvar"
+          ],
+          "text": "Who wrote the Tamil epic Manimekalai?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x9",
+          "options": [
+            "Rajendra Chola I",
+            "Raja Raja Chola I",
+            "Karikala Chola",
+            "Kulothunga Chola"
+          ],
+          "text": "Which Chola king completed the conquest of Sri Lanka?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x10",
+          "options": [
+            "1925",
+            "1916",
+            "1944",
+            "1935"
+          ],
+          "text": "In which year did Periyar start the Self-Respect Movement?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x11",
+          "options": [
+            "Civaka Cintamani",
+            "Ramayanam",
+            "Mahabharatam",
+            "Bhagavad Gita"
+          ],
+          "text": "Which of these is one of the Five Great Tamil Epics?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x12",
+          "options": [
+            "10",
+            "13",
+            "20",
+            "33"
+          ],
+          "text": "The Thirukkural has 1,330 couplets in 133 chapters. How many couplets are there in each chapter?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x13",
+          "options": [
+            "Maraimalai Adigal",
+            "Subramania Bharathiyar",
+            "U. V. Swaminatha Iyer",
+            "G. Subramania Iyer"
+          ],
+          "text": "Who is known as the Father of the Tamil Renaissance?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x14",
+          "options": [
+            "It is in Madurai",
+            "It was built by Raja Raja Chola I",
+            "It is made of granite",
+            "It is a UNESCO World Heritage Site"
+          ],
+          "text": "Which of these is NOT true about the Brihadeeswara Temple?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x15",
+          "options": [
+            "Pallava",
+            "Chola",
+            "Pandya",
+            "Chera"
+          ],
+          "text": "Which dynasty built the Shore Temple at Mamallapuram?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x16",
+          "options": [
+            "Sangam literature",
+            "Thirukkural",
+            "Silappatikaram",
+            "Kamba Ramayanam"
+          ],
+          "text": "Which is older — Sangam literature or the Thirukkural?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x17",
+          "options": [
+            "M. Karunanidhi",
+            "M. G. Ramachandran",
+            "C. N. Annadurai",
+            "K. Kamaraj"
+          ],
+          "text": "Which Tamil Nadu leader is known as 'Kalaignar'?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x18",
+          "options": [
+            "1969",
+            "1956",
+            "1947",
+            "1971"
+          ],
+          "text": "In which year did Madras State get the name Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x19",
+          "options": [
+            "Puhar",
+            "Chennai",
+            "Coimbatore",
+            "Madurai"
+          ],
+          "text": "Which of these was a famous port city in Sangam times?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x20",
+          "options": [
+            "G. U. Pope",
+            "Robert Caldwell",
+            "Max Muller",
+            "William Jones"
+          ],
+          "text": "Who translated the Thirukkural into English first?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x21",
+          "options": [
+            "Karikala Chola",
+            "Raja Raja Chola",
+            "Rajendra Chola",
+            "Kulothunga Chola"
+          ],
+          "text": "Which Tamil king built the Kallanai Dam?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x22",
+          "options": [
+            "Kamba Ramayanam",
+            "Purananuru",
+            "Akananuru",
+            "Kurunthogai"
+          ],
+          "text": "Which of these is NOT a work of Sangam literature?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x23",
+          "options": [
+            "Thaipusam",
+            "Pongal",
+            "Karthigai Deepam",
+            "Deepavali"
+          ],
+          "text": "Which festival celebrates Lord Murugan receiving the divine spear?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x24",
+          "options": [
+            "Kallanai Dam",
+            "Mettur Dam",
+            "Hirakud Dam",
+            "Bhakra Dam"
+          ],
+          "text": "Which is the oldest dam in the world still in use?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x25",
+          "options": [
+            "Desigavinayagam Pillai",
+            "Bharathidasan",
+            "Namakkal Kavignar",
+            "Kannadasan"
+          ],
+          "text": "Which Tamil poet is known as 'Kavimani'?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x26",
+          "options": [
+            "Madurai",
+            "Kanchipuram",
+            "Thanjavur",
+            "Gangaikonda Cholapuram"
+          ],
+          "text": "Which of these was a capital of the Pandya dynasty?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x27",
+          "options": [
+            "Manonmaniam Sundaram Pillai",
+            "Subramania Bharathiyar",
+            "Bharathidasan",
+            "Kannadasan"
+          ],
+          "text": "Who composed the Tamil Thai Vazhthu?"
         }
       ]
     }
   ],
-  "version": 1
+  "version": 2
 }
