@@ -4,6 +4,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="color-scheme" content="light" />
+    <link rel="manifest" href="manifest.json" />
+    <meta name="theme-color" content="#FF6B6B" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Kids GK" />
+    <link rel="apple-touch-icon" href="icon-192.png" />
     <link rel="icon" href="data:," />
     <title>Wonder Kids GK — Learn &amp; Quiz Fun</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -1664,6 +1671,9 @@
           requestAnimationFrame(tiltLoop);
         })();
       })();
+    </script>
+    <script>
+      if ('serviceWorker' in navigator) { navigator.serviceWorker.register('./sw.js').catch(function(){}); }
     </script>
   </body>
 </html>
