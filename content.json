@@ -61,6 +61,246 @@
           ],
           "front": "Which sea animal has three hearts?",
           "id": "amazing-animals-x2"
+        },
+        {
+          "id": "giraffe",
+          "front": "Which is the tallest land animal?",
+          "answer": "The Giraffe!",
+          "facts": [
+            "A giraffe's long neck helps it eat leaves from the tops of tall trees.",
+            "A giraffe has the same number of neck bones as you — seven!"
+          ],
+          "didYouKnow": "A giraffe's tongue is dark blue and can be about half a metre long!"
+        },
+        {
+          "id": "tiger",
+          "front": "Which big cat has black stripes on orange fur?",
+          "answer": "The Tiger!",
+          "facts": [
+            "A tiger is the biggest cat in the world.",
+            "No two tigers have the same stripes — just like your fingerprints."
+          ],
+          "didYouKnow": "Tigers love water and are very good swimmers!"
+        },
+        {
+          "id": "kangaroo",
+          "front": "Which animal carries its baby in a pouch?",
+          "answer": "The Kangaroo!",
+          "facts": [
+            "A baby kangaroo is called a joey and lives in its mother's pouch.",
+            "Kangaroos hop on two strong back legs and use their tail to balance."
+          ],
+          "didYouKnow": "A kangaroo cannot walk backwards easily!"
+        },
+        {
+          "id": "koala",
+          "front": "Which animal sleeps in a tree and eats eucalyptus leaves?",
+          "answer": "The Koala!",
+          "facts": [
+            "Koalas eat eucalyptus leaves and almost nothing else.",
+            "A koala is not a bear at all — it is a marsupial, like a kangaroo."
+          ],
+          "didYouKnow": "A koala can sleep for up to 20 hours a day!"
+        },
+        {
+          "id": "giant-panda",
+          "front": "Which black and white animal eats bamboo all day?",
+          "answer": "The Giant Panda!",
+          "facts": [
+            "Giant pandas live in the mountains of China.",
+            "They eat bamboo for most of the day — it is almost all they eat."
+          ],
+          "didYouKnow": "A giant panda has an extra thumb-like bone that helps it hold bamboo!"
+        },
+        {
+          "id": "polar-bear",
+          "front": "Which white bear lives in the snowy Arctic?",
+          "answer": "The Polar Bear!",
+          "facts": [
+            "Polar bears live in the cold Arctic, around the North Pole.",
+            "They are wonderful swimmers and can swim for many kilometres."
+          ],
+          "didYouKnow": "A polar bear's fur looks white, but each hair is actually see-through!"
+        },
+        {
+          "id": "zebra",
+          "front": "Which animal wears black and white stripes?",
+          "answer": "The Zebra!",
+          "facts": [
+            "Zebras live in Africa in big groups called herds.",
+            "A zebra's stripes help confuse lions that try to hunt it."
+          ],
+          "didYouKnow": "No two zebras have the same stripe pattern!"
+        },
+        {
+          "id": "gorilla",
+          "front": "Which is the biggest ape in the world?",
+          "answer": "The Gorilla!",
+          "facts": [
+            "Gorillas live in the forests of Africa.",
+            "They mostly eat plants, leaves and fruit."
+          ],
+          "didYouKnow": "Male gorillas beat their chests to show how strong they are!"
+        },
+        {
+          "id": "dolphin",
+          "front": "Which sea animal is very clever and loves to play?",
+          "answer": "The Dolphin!",
+          "facts": [
+            "Dolphins live in groups called pods and talk with clicks and whistles.",
+            "They are mammals, so they breathe air through a hole on top of their head."
+          ],
+          "didYouKnow": "A dolphin can sleep with one eye open and half of its brain awake!"
+        },
+        {
+          "id": "blue-whale",
+          "front": "Which is the biggest animal that has ever lived?",
+          "answer": "The Blue Whale!",
+          "facts": [
+            "A blue whale can grow longer than 30 metres — longer than three buses!",
+            "It eats tiny sea animals called krill, even though it is so huge."
+          ],
+          "didYouKnow": "A blue whale's heart is as big as a small car!"
+        },
+        {
+          "id": "shark",
+          "front": "Which sea animal has rows of sharp teeth?",
+          "answer": "The Shark!",
+          "facts": [
+            "Sharks have a wonderful sense of smell and can smell a drop of blood in the sea.",
+            "If a shark loses a tooth, a new one grows in its place."
+          ],
+          "didYouKnow": "A shark can grow thousands of teeth in its whole life!"
+        },
+        {
+          "id": "owl",
+          "front": "Which bird hunts at night with big eyes?",
+          "answer": "The Owl!",
+          "facts": [
+            "Owls hunt at night and have very big eyes to see in the dark.",
+            "They fly almost silently, so their prey cannot hear them coming."
+          ],
+          "didYouKnow": "An owl can turn its head almost all the way around!"
+        },
+        {
+          "id": "eagle",
+          "front": "Which bird has the sharpest eyes in the sky?",
+          "answer": "The Eagle!",
+          "facts": [
+            "An eagle can spot a small animal from very high in the sky.",
+            "Its strong wings help it soar for hours without flapping much."
+          ],
+          "didYouKnow": "The bald eagle is the national bird of the United States of America!"
+        },
+        {
+          "id": "hummingbird",
+          "front": "Which tiny bird can fly backwards?",
+          "answer": "The Hummingbird!",
+          "facts": [
+            "Hummingbirds flap their wings many times every second.",
+            "They drink sweet nectar from flowers with their long beaks."
+          ],
+          "didYouKnow": "A hummingbird is so small that some weigh less than a coin!"
+        },
+        {
+          "id": "flamingo",
+          "front": "Which pink bird stands on one leg?",
+          "answer": "The Flamingo!",
+          "facts": [
+            "Flamingos often stand on one leg while they rest.",
+            "They eat in the water with their heads held upside down."
+          ],
+          "didYouKnow": "A flamingo gets its pink colour from the food it eats — baby flamingos are born grey!"
+        },
+        {
+          "id": "chameleon",
+          "front": "Which lizard can change its colour?",
+          "answer": "The Chameleon!",
+          "facts": [
+            "A chameleon can change its colour to hide or to show how it feels.",
+            "Its two eyes can move in different directions at the same time."
+          ],
+          "didYouKnow": "A chameleon's tongue is very long and sticky — it shoots out to catch insects!"
+        },
+        {
+          "id": "snake",
+          "front": "Which animal has no legs but moves very fast?",
+          "answer": "The Snake!",
+          "facts": [
+            "A snake smells with its forked tongue, which picks up tiny bits from the air.",
+            "Snakes shed their skin as they grow bigger."
+          ],
+          "didYouKnow": "Some snakes can go for months without eating!"
+        },
+        {
+          "id": "frog",
+          "front": "Which animal starts life as a tadpole?",
+          "answer": "The Frog!",
+          "facts": [
+            "A baby frog is called a tadpole and lives in water.",
+            "Frogs can live both in water and on land."
+          ],
+          "didYouKnow": "Some frogs can jump 20 times their own body length!"
+        },
+        {
+          "id": "tortoise",
+          "front": "Which animal carries its home on its back?",
+          "answer": "The Tortoise!",
+          "facts": [
+            "A tortoise carries a hard shell on its back for safety.",
+            "It moves slowly but can live for a very, very long time."
+          ],
+          "didYouKnow": "Some giant tortoises live for more than 100 years!"
+        },
+        {
+          "id": "camel",
+          "front": "Which desert animal has a hump on its back?",
+          "answer": "The Camel!",
+          "facts": [
+            "A camel's hump stores fat, which gives it energy in the desert.",
+            "Its long eyelashes keep sand out of its eyes."
+          ],
+          "didYouKnow": "A camel can go for many days without drinking water!"
+        },
+        {
+          "id": "horse",
+          "front": "Which animal can sleep standing up?",
+          "answer": "The Horse!",
+          "facts": [
+            "Horses can sleep standing up, and they can also lie down to rest.",
+            "They eat grass and hay, and love to run fast."
+          ],
+          "didYouKnow": "Horses have the biggest eyes of any land animal!"
+        },
+        {
+          "id": "dog",
+          "front": "Which animal is known as man's best friend?",
+          "answer": "The Dog!",
+          "facts": [
+            "Dogs have a sense of smell that is far better than ours.",
+            "They wag their tails when they are happy or excited."
+          ],
+          "didYouKnow": "A dog's nose print is unique — just like your fingerprint!"
+        },
+        {
+          "id": "cat",
+          "front": "Which pet purrs when it is happy?",
+          "answer": "The Cat!",
+          "facts": [
+            "Cats purr when they are happy and relaxed.",
+            "They can see very well in the dark."
+          ],
+          "didYouKnow": "A cat's whiskers help it feel its way in the dark and judge small spaces!"
+        },
+        {
+          "id": "bat",
+          "front": "Which is the only mammal that can truly fly?",
+          "answer": "The Bat!",
+          "facts": [
+            "Bats sleep hanging upside down during the day.",
+            "They use echoes to find food in the dark — this is called echolocation."
+          ],
+          "didYouKnow": "There are more than 1,400 kinds of bats in the world!"
         }
       ],
       "color": "#FF6B6B",
@@ -524,6 +764,246 @@
           ],
           "front": "Where do astronauts live in space?",
           "id": "space-adventure-x2"
+        },
+        {
+          "id": "venus",
+          "front": "Which is the hottest planet in our solar system?",
+          "answer": "Venus!",
+          "facts": [
+            "Venus is covered in thick clouds that trap heat.",
+            "It spins backwards, unlike most other planets."
+          ],
+          "didYouKnow": "Venus is so bright that people call it the Morning Star!"
+        },
+        {
+          "id": "mercury",
+          "front": "Which is the smallest planet in our solar system?",
+          "answer": "Mercury!",
+          "facts": [
+            "Mercury is the closest planet to the Sun.",
+            "A year on Mercury lasts only 88 days."
+          ],
+          "didYouKnow": "Mercury is very hot in the daytime and freezing cold at night!"
+        },
+        {
+          "id": "earth",
+          "front": "Which is the only planet we know that has life?",
+          "answer": "The Earth!",
+          "facts": [
+            "About 70 percent of Earth is covered by water.",
+            "Earth has only one Moon."
+          ],
+          "didYouKnow": "Earth is the only planet that is not named after a god!"
+        },
+        {
+          "id": "neptune",
+          "front": "Which planet is the farthest from the Sun?",
+          "answer": "Neptune!",
+          "facts": [
+            "Neptune is a deep blue planet, and its colour comes from a gas called methane.",
+            "It takes Neptune about 165 years to go around the Sun once."
+          ],
+          "didYouKnow": "Neptune has the fastest winds of any planet!"
+        },
+        {
+          "id": "uranus",
+          "front": "Which planet spins on its side like a rolling ball?",
+          "answer": "Uranus!",
+          "facts": [
+            "Uranus spins on its side, unlike other planets.",
+            "Its blue-green colour comes from a gas called methane."
+          ],
+          "didYouKnow": "Uranus is one of the coldest planets in the solar system!"
+        },
+        {
+          "id": "neil-armstrong",
+          "front": "Who was the first person to walk on the Moon?",
+          "answer": "Neil Armstrong!",
+          "facts": [
+            "Neil Armstrong walked on the Moon in 1969.",
+            "He travelled there in a spacecraft called Apollo 11."
+          ],
+          "didYouKnow": "His first words on the Moon were, 'That's one small step for man, one giant leap for mankind!'"
+        },
+        {
+          "id": "rocket",
+          "front": "What takes astronauts up into space?",
+          "answer": "A Rocket!",
+          "facts": [
+            "A rocket burns fuel to push itself up into the sky.",
+            "Rockets carry astronauts and satellites into space."
+          ],
+          "didYouKnow": "A rocket needs huge power to escape the pull of Earth's gravity!"
+        },
+        {
+          "id": "comet",
+          "front": "What icy visitor grows a glowing tail near the Sun?",
+          "answer": "A Comet!",
+          "facts": [
+            "A comet is a ball of ice and dust that travels around the Sun.",
+            "When it comes near the Sun, it grows a bright, glowing tail."
+          ],
+          "didYouKnow": "Halley's Comet visits our skies about every 75 years!"
+        },
+        {
+          "id": "asteroid",
+          "front": "What are the rocky pieces that float between Mars and Jupiter?",
+          "answer": "Asteroids!",
+          "facts": [
+            "Asteroids are rocky pieces left over from when the planets were formed.",
+            "Most of them live in a belt between Mars and Jupiter."
+          ],
+          "didYouKnow": "Some asteroids are as big as mountains!"
+        },
+        {
+          "id": "meteor",
+          "front": "What do we call a 'shooting star'?",
+          "answer": "A Meteor!",
+          "facts": [
+            "A meteor is a space rock that burns brightly as it falls through the sky.",
+            "If a piece lands on Earth, we call it a meteorite."
+          ],
+          "didYouKnow": "Most meteors burn up completely before they reach the ground!"
+        },
+        {
+          "id": "star",
+          "front": "What is a star made of?",
+          "answer": "A Giant Ball of Hot Gas!",
+          "facts": [
+            "A star is a giant ball of hot gas that gives out light and heat.",
+            "The Sun is a star — it is just the closest one to us."
+          ],
+          "didYouKnow": "Stars look like they twinkle because of the air moving around Earth!"
+        },
+        {
+          "id": "milky-way",
+          "front": "What is the name of our galaxy?",
+          "answer": "The Milky Way!",
+          "facts": [
+            "Our galaxy is called the Milky Way.",
+            "It holds billions of stars, and our Sun is one of them."
+          ],
+          "didYouKnow": "On a dark night, the Milky Way looks like a milky band of light across the sky!"
+        },
+        {
+          "id": "black-hole",
+          "front": "What has gravity so strong that even light cannot escape?",
+          "answer": "A Black Hole!",
+          "facts": [
+            "A black hole is made when a very big star dies.",
+            "Its gravity is so strong that not even light can escape from it."
+          ],
+          "didYouKnow": "We cannot see a black hole directly — scientists find it by watching the stars around it!"
+        },
+        {
+          "id": "astronaut",
+          "front": "Who travels and works in space?",
+          "answer": "An Astronaut!",
+          "facts": [
+            "Astronauts wear special suits that give them air to breathe.",
+            "In space they float, because there is almost no gravity."
+          ],
+          "didYouKnow": "Astronauts eat their food from special packets in space!"
+        },
+        {
+          "id": "satellite",
+          "front": "What helps our TVs, maps and weather forecasts from space?",
+          "answer": "A Satellite!",
+          "facts": [
+            "A satellite is a machine that goes around Earth in space.",
+            "Satellites help us with TV, maps, phone calls and weather forecasts."
+          ],
+          "didYouKnow": "The Moon is Earth's natural satellite!"
+        },
+        {
+          "id": "telescope",
+          "front": "What do we use to see faraway stars and planets?",
+          "answer": "A Telescope!",
+          "facts": [
+            "A telescope makes faraway things in the sky look closer.",
+            "The Hubble telescope floats in space and takes wonderful photos."
+          ],
+          "didYouKnow": "More than 400 years ago, Galileo used a telescope to spot four moons of Jupiter!"
+        },
+        {
+          "id": "solar-eclipse",
+          "front": "What happens when the Moon covers the Sun?",
+          "answer": "A Solar Eclipse!",
+          "facts": [
+            "During a solar eclipse, the Moon moves between Earth and the Sun.",
+            "The sky can go dark in the middle of the day."
+          ],
+          "didYouKnow": "Never look at the Sun directly, even during an eclipse — it can hurt your eyes!"
+        },
+        {
+          "id": "lunar-eclipse",
+          "front": "What happens when Earth's shadow falls on the Moon?",
+          "answer": "A Lunar Eclipse!",
+          "facts": [
+            "During a lunar eclipse, Earth blocks sunlight from reaching the Moon.",
+            "The Moon can turn a deep red colour — people call it a blood moon."
+          ],
+          "didYouKnow": "A lunar eclipse can last for hours, and it is safe to watch with your eyes!"
+        },
+        {
+          "id": "solar-system",
+          "front": "How many planets go around the Sun?",
+          "answer": "Eight Planets!",
+          "facts": [
+            "Eight planets travel around the Sun in our solar system.",
+            "Earth is the third planet from the Sun."
+          ],
+          "didYouKnow": "The Sun holds more than 99 percent of all the stuff in our solar system!"
+        },
+        {
+          "id": "constellation",
+          "front": "What do we call a group of stars that makes a picture?",
+          "answer": "A Constellation!",
+          "facts": [
+            "A constellation is a group of stars that looks like a picture in the sky.",
+            "Long ago, sailors used constellations to find their way at sea."
+          ],
+          "didYouKnow": "The Big Dipper looks like a big spoon in the sky!"
+        },
+        {
+          "id": "mars-rover",
+          "front": "What robot drives around on Mars?",
+          "answer": "A Mars Rover!",
+          "facts": [
+            "A Mars rover is a robot that drives on the surface of Mars.",
+            "It takes photos and sends them back to Earth."
+          ],
+          "didYouKnow": "The rover Perseverance landed on Mars in 2021 and is still exploring!"
+        },
+        {
+          "id": "pluto",
+          "front": "Which tiny world used to be called a planet?",
+          "answer": "Pluto!",
+          "facts": [
+            "Pluto used to be called the ninth planet.",
+            "Now scientists call it a dwarf planet."
+          ],
+          "didYouKnow": "Pluto is even smaller than our Moon!"
+        },
+        {
+          "id": "moon-phases",
+          "front": "Why does the Moon change shape in the sky?",
+          "answer": "The Moon's Phases!",
+          "facts": [
+            "The Moon looks different as it moves around Earth — crescent, half and full.",
+            "A full moon is round and bright in the night sky."
+          ],
+          "didYouKnow": "It takes the Moon about a month to go through all its shapes!"
+        },
+        {
+          "id": "day-and-night",
+          "front": "Why do we have day and night?",
+          "answer": "Because Earth Spins!",
+          "facts": [
+            "Earth spins around once every day, in 24 hours.",
+            "The side facing the Sun has day, while the other side has night."
+          ],
+          "didYouKnow": "Earth spins so fast that places on the equator move at more than 1,600 km every hour!"
         }
       ],
       "color": "#7B61FF",
@@ -987,6 +1467,246 @@
           ],
           "front": "Which is the largest hot desert in the world?",
           "id": "our-wonderful-world-x2"
+        },
+        {
+          "id": "mount-everest",
+          "front": "Which is the tallest mountain in the world?",
+          "answer": "Mount Everest!",
+          "facts": [
+            "Mount Everest is 8,849 metres tall.",
+            "It stands in the Himalayas, on the border of Nepal and China."
+          ],
+          "didYouKnow": "Mount Everest grows a little taller every year!"
+        },
+        {
+          "id": "taj-mahal",
+          "front": "Which white marble wonder stands in Agra, India?",
+          "answer": "The Taj Mahal!",
+          "facts": [
+            "The Taj Mahal is made of shining white marble.",
+            "Emperor Shah Jahan built it for his wife, Mumtaz Mahal."
+          ],
+          "didYouKnow": "It took about 20 years to build the Taj Mahal!"
+        },
+        {
+          "id": "amazon-rainforest",
+          "front": "Which is the largest rainforest in the world?",
+          "answer": "The Amazon Rainforest!",
+          "facts": [
+            "The Amazon is the largest rainforest in the world.",
+            "It is in South America and is home to more kinds of plants and animals than almost anywhere else on Earth."
+          ],
+          "didYouKnow": "The Amazon is often called the 'lungs of the Earth' because it makes so much oxygen!"
+        },
+        {
+          "id": "niagara-falls",
+          "front": "Which famous waterfalls are between the USA and Canada?",
+          "answer": "Niagara Falls!",
+          "facts": [
+            "Niagara Falls is made of three waterfalls.",
+            "The water falls from about 50 metres high."
+          ],
+          "didYouKnow": "Millions of people visit Niagara Falls every year!"
+        },
+        {
+          "id": "big-ben",
+          "front": "What is the name of the great bell in London?",
+          "answer": "Big Ben!",
+          "facts": [
+            "Big Ben is the great bell in a clock tower in London.",
+            "The tower stands beside the River Thames."
+          ],
+          "didYouKnow": "Big Ben has been ringing for more than 160 years!"
+        },
+        {
+          "id": "leaning-tower-pisa",
+          "front": "Which famous tower in Italy leans to one side?",
+          "answer": "The Leaning Tower of Pisa!",
+          "facts": [
+            "The Leaning Tower of Pisa is a bell tower in Italy.",
+            "It started to lean while it was being built, more than 800 years ago."
+          ],
+          "didYouKnow": "Builders tried to fix the lean, but the tower still leans today!"
+        },
+        {
+          "id": "sydney-opera-house",
+          "front": "Which famous building looks like white sails?",
+          "answer": "The Sydney Opera House!",
+          "facts": [
+            "The Sydney Opera House stands in Sydney, Australia.",
+            "Its roof looks like the sails of ships."
+          ],
+          "didYouKnow": "The Sydney Opera House opened in 1973!"
+        },
+        {
+          "id": "mount-fuji",
+          "front": "Which is the tallest mountain in Japan?",
+          "answer": "Mount Fuji!",
+          "facts": [
+            "Mount Fuji is the tallest mountain in Japan.",
+            "It is a volcano with snow on its top."
+          ],
+          "didYouKnow": "Mount Fuji is a symbol of Japan and appears in many paintings!"
+        },
+        {
+          "id": "grand-canyon",
+          "front": "Which huge canyon was carved by a river in the USA?",
+          "answer": "The Grand Canyon!",
+          "facts": [
+            "The Grand Canyon is in Arizona, in the United States.",
+            "The Colorado River carved it over millions of years."
+          ],
+          "didYouKnow": "The Grand Canyon is about 446 km long — longer than 4,000 football fields!"
+        },
+        {
+          "id": "northern-lights",
+          "front": "What are the colourful lights that dance in the northern sky?",
+          "answer": "The Northern Lights!",
+          "facts": [
+            "The Northern Lights are colourful lights in the night sky.",
+            "They are seen near the North Pole, in places like Norway and Iceland."
+          ],
+          "didYouKnow": "The lights are made by tiny bits from the Sun hitting the air around Earth!"
+        },
+        {
+          "id": "great-barrier-reef",
+          "front": "Which is the largest coral reef in the world?",
+          "answer": "The Great Barrier Reef!",
+          "facts": [
+            "The Great Barrier Reef lies in the sea near Australia.",
+            "It is home to many colourful fish, turtles and corals."
+          ],
+          "didYouKnow": "The Great Barrier Reef is so big that it can be seen from space!"
+        },
+        {
+          "id": "antarctica",
+          "front": "Which is the coldest continent on Earth?",
+          "answer": "Antarctica!",
+          "facts": [
+            "Antarctica is covered in ice and snow all year.",
+            "Penguins live there, but no people live there all the time."
+          ],
+          "didYouKnow": "No country owns Antarctica — it belongs to everyone for science and peace!"
+        },
+        {
+          "id": "river-nile",
+          "front": "Which river helped the ancient Egyptians grow food?",
+          "answer": "The River Nile!",
+          "facts": [
+            "The River Nile flows through Egypt in Africa.",
+            "It flows north into the Mediterranean Sea."
+          ],
+          "didYouKnow": "The Nile is one of the longest rivers in the world!"
+        },
+        {
+          "id": "pacific-ocean",
+          "front": "Which is the largest ocean in the world?",
+          "answer": "The Pacific Ocean!",
+          "facts": [
+            "The Pacific Ocean is the largest ocean in the world.",
+            "It covers more of Earth than all the land put together."
+          ],
+          "didYouKnow": "The deepest place on Earth, the Mariana Trench, is in the Pacific Ocean!"
+        },
+        {
+          "id": "dead-sea",
+          "front": "In which sea can people float without trying?",
+          "answer": "The Dead Sea!",
+          "facts": [
+            "The Dead Sea is so salty that people float easily on it.",
+            "It lies between Jordan and Israel."
+          ],
+          "didYouKnow": "The Dead Sea is the lowest place on land on Earth!"
+        },
+        {
+          "id": "mount-kilimanjaro",
+          "front": "Which is the tallest mountain in Africa?",
+          "answer": "Mount Kilimanjaro!",
+          "facts": [
+            "Mount Kilimanjaro is in Tanzania, in Africa.",
+            "It has snow on its top, even though it is near the equator."
+          ],
+          "didYouKnow": "Mount Kilimanjaro is a sleeping volcano that has not erupted for thousands of years!"
+        },
+        {
+          "id": "machu-picchu",
+          "front": "Which lost city of the Incas hides in the mountains of Peru?",
+          "answer": "Machu Picchu!",
+          "facts": [
+            "Machu Picchu is an old Inca city high in the mountains of Peru.",
+            "It was built about 600 years ago."
+          ],
+          "didYouKnow": "The stones of Machu Picchu fit together so well that no cement was needed!"
+        },
+        {
+          "id": "angkor-wat",
+          "front": "Which is the largest religious monument in the world?",
+          "answer": "Angkor Wat!",
+          "facts": [
+            "Angkor Wat is a huge temple in Cambodia.",
+            "It was built about 900 years ago, first as a Hindu temple."
+          ],
+          "didYouKnow": "Angkor Wat is so big that it has five towers shaped like lotus flowers!"
+        },
+        {
+          "id": "stonehenge",
+          "front": "Which giant stones stand in a circle in England?",
+          "answer": "Stonehenge!",
+          "facts": [
+            "Stonehenge is a circle of giant stones in England.",
+            "It was built about 5,000 years ago."
+          ],
+          "didYouKnow": "Nobody knows exactly how people moved the giant stones to Stonehenge!"
+        },
+        {
+          "id": "burj-khalifa",
+          "front": "Which is the tallest building in the world?",
+          "answer": "The Burj Khalifa!",
+          "facts": [
+            "The Burj Khalifa stands in Dubai.",
+            "It is 828 metres tall and has more than 160 floors."
+          ],
+          "didYouKnow": "On a clear day, you can see very far from the top of the Burj Khalifa!"
+        },
+        {
+          "id": "golden-gate-bridge",
+          "front": "Which orange-red bridge stands in San Francisco?",
+          "answer": "The Golden Gate Bridge!",
+          "facts": [
+            "The Golden Gate Bridge is in San Francisco, in the United States.",
+            "It opened in 1937 and is painted orange-red."
+          ],
+          "didYouKnow": "The Golden Gate Bridge is so long that it took four years to build!"
+        },
+        {
+          "id": "victoria-falls",
+          "front": "Which huge waterfall is in Africa?",
+          "answer": "Victoria Falls!",
+          "facts": [
+            "Victoria Falls is on the border of Zambia and Zimbabwe in Africa.",
+            "It is one of the largest waterfalls in the world."
+          ],
+          "didYouKnow": "The local name for Victoria Falls means 'the smoke that thunders'!"
+        },
+        {
+          "id": "lake-baikal",
+          "front": "Which is the deepest lake in the world?",
+          "answer": "Lake Baikal!",
+          "facts": [
+            "Lake Baikal is in Russia.",
+            "It is the deepest lake in the world."
+          ],
+          "didYouKnow": "Lake Baikal holds about one-fifth of all the fresh water on Earth!"
+        },
+        {
+          "id": "christ-the-redeemer",
+          "front": "Which giant statue opens its arms over Rio de Janeiro?",
+          "answer": "Christ the Redeemer!",
+          "facts": [
+            "Christ the Redeemer is a giant statue in Rio de Janeiro, Brazil.",
+            "It stands on top of a mountain with its arms stretched wide."
+          ],
+          "didYouKnow": "The statue is 38 metres tall, as tall as a 12-storey building!"
         }
       ],
       "color": "#2EC4B6",
@@ -1450,6 +2170,246 @@
           ],
           "front": "What flash of light do we see in the sky during a storm?",
           "id": "science-fun-x2"
+        },
+        {
+          "id": "water-cycle",
+          "front": "How does rain get back up into the sky?",
+          "answer": "The Water Cycle!",
+          "facts": [
+            "Water from seas and rivers rises up as tiny drops called vapour.",
+            "The vapour cools and makes clouds, and then it falls as rain."
+          ],
+          "didYouKnow": "The same water you drink today may have fallen as rain long, long ago!"
+        },
+        {
+          "id": "photosynthesis",
+          "front": "How do plants make their own food?",
+          "answer": "Photosynthesis!",
+          "facts": [
+            "Leaves use sunlight, water and air to make food for the plant.",
+            "Plants give out oxygen, which we need to breathe."
+          ],
+          "didYouKnow": "The green colour in leaves comes from a substance called chlorophyll!"
+        },
+        {
+          "id": "bones",
+          "front": "How many bones are in an adult human body?",
+          "answer": "206 Bones!",
+          "facts": [
+            "Adults have 206 bones in their bodies.",
+            "Babies are born with about 300 bones, and some join together as they grow."
+          ],
+          "didYouKnow": "Bones protect soft parts inside you, like your brain and heart!"
+        },
+        {
+          "id": "brain",
+          "front": "Which part of your body helps you think and learn?",
+          "answer": "Your Brain!",
+          "facts": [
+            "Your brain controls everything you do, even while you sleep.",
+            "It is made of billions of tiny cells called neurons."
+          ],
+          "didYouKnow": "Your brain uses a lot of your body's energy, even when you are just thinking!"
+        },
+        {
+          "id": "seasons",
+          "front": "Why do we have summer and winter?",
+          "answer": "Because Earth Is Tilted!",
+          "facts": [
+            "Earth leans to one side as it goes around the Sun.",
+            "The lean makes one part of Earth warmer while another part is colder."
+          ],
+          "didYouKnow": "When it is summer in India, it is winter in Australia!"
+        },
+        {
+          "id": "gravity",
+          "front": "What pulls everything down to the ground?",
+          "answer": "Gravity!",
+          "facts": [
+            "Gravity is the force that pulls everything down to the ground.",
+            "It also keeps the Moon going around Earth."
+          ],
+          "didYouKnow": "Without gravity, you would float away into space!"
+        },
+        {
+          "id": "friction",
+          "front": "What slows things down when they rub together?",
+          "answer": "Friction!",
+          "facts": [
+            "Friction is the force that slows things down when they rub against each other.",
+            "Ice has very little friction, which is why we slip on it."
+          ],
+          "didYouKnow": "Rub your hands together fast — friction makes them feel warm!"
+        },
+        {
+          "id": "sound",
+          "front": "What travels in waves that our ears can hear?",
+          "answer": "Sound!",
+          "facts": [
+            "Sound travels in waves through air, water and even solids.",
+            "Sound travels faster in water than it does in air."
+          ],
+          "didYouKnow": "Sound cannot travel in space, because there is no air there!"
+        },
+        {
+          "id": "light",
+          "front": "What is the fastest thing in the whole universe?",
+          "answer": "Light!",
+          "facts": [
+            "Light travels about 300,000 km every single second.",
+            "It is the fastest thing we know in the universe."
+          ],
+          "didYouKnow": "Light from the Sun takes about 8 minutes to reach Earth!"
+        },
+        {
+          "id": "electricity",
+          "front": "What powers our lights, fans and TVs?",
+          "answer": "Electricity!",
+          "facts": [
+            "Electricity is a form of energy that powers things in our homes.",
+            "Lightning is a huge spark of electricity in the sky."
+          ],
+          "didYouKnow": "Never touch electric wires — electricity can be dangerous!"
+        },
+        {
+          "id": "light-bulb",
+          "front": "Who made the first long-lasting light bulb?",
+          "answer": "Thomas Edison!",
+          "facts": [
+            "Thomas Edison made the first light bulb that could shine for a long time.",
+            "A light bulb changes electricity into light."
+          ],
+          "didYouKnow": "New LED bulbs use much less power than old bulbs!"
+        },
+        {
+          "id": "thermometer",
+          "front": "What do doctors use to check if you have a fever?",
+          "answer": "A Thermometer!",
+          "facts": [
+            "A thermometer measures how hot or cold something is.",
+            "A healthy person's body temperature is about 37 degrees Celsius."
+          ],
+          "didYouKnow": "The first thermometers were made more than 400 years ago!"
+        },
+        {
+          "id": "microscope",
+          "front": "What do scientists use to see tiny germs?",
+          "answer": "A Microscope!",
+          "facts": [
+            "A microscope makes tiny things look much bigger.",
+            "Scientists use it to see germs and tiny living things."
+          ],
+          "didYouKnow": "A single drop of water can hold thousands of tiny living things!"
+        },
+        {
+          "id": "germs",
+          "front": "What tiny living things can make us sick?",
+          "answer": "Germs!",
+          "facts": [
+            "Germs are tiny living things that we cannot see with our eyes.",
+            "Some germs can make us sick."
+          ],
+          "didYouKnow": "Washing your hands with soap removes germs and keeps you healthy!"
+        },
+        {
+          "id": "stomach",
+          "front": "Which part of your body churns your food?",
+          "answer": "Your Stomach!",
+          "facts": [
+            "Food travels from your mouth to your stomach through a tube.",
+            "Your stomach churns the food and mixes it with juices that break it down."
+          ],
+          "didYouKnow": "Your stomach makes acid that is strong enough to help melt food!"
+        },
+        {
+          "id": "lungs",
+          "front": "Which parts of your body help you breathe?",
+          "answer": "Your Lungs!",
+          "facts": [
+            "Your lungs take in oxygen from the air you breathe.",
+            "When you breathe out, your lungs push out a gas called carbon dioxide."
+          ],
+          "didYouKnow": "You breathe about 20,000 times every day!"
+        },
+        {
+          "id": "teeth",
+          "front": "How many teeth do adults have?",
+          "answer": "32 Teeth!",
+          "facts": [
+            "Adults have 32 teeth.",
+            "Babies have 20 milk teeth, which fall out as they grow."
+          ],
+          "didYouKnow": "Brush your teeth twice a day to keep them strong and healthy!"
+        },
+        {
+          "id": "muscles",
+          "front": "What helps your body move?",
+          "answer": "Your Muscles!",
+          "facts": [
+            "Muscles help your body move, run, jump and smile.",
+            "You have hundreds of muscles in your body."
+          ],
+          "didYouKnow": "Your heart is a muscle too — and it never gets tired!"
+        },
+        {
+          "id": "blood",
+          "front": "What red liquid flows through your body?",
+          "answer": "Blood!",
+          "facts": [
+            "Blood carries oxygen to every part of your body.",
+            "Your heart pumps blood all around your body."
+          ],
+          "didYouKnow": "An adult's body has about 5 litres of blood!"
+        },
+        {
+          "id": "five-senses",
+          "front": "How many senses do we have?",
+          "answer": "Five Senses!",
+          "facts": [
+            "We have five senses: seeing, hearing, smelling, tasting and touching.",
+            "Our eyes, ears, nose, tongue and skin help us use them."
+          ],
+          "didYouKnow": "Your senses help you learn about the world around you!"
+        },
+        {
+          "id": "seeds-grow",
+          "front": "What does a seed need to grow into a plant?",
+          "answer": "Water, Air and Sunlight!",
+          "facts": [
+            "A seed needs water, air and sunlight to grow.",
+            "When a seed grows, its roots come out first and go down into the soil."
+          ],
+          "didYouKnow": "Some seeds can grow into trees that live for hundreds of years!"
+        },
+        {
+          "id": "spider",
+          "front": "Which animal has eight legs and spins webs?",
+          "answer": "The Spider!",
+          "facts": [
+            "A spider has eight legs and spins silk webs.",
+            "It is not an insect — insects have only six legs."
+          ],
+          "didYouKnow": "Most spiders are not dangerous to people at all!"
+        },
+        {
+          "id": "ant",
+          "front": "Which tiny insect can carry things much heavier than itself?",
+          "answer": "The Ant!",
+          "facts": [
+            "Ants live in big groups called colonies.",
+            "They follow smell trails to find food and to find their way home."
+          ],
+          "didYouKnow": "An ant can carry things many times heavier than its own body!"
+        },
+        {
+          "id": "earthworm",
+          "front": "Which wiggly animal has no eyes and helps the soil?",
+          "answer": "The Earthworm!",
+          "facts": [
+            "An earthworm has no eyes.",
+            "It helps make the soil healthy for plants to grow."
+          ],
+          "didYouKnow": "An earthworm breathes through its skin!"
         }
       ],
       "color": "#FFC93C",
@@ -1913,6 +2873,246 @@
           ],
           "front": "Which cold, sweet treat comes in a cone?",
           "id": "sports-yummy-food-x2"
+        },
+        {
+          "id": "tennis",
+          "front": "Which sport is played with a racket and a ball over a net?",
+          "answer": "Tennis!",
+          "facts": [
+            "In tennis, players hit a ball over a net with a racket.",
+            "Wimbledon is the oldest tennis tournament in the world."
+          ],
+          "didYouKnow": "In tennis, a score of zero is called 'love'!"
+        },
+        {
+          "id": "basketball",
+          "front": "Which sport do you play by throwing a ball through a hoop?",
+          "answer": "Basketball!",
+          "facts": [
+            "In basketball, players throw the ball through a high hoop.",
+            "Each team has five players on the court."
+          ],
+          "didYouKnow": "A basket can be worth 2 or 3 points!"
+        },
+        {
+          "id": "badminton",
+          "front": "Which sport uses a shuttlecock and a light racket?",
+          "answer": "Badminton!",
+          "facts": [
+            "In badminton, players hit a shuttlecock over a net.",
+            "A shuttlecock is made with feathers."
+          ],
+          "didYouKnow": "Badminton is one of the fastest racket sports in the world!"
+        },
+        {
+          "id": "hockey",
+          "front": "Which sport is played with a stick and a hard ball?",
+          "answer": "Hockey!",
+          "facts": [
+            "In hockey, players use sticks to hit a hard ball into a goal.",
+            "Hockey is a very popular sport in India."
+          ],
+          "didYouKnow": "India has won the most Olympic gold medals in hockey!"
+        },
+        {
+          "id": "swimming",
+          "front": "Which sport has freestyle, backstroke and butterfly?",
+          "answer": "Swimming!",
+          "facts": [
+            "Swimming has four main strokes: freestyle, backstroke, breaststroke and butterfly.",
+            "Swimming is wonderful exercise for your whole body."
+          ],
+          "didYouKnow": "Michael Phelps has won 23 Olympic gold medals in swimming — more than anyone else!"
+        },
+        {
+          "id": "marathon",
+          "front": "How long is a marathon race?",
+          "answer": "About 42 Kilometres!",
+          "facts": [
+            "A marathon is a very long race of about 42 km.",
+            "It is named after a place called Marathon in Greece."
+          ],
+          "didYouKnow": "Marathon runners train for many months before the race!"
+        },
+        {
+          "id": "cycling",
+          "front": "Which race is the most famous bicycle race in the world?",
+          "answer": "The Tour de France!",
+          "facts": [
+            "The Tour de France is the most famous bicycle race in the world.",
+            "It lasts about three weeks."
+          ],
+          "didYouKnow": "Cyclists in the Tour de France ride more than 3,000 km!"
+        },
+        {
+          "id": "gymnastics",
+          "front": "Which sport has flips, jumps and the balance beam?",
+          "answer": "Gymnastics!",
+          "facts": [
+            "Gymnasts do flips, jumps and balances.",
+            "The balance beam is only 10 cm wide — as wide as your hand."
+          ],
+          "didYouKnow": "Gymnasts need both strength and balance to perform!"
+        },
+        {
+          "id": "chess",
+          "front": "Which board game is called the game of kings?",
+          "answer": "Chess!",
+          "facts": [
+            "Chess is a board game for two players.",
+            "The king is the most important piece — if it is trapped, the game is over."
+          ],
+          "didYouKnow": "Chess began in India long, long ago!"
+        },
+        {
+          "id": "kabaddi",
+          "front": "Which team sport from India has players chanting 'kabaddi'?",
+          "answer": "Kabaddi!",
+          "facts": [
+            "Kabaddi is a team sport that began in India.",
+            "Each team has seven players on the court."
+          ],
+          "didYouKnow": "In kabaddi, the raider chants 'kabaddi, kabaddi' without stopping for breath!"
+        },
+        {
+          "id": "volleyball",
+          "front": "Which sport has six players on each side of a high net?",
+          "answer": "Volleyball!",
+          "facts": [
+            "In volleyball, players hit the ball over a high net.",
+            "Each team has six players on the court."
+          ],
+          "didYouKnow": "In volleyball, players must not let the ball touch the ground on their side!"
+        },
+        {
+          "id": "baseball",
+          "front": "Which sport is played with a bat and four bases?",
+          "answer": "Baseball!",
+          "facts": [
+            "In baseball, players hit the ball with a bat and run around four bases.",
+            "Baseball is very popular in the United States and Japan."
+          ],
+          "didYouKnow": "A baseball game has nine innings!"
+        },
+        {
+          "id": "golf",
+          "front": "Which sport is played by hitting a small ball into holes?",
+          "answer": "Golf!",
+          "facts": [
+            "In golf, players hit a small ball into holes with clubs.",
+            "A normal round of golf has 18 holes."
+          ],
+          "didYouKnow": "In golf, the player with the fewest hits wins!"
+        },
+        {
+          "id": "boxing",
+          "front": "Which sport do players fight in with gloves in a ring?",
+          "answer": "Boxing!",
+          "facts": [
+            "In boxing, two players fight with gloves in a ring.",
+            "A boxing match is split into rounds."
+          ],
+          "didYouKnow": "Boxers wear gloves to protect their hands and their opponent!"
+        },
+        {
+          "id": "karate",
+          "front": "Which martial art from Japan means 'empty hand'?",
+          "answer": "Karate!",
+          "facts": [
+            "Karate is a martial art that began in Japan.",
+            "Karate means 'empty hand' because fighters use no weapons."
+          ],
+          "didYouKnow": "In karate, belts show a student's level — from white to black!"
+        },
+        {
+          "id": "surfing",
+          "front": "Which sport do you ride waves on a board?",
+          "answer": "Surfing!",
+          "facts": [
+            "In surfing, people ride big waves on a board.",
+            "Hawaii is a famous place for surfing."
+          ],
+          "didYouKnow": "Surfers stand up on their boards as the wave carries them!"
+        },
+        {
+          "id": "banana",
+          "front": "Which yellow fruit grows in bunches and gives you quick energy?",
+          "answer": "The Banana!",
+          "facts": [
+            "Bananas grow in bunches on a tall plant.",
+            "They give you quick energy, so they are a great snack for players."
+          ],
+          "didYouKnow": "Monkeys love bananas, but they eat many other fruits too!"
+        },
+        {
+          "id": "mango",
+          "front": "Which fruit is called the king of fruits?",
+          "answer": "The Mango!",
+          "facts": [
+            "Mangoes are sweet summer fruits.",
+            "India grows more mangoes than any other country in the world."
+          ],
+          "didYouKnow": "There are hundreds of kinds of mangoes!"
+        },
+        {
+          "id": "apple",
+          "front": "Which fruit comes in red, green and yellow?",
+          "answer": "The Apple!",
+          "facts": [
+            "Apples grow on trees in orchards.",
+            "An apple's seeds hide in the middle, in its core."
+          ],
+          "didYouKnow": "Apples float in water because they are full of tiny air pockets!"
+        },
+        {
+          "id": "burger",
+          "front": "Which yummy food is a patty inside a bun?",
+          "answer": "The Burger!",
+          "facts": [
+            "A burger is a tasty patty served inside a soft bun.",
+            "Burgers are often made with beef, chicken or vegetables."
+          ],
+          "didYouKnow": "The burger is named after Hamburg, a city in Germany!"
+        },
+        {
+          "id": "pasta",
+          "front": "Which food from Italy is made from wheat flour?",
+          "answer": "Pasta!",
+          "facts": [
+            "Pasta comes from Italy.",
+            "It is made from wheat flour and water."
+          ],
+          "didYouKnow": "Spaghetti is a kind of pasta that is long and thin like strings!"
+        },
+        {
+          "id": "crispy-dosa",
+          "front": "Which crispy pancake from South India is made from rice and lentils?",
+          "answer": "The Dosa!",
+          "facts": [
+            "A dosa is a crispy pancake from South India.",
+            "It is made from a batter of rice and lentils."
+          ],
+          "didYouKnow": "Dosa is eaten with sambar and coconut chutney!"
+        },
+        {
+          "id": "biryani",
+          "front": "Which famous rice dish comes from India?",
+          "answer": "Biryani!",
+          "facts": [
+            "Biryani is a tasty rice dish from India.",
+            "It is made with rice, spices, and meat or vegetables."
+          ],
+          "didYouKnow": "Biryani is cooked slowly so all the flavours mix together!"
+        },
+        {
+          "id": "popcorn",
+          "front": "Which snack pops when its kernels get hot?",
+          "answer": "Popcorn!",
+          "facts": [
+            "Popcorn is made from special corn kernels.",
+            "When the kernels get hot, they pop open into fluffy white pieces."
+          ],
+          "didYouKnow": "Popcorn is a favourite snack at the cinema!"
         }
       ],
       "color": "#FF9F43",
@@ -2376,6 +3576,246 @@
           ],
           "front": "Which fruit is the national fruit of India?",
           "id": "india-gk-easy-x2"
+        },
+        {
+          "id": "in-easy-india-gate",
+          "front": "Which famous gate stands in New Delhi?",
+          "answer": "The India Gate!",
+          "facts": [
+            "It was built to honour the Indian soldiers who died in wars.",
+            "It is 42 metres tall, and the names of soldiers are written on its walls."
+          ],
+          "didYouKnow": "India Gate was built almost 100 years ago, in 1931."
+        },
+        {
+          "id": "in-easy-himalayas",
+          "front": "Which tall mountains stand in the north of India?",
+          "answer": "The Himalayas!",
+          "facts": [
+            "The Himalayas are the tallest mountains in the world.",
+            "Mount Everest, the tallest mountain on Earth, is part of the Himalayas."
+          ],
+          "didYouKnow": "Himalaya means 'home of snow' in Sanskrit."
+        },
+        {
+          "id": "in-easy-monsoon",
+          "front": "What do we call the rainy season in India?",
+          "answer": "The Monsoon!",
+          "facts": [
+            "The monsoon brings rain to India from June to September.",
+            "Farmers wait for the monsoon rain to grow their crops."
+          ],
+          "didYouKnow": "The word monsoon comes from an Arabic word that means 'season'."
+        },
+        {
+          "id": "in-easy-elephant",
+          "front": "Which big animal with a long trunk is loved in India?",
+          "answer": "The Indian Elephant!",
+          "facts": [
+            "Indian elephants have smaller ears than African elephants.",
+            "An elephant eats about 150 kg of leaves and grass in a day."
+          ],
+          "didYouKnow": "Elephants love to play in water and spray themselves with their trunks."
+        },
+        {
+          "id": "in-easy-cobra",
+          "front": "Which snake spreads its hood wide when it is scared?",
+          "answer": "The Indian Cobra!",
+          "facts": [
+            "When it feels scared, the cobra spreads its hood to look big.",
+            "A cobra's bite has venom, so we must stay far away from it."
+          ],
+          "didYouKnow": "The Indian cobra is one of the four most venomous snakes in India."
+        },
+        {
+          "id": "in-easy-yoga",
+          "front": "Which exercise from India helps our body and mind stay calm?",
+          "answer": "Yoga!",
+          "facts": [
+            "Yoga began in India thousands of years ago.",
+            "People all over the world do yoga to stay fit and calm."
+          ],
+          "didYouKnow": "21st June is celebrated as International Yoga Day."
+        },
+        {
+          "id": "in-easy-cricket",
+          "front": "Which game do most children in India love to play with a bat and ball?",
+          "answer": "Cricket!",
+          "facts": [
+            "A cricket team has 11 players.",
+            "The game is played with a wooden bat and a hard ball."
+          ],
+          "didYouKnow": "Cricket came to India from England long ago."
+        },
+        {
+          "id": "in-easy-hockey",
+          "front": "Which stick game did India win 8 Olympic gold medals in?",
+          "answer": "Hockey!",
+          "facts": [
+            "India has won 8 gold medals in hockey at the Olympics.",
+            "Hockey is played with a stick and a small hard ball."
+          ],
+          "didYouKnow": "Major Dhyan Chand, a great hockey player, is called the Wizard of Hockey."
+        },
+        {
+          "id": "in-easy-qutub-minar",
+          "front": "Which tall tower in Delhi is made of red stone?",
+          "answer": "The Qutub Minar!",
+          "facts": [
+            "It is 73 metres tall and was built about 800 years ago.",
+            "There are 379 steps inside it that go up to the top."
+          ],
+          "didYouKnow": "The Qutub Minar is one of the tallest brick towers in the world."
+        },
+        {
+          "id": "in-easy-charminar",
+          "front": "Which famous building with four tall towers stands in Hyderabad?",
+          "answer": "The Charminar!",
+          "facts": [
+            "It was built more than 400 years ago, in 1591.",
+            "It has four tall towers called minarets."
+          ],
+          "didYouKnow": "Charminar means 'four towers'."
+        },
+        {
+          "id": "in-easy-gateway",
+          "front": "Which big arch stands by the sea in Mumbai?",
+          "answer": "The Gateway of India!",
+          "facts": [
+            "It was built to welcome a king who visited India in 1911.",
+            "It stands on the shore of the Arabian Sea in Mumbai."
+          ],
+          "didYouKnow": "The Gateway of India is 26 metres tall."
+        },
+        {
+          "id": "in-easy-lotus-temple",
+          "front": "Which temple in Delhi looks like a lotus flower?",
+          "answer": "The Lotus Temple!",
+          "facts": [
+            "It is shaped like a big white lotus flower.",
+            "People of all religions are welcome to pray there."
+          ],
+          "didYouKnow": "The Lotus Temple has nine sides, like the petals of a flower."
+        },
+        {
+          "id": "in-easy-golden-temple",
+          "front": "Which holy place in Amritsar shines with gold?",
+          "answer": "The Golden Temple!",
+          "facts": [
+            "Its dome is covered with real gold.",
+            "It is the holiest place for Sikhs."
+          ],
+          "didYouKnow": "Free food is served to everyone who visits, in a hall called the langar."
+        },
+        {
+          "id": "in-easy-yamuna",
+          "front": "Which river flows past the Taj Mahal?",
+          "answer": "The Yamuna!",
+          "facts": [
+            "The Yamuna flows through Delhi and past the Taj Mahal in Agra.",
+            "It joins the river Ganga at Prayagraj."
+          ],
+          "didYouKnow": "The Yamuna is the longest river that joins the Ganga."
+        },
+        {
+          "id": "in-easy-arabian-sea",
+          "front": "Which sea is on the west side of India?",
+          "answer": "The Arabian Sea!",
+          "facts": [
+            "Mumbai and Goa are on the shore of the Arabian Sea.",
+            "The Arabian Sea is part of the big Indian Ocean."
+          ],
+          "didYouKnow": "Ships have sailed on the Arabian Sea for thousands of years."
+        },
+        {
+          "id": "in-easy-coconut",
+          "front": "Which tree grows near the sea and gives us coconut?",
+          "answer": "The Coconut Tree!",
+          "facts": [
+            "We drink sweet water from inside a green coconut.",
+            "Coconut is used in cooking in many parts of India."
+          ],
+          "didYouKnow": "A coconut tree can live for 60 to 80 years."
+        },
+        {
+          "id": "in-easy-banana",
+          "front": "Which yellow fruit grows in big bunches in India?",
+          "answer": "The Banana!",
+          "facts": [
+            "Bananas grow in big bunches on a banana plant.",
+            "A banana gives us quick energy and is good for health."
+          ],
+          "didYouKnow": "India grows more bananas than any other country in the world."
+        },
+        {
+          "id": "in-easy-rice",
+          "front": "Which food do many people in India eat every day?",
+          "answer": "Rice!",
+          "facts": [
+            "Rice grows in fields filled with water, called paddy fields.",
+            "India is one of the largest growers of rice in the world."
+          ],
+          "didYouKnow": "Cooked rice is eaten with dal and vegetables in many Indian homes."
+        },
+        {
+          "id": "in-easy-metro",
+          "front": "Which train runs in big cities, sometimes under the ground?",
+          "answer": "The Metro!",
+          "facts": [
+            "Metro trains run in Delhi, Mumbai, Bengaluru and many other cities.",
+            "Lakhs of people travel by metro every day."
+          ],
+          "didYouKnow": "The Kolkata Metro was the first metro train in India."
+        },
+        {
+          "id": "in-easy-auto",
+          "front": "Which small three-wheel vehicle takes us around Indian cities?",
+          "answer": "The Auto Rickshaw!",
+          "facts": [
+            "An auto rickshaw has three wheels and a small roof.",
+            "It is a quick way to travel short distances in a city."
+          ],
+          "didYouKnow": "Auto rickshaws are also called tuk-tuks."
+        },
+        {
+          "id": "in-easy-diya",
+          "front": "Which small lamp do we light on Diwali?",
+          "answer": "A Diya!",
+          "facts": [
+            "A diya is a small lamp made of clay.",
+            "We fill it with oil and light it on Diwali, the festival of lights."
+          ],
+          "didYouKnow": "People light diyas to show that light wins over darkness."
+        },
+        {
+          "id": "in-easy-rangoli",
+          "front": "Which colourful picture do we draw at the door during festivals?",
+          "answer": "Rangoli!",
+          "facts": [
+            "Rangoli is made with colourful powders and flowers.",
+            "People make rangoli to welcome guests and good luck."
+          ],
+          "didYouKnow": "Rangoli is also called kolam in Tamil Nadu."
+        },
+        {
+          "id": "in-easy-sari",
+          "front": "Which long cloth do many women in India wear?",
+          "answer": "The Sari!",
+          "facts": [
+            "A sari is a long cloth, about five metres long.",
+            "It is worn in different ways in different parts of India."
+          ],
+          "didYouKnow": "Saris can be made of silk, cotton and many other materials."
+        },
+        {
+          "id": "in-easy-republic-day",
+          "front": "On which day do we celebrate Republic Day?",
+          "answer": "26th January!",
+          "facts": [
+            "On this day in 1950, the Constitution of India came into effect.",
+            "A big parade is held in New Delhi on Republic Day."
+          ],
+          "didYouKnow": "On Republic Day, the President of India unfurls the national flag in New Delhi."
         }
       ],
       "color": "#FF9933",
@@ -2839,6 +4279,246 @@
           ],
           "front": "Which is one of the largest railway networks in the world?",
           "id": "india-gk-medium-x2"
+        },
+        {
+          "id": "in-med-kathak",
+          "front": "Which classical dance comes from North India and is known for fast footwork?",
+          "answer": "Kathak!",
+          "facts": [
+            "Kathak dancers wear ankle bells called ghungroos.",
+            "The dance tells stories with fast spins and hand movements."
+          ],
+          "didYouKnow": "The word Kathak comes from 'katha', which means story."
+        },
+        {
+          "id": "in-med-chess",
+          "front": "Which game was born in India long ago and is played on a board with 64 squares?",
+          "answer": "Chess!",
+          "facts": [
+            "Chess began in India about 1,500 years ago as a game called chaturanga.",
+            "It is played by two players with 16 pieces each."
+          ],
+          "didYouKnow": "The word 'checkmate' comes from the Persian words 'shah mat', which mean 'the king is dead'."
+        },
+        {
+          "id": "in-med-kabaddi",
+          "front": "Which Indian team game is played by raiding the other side while holding your breath?",
+          "answer": "Kabaddi!",
+          "facts": [
+            "A raider must chant 'kabaddi' while trying to touch the other players.",
+            "India has won the Kabaddi World Cup three times."
+          ],
+          "didYouKnow": "Kabaddi is one of the oldest games of India and is played in villages and cities."
+        },
+        {
+          "id": "in-med-nalanda",
+          "front": "Which old university in India was one of the first in the world?",
+          "answer": "Nalanda!",
+          "facts": [
+            "Nalanda is in Bihar and is more than 1,500 years old.",
+            "Students from China and Korea came to Nalanda to study."
+          ],
+          "didYouKnow": "Nalanda had thousands of students and teachers, and a huge library."
+        },
+        {
+          "id": "in-med-brahmagupta",
+          "front": "Which Indian mathematician first explained zero as a number?",
+          "answer": "Brahmagupta!",
+          "facts": [
+            "Brahmagupta lived about 1,400 years ago in the 7th century.",
+            "He wrote a famous book about maths and the stars."
+          ],
+          "didYouKnow": "Without zero, we could not write big numbers like 100 or 1,000."
+        },
+        {
+          "id": "in-med-sushruta",
+          "front": "Which ancient Indian doctor is called the Father of Surgery?",
+          "answer": "Sushruta!",
+          "facts": [
+            "Sushruta lived more than 2,000 years ago in India.",
+            "He wrote a book about surgery and how to heal wounds."
+          ],
+          "didYouKnow": "Sushruta even described how to repair a nose by surgery."
+        },
+        {
+          "id": "in-med-ramanujan",
+          "front": "Which Indian mathematician amazed the world with his number theories?",
+          "answer": "Srinivasa Ramanujan!",
+          "facts": [
+            "Ramanujan was a genius who loved numbers from a young age.",
+            "He went to Cambridge in England and worked with the famous mathematician G. H. Hardy."
+          ],
+          "didYouKnow": "Ramanujan died when he was only 32, but his work is still used by scientists today."
+        },
+        {
+          "id": "in-med-chanakya",
+          "front": "Who wrote the Arthashastra and guided the Mauryan king Chandragupta?",
+          "answer": "Chanakya!",
+          "facts": [
+            "Chanakya was a teacher and a clever thinker.",
+            "He helped Chandragupta Maurya build the Mauryan Empire."
+          ],
+          "didYouKnow": "Chanakya is also called Kautilya."
+        },
+        {
+          "id": "in-med-ashoka",
+          "front": "Which Mauryan king spread the message of peace after the Kalinga war?",
+          "answer": "Emperor Ashoka!",
+          "facts": [
+            "After the Kalinga war, Ashoka chose peace and Buddhism.",
+            "The lion capital of Ashoka is India's national emblem."
+          ],
+          "didYouKnow": "The wheel in the middle of the Indian flag is called the Ashoka Chakra."
+        },
+        {
+          "id": "in-med-shivaji",
+          "front": "Which great warrior king built forts in Maharashtra?",
+          "answer": "Chhatrapati Shivaji Maharaj!",
+          "facts": [
+            "Shivaji built many strong forts in the hills of Maharashtra.",
+            "He was crowned king in 1674 at Raigad Fort."
+          ],
+          "didYouKnow": "Shivaji was a master of guerrilla warfare, fighting with speed and surprise."
+        },
+        {
+          "id": "in-med-rani-lakshmibai",
+          "front": "Which brave queen of Jhansi fought in the revolt of 1857?",
+          "answer": "Rani Lakshmibai!",
+          "facts": [
+            "Rani Lakshmibai led her soldiers against the British in 1857.",
+            "She died fighting in battle in 1858."
+          ],
+          "didYouKnow": "Rani Lakshmibai is remembered as a symbol of bravery in India."
+        },
+        {
+          "id": "in-med-bhagat-singh",
+          "front": "Which young freedom fighter is remembered for his bravery at the age of 23?",
+          "answer": "Bhagat Singh!",
+          "facts": [
+            "Bhagat Singh fought for India's freedom from British rule.",
+            "He was only 23 years old when he died in 1931."
+          ],
+          "didYouKnow": "Bhagat Singh's famous slogan was 'Inquilab Zindabad', which means 'Long live the revolution'."
+        },
+        {
+          "id": "in-med-subhas-bose",
+          "front": "Who gave the famous call 'Give me blood, and I shall give you freedom'?",
+          "answer": "Subhas Chandra Bose!",
+          "facts": [
+            "Bose led the Indian National Army to free India.",
+            "He is lovingly called Netaji by the people of India."
+          ],
+          "didYouKnow": "Netaji's army had a women's unit called the Rani of Jhansi Regiment."
+        },
+        {
+          "id": "in-med-nehru",
+          "front": "Who was the first Prime Minister of India?",
+          "answer": "Jawaharlal Nehru!",
+          "facts": [
+            "Nehru was India's first Prime Minister after independence.",
+            "He loved children, and children called him Chacha Nehru."
+          ],
+          "didYouKnow": "Nehru's birthday, 14th November, is celebrated as Children's Day in India."
+        },
+        {
+          "id": "in-med-mother-teresa",
+          "front": "Which kind lady served the poor in Kolkata and won the Nobel Peace Prize?",
+          "answer": "Mother Teresa!",
+          "facts": [
+            "Mother Teresa started the Missionaries of Charity in Kolkata in 1950.",
+            "She won the Nobel Peace Prize in 1979."
+          ],
+          "didYouKnow": "Mother Teresa was given India's highest honour, the Bharat Ratna, in 1980."
+        },
+        {
+          "id": "in-med-kalpana-chawla",
+          "front": "Who was the first Indian-born woman to travel to space?",
+          "answer": "Kalpana Chawla!",
+          "facts": [
+            "Kalpana Chawla was born in Karnal, Haryana.",
+            "She flew to space in 1997 on the Space Shuttle Columbia."
+          ],
+          "didYouKnow": "Kalpana Chawla died in 2003 when the Columbia broke apart on its way back to Earth."
+        },
+        {
+          "id": "in-med-konark",
+          "front": "Which temple in Odisha is built like a huge chariot of the Sun God?",
+          "answer": "The Konark Sun Temple!",
+          "facts": [
+            "It was built in the 13th century by King Narasimhadeva I.",
+            "The temple is shaped like a chariot with 24 stone wheels."
+          ],
+          "didYouKnow": "The wheels of the temple work as sundials and can tell the time."
+        },
+        {
+          "id": "in-med-hampi",
+          "front": "Which old city in Karnataka was once the capital of the Vijayanagara Empire?",
+          "answer": "Hampi!",
+          "facts": [
+            "Hampi was the capital of the great Vijayanagara Empire.",
+            "It is famous for its stone chariot and old temples."
+          ],
+          "didYouKnow": "Hampi is a UNESCO World Heritage Site."
+        },
+        {
+          "id": "in-med-ajanta",
+          "front": "Which caves in Maharashtra have paintings that are more than 2,000 years old?",
+          "answer": "The Ajanta Caves!",
+          "facts": [
+            "There are about 30 caves at Ajanta.",
+            "The paintings on the walls tell stories of the Buddha."
+          ],
+          "didYouKnow": "The Ajanta Caves were lost in the forest for hundreds of years before they were found again."
+        },
+        {
+          "id": "in-med-varanasi",
+          "front": "Which is one of the oldest cities in the world, on the banks of the Ganga?",
+          "answer": "Varanasi!",
+          "facts": [
+            "Varanasi is more than 3,000 years old.",
+            "It is famous for its ghats, where people pray on the banks of the Ganga."
+          ],
+          "didYouKnow": "Varanasi is also called Kashi and Banaras."
+        },
+        {
+          "id": "in-med-western-ghats",
+          "front": "Which mountain range runs along the west coast of India?",
+          "answer": "The Western Ghats!",
+          "facts": [
+            "The Western Ghats run through Gujarat, Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu.",
+            "They are home to many plants and animals found nowhere else in the world."
+          ],
+          "didYouKnow": "The Western Ghats are a UNESCO World Heritage Site."
+        },
+        {
+          "id": "in-med-brahmaputra",
+          "front": "Which river in Assam is one of the biggest in India?",
+          "answer": "The Brahmaputra!",
+          "facts": [
+            "The Brahmaputra flows through Tibet, India and Bangladesh.",
+            "It forms Majuli, the largest river island in the world."
+          ],
+          "didYouKnow": "In Tibet, the Brahmaputra is called the Tsangpo."
+        },
+        {
+          "id": "in-med-lok-sabha",
+          "front": "What is the name of the lower house of the Indian Parliament?",
+          "answer": "The Lok Sabha!",
+          "facts": [
+            "The Lok Sabha has 543 members chosen by the people.",
+            "Its members are elected every five years."
+          ],
+          "didYouKnow": "Lok Sabha means 'House of the People'."
+        },
+        {
+          "id": "in-med-supreme-court",
+          "front": "Which is the highest court in India?",
+          "answer": "The Supreme Court!",
+          "facts": [
+            "The Supreme Court is in New Delhi.",
+            "It protects the Constitution and the rights of the people."
+          ],
+          "didYouKnow": "The decisions of the Supreme Court must be followed by all other courts in India."
         }
       ],
       "color": "#FF9933",
@@ -3302,6 +4982,246 @@
           ],
           "front": "Which is the largest mangrove forest in the world?",
           "id": "india-gk-hard-x2"
+        },
+        {
+          "id": "in-hard-harappa",
+          "front": "Which ancient city gives its name to the Harappan civilisation?",
+          "answer": "Harappa!",
+          "facts": [
+            "Harappa is in present-day Pakistan and was found in the 1920s.",
+            "The Harappan civilisation is about 4,500 years old."
+          ],
+          "didYouKnow": "Harappan cities had planned streets, drains and even bathrooms."
+        },
+        {
+          "id": "in-hard-gupta-age",
+          "front": "Which period of Indian history is called the Golden Age?",
+          "answer": "The Gupta Age!",
+          "facts": [
+            "The Gupta Age lasted from about 320 to 550 CE.",
+            "Great minds like Aryabhata and Kalidasa lived in this age."
+          ],
+          "didYouKnow": "Art, science and literature grew fast during the Gupta Age."
+        },
+        {
+          "id": "in-hard-east-india-company",
+          "front": "Which company came to India to trade and later ruled much of the country?",
+          "answer": "The British East India Company!",
+          "facts": [
+            "The company came to India in 1600 to trade in spices and cloth.",
+            "After the revolt of 1857, the British Crown took over its rule in 1858."
+          ],
+          "didYouKnow": "The company had its own army and ruled India for about 100 years."
+        },
+        {
+          "id": "in-hard-dandi-march",
+          "front": "Which march in 1930 protested the British tax on salt?",
+          "answer": "The Dandi March!",
+          "facts": [
+            "Gandhiji walked about 385 km from Sabarmati to Dandi in 24 days.",
+            "At Dandi, he broke the salt law by making salt from sea water."
+          ],
+          "didYouKnow": "Thousands of people joined Gandhiji on the march to Dandi."
+        },
+        {
+          "id": "in-hard-preamble",
+          "front": "Which part of the Constitution begins with 'We the People of India'?",
+          "answer": "The Preamble!",
+          "facts": [
+            "The Preamble tells the aims of the Constitution.",
+            "It promises Justice, Liberty, Equality and Fraternity to all citizens."
+          ],
+          "didYouKnow": "The Preamble is called the soul of the Constitution."
+        },
+        {
+          "id": "in-hard-fundamental-rights",
+          "front": "How many fundamental rights does the Indian Constitution give its citizens?",
+          "answer": "Six!",
+          "facts": [
+            "The six rights include the Right to Equality and the Right to Freedom.",
+            "If a right is taken away, a citizen can go to the court for help."
+          ],
+          "didYouKnow": "The Right to Education for children aged 6 to 14 is a fundamental right."
+        },
+        {
+          "id": "in-hard-gst",
+          "front": "What is the name of the single tax that replaced many taxes in 2017?",
+          "answer": "The Goods and Services Tax (GST)!",
+          "facts": [
+            "GST began on 1st July 2017.",
+            "It joined many taxes into one tax for the whole country."
+          ],
+          "didYouKnow": "GST is also called 'One Nation, One Tax'."
+        },
+        {
+          "id": "in-hard-election-commission",
+          "front": "Which body conducts elections in India?",
+          "answer": "The Election Commission!",
+          "facts": [
+            "The Election Commission was set up in 1950.",
+            "It makes sure elections in India are free and fair."
+          ],
+          "didYouKnow": "India's elections are the largest in the world, with nearly 100 crore voters."
+        },
+        {
+          "id": "in-hard-nilgiri",
+          "front": "Which hills in South India are called the Blue Mountains?",
+          "answer": "The Nilgiri Hills!",
+          "facts": [
+            "The Nilgiri Hills are in Tamil Nadu, Kerala and Karnataka.",
+            "Doddabetta is the highest peak in the Nilgiris, at 2,637 metres."
+          ],
+          "didYouKnow": "Nilgiri means 'blue mountains' because the hills look blue from far away."
+        },
+        {
+          "id": "in-hard-narmada",
+          "front": "Which river flows between the Vindhya and Satpura ranges?",
+          "answer": "The Narmada!",
+          "facts": [
+            "The Narmada flows to the west and falls into the Arabian Sea.",
+            "It is one of the few Indian rivers that flow to the west."
+          ],
+          "didYouKnow": "The Narmada is one of the seven holy rivers of India."
+        },
+        {
+          "id": "in-hard-wular",
+          "front": "Which is the largest freshwater lake in India?",
+          "answer": "Wular Lake!",
+          "facts": [
+            "Wular Lake is in Jammu and Kashmir.",
+            "It is fed by the river Jhelum."
+          ],
+          "didYouKnow": "Wular Lake changes its size with the seasons — it grows big in the monsoon."
+        },
+        {
+          "id": "in-hard-corbett",
+          "front": "Which is the oldest national park in India?",
+          "answer": "Jim Corbett National Park!",
+          "facts": [
+            "It was set up in 1936 in Uttarakhand.",
+            "It is famous for the Bengal tiger."
+          ],
+          "didYouKnow": "The park was first called Hailey National Park."
+        },
+        {
+          "id": "in-hard-project-tiger",
+          "front": "Which project started in 1973 to save tigers in India?",
+          "answer": "Project Tiger!",
+          "facts": [
+            "Project Tiger began with 9 tiger reserves.",
+            "Today India has more than 50 tiger reserves."
+          ],
+          "didYouKnow": "The number of tigers in India has more than doubled since 2006."
+        },
+        {
+          "id": "in-hard-mangalyaan",
+          "front": "Which mission made India the first Asian country to reach Mars?",
+          "answer": "Mangalyaan!",
+          "facts": [
+            "Mangalyaan reached Mars in 2014.",
+            "India was the first country to reach Mars on its very first try."
+          ],
+          "didYouKnow": "Mangalyaan cost less than many Hollywood films."
+        },
+        {
+          "id": "in-hard-aditya-l1",
+          "front": "Which mission studies the Sun from space?",
+          "answer": "Aditya-L1!",
+          "facts": [
+            "Aditya-L1 was launched in 2023.",
+            "It studies the Sun from a special point in space called L1."
+          ],
+          "didYouKnow": "Aditya is another name for the Sun God."
+        },
+        {
+          "id": "in-hard-aryabhata",
+          "front": "Which ancient Indian mathematician wrote the Aryabhatiya?",
+          "answer": "Aryabhata!",
+          "facts": [
+            "Aryabhata lived about 1,500 years ago.",
+            "He explained that the Earth spins on its axis and worked out the length of the year."
+          ],
+          "didYouKnow": "India's first satellite was named Aryabhata in his honour."
+        },
+        {
+          "id": "in-hard-homi-bhabha",
+          "front": "Who is called the Father of the Indian Nuclear Programme?",
+          "answer": "Homi J. Bhabha!",
+          "facts": [
+            "Homi Bhabha set up the Tata Institute of Fundamental Research.",
+            "He also led India's Atomic Energy Commission."
+          ],
+          "didYouKnow": "Homi Bhabha dreamed that India would use atomic energy for peace."
+        },
+        {
+          "id": "in-hard-sanchi",
+          "front": "Which Buddhist stupa was built by Emperor Ashoka?",
+          "answer": "The Great Stupa at Sanchi!",
+          "facts": [
+            "It is in Madhya Pradesh and was built in the 3rd century BCE.",
+            "It is one of the oldest stone buildings in India."
+          ],
+          "didYouKnow": "The four gateways of the stupa are carved with stories from the life of the Buddha."
+        },
+        {
+          "id": "in-hard-hawa-mahal",
+          "front": "Which palace in Jaipur is called the Palace of Winds?",
+          "answer": "The Hawa Mahal!",
+          "facts": [
+            "It was built in 1799 by Maharaja Sawai Pratap Singh.",
+            "It has 953 small windows, called jharokhas."
+          ],
+          "didYouKnow": "The palace was built so royal women could watch festivals in the street without being seen."
+        },
+        {
+          "id": "in-hard-kumbh",
+          "front": "Which gathering is the largest religious gathering in the world?",
+          "answer": "The Kumbh Mela!",
+          "facts": [
+            "The Kumbh Mela is held in turn at Prayagraj, Haridwar, Nashik and Ujjain.",
+            "More than 100 million people came to the Kumbh in Prayagraj in 2013."
+          ],
+          "didYouKnow": "The Kumbh Mela is so big that it can be seen from space."
+        },
+        {
+          "id": "in-hard-kuchipudi",
+          "front": "Which classical dance comes from Andhra Pradesh?",
+          "answer": "Kuchipudi!",
+          "facts": [
+            "Kuchipudi began in a village of the same name in Andhra Pradesh.",
+            "Dancers tell stories with fast footwork and face expressions."
+          ],
+          "didYouKnow": "In Kuchipudi, dancers sometimes dance on the rim of a brass plate."
+        },
+        {
+          "id": "in-hard-ambedkar",
+          "front": "Who was the chief architect of the Indian Constitution?",
+          "answer": "Dr. B. R. Ambedkar!",
+          "facts": [
+            "Dr. Ambedkar led the team that wrote the Constitution.",
+            "He fought all his life for the rights of the oppressed."
+          ],
+          "didYouKnow": "Dr. Ambedkar's birthday, 14th April, is celebrated as Ambedkar Jayanti."
+        },
+        {
+          "id": "in-hard-vivekananda",
+          "front": "Who spoke at the World Parliament of Religions in Chicago in 1893?",
+          "answer": "Swami Vivekananda!",
+          "facts": [
+            "Vivekananda began his speech with 'Sisters and brothers of America'.",
+            "He founded the Ramakrishna Mission in 1897."
+          ],
+          "didYouKnow": "Vivekananda's speech in Chicago made him famous all over the world."
+        },
+        {
+          "id": "in-hard-neeraj-chopra",
+          "front": "Who won India's first Olympic gold medal in athletics?",
+          "answer": "Neeraj Chopra!",
+          "facts": [
+            "Neeraj Chopra won gold in javelin throw at the Tokyo Olympics.",
+            "He is from Haryana and was a soldier in the Indian Army."
+          ],
+          "didYouKnow": "Neeraj Chopra's winning throw went 87.58 metres."
         }
       ],
       "color": "#FF9933",
@@ -3765,6 +5685,246 @@
           ],
           "front": "Why do people in Tamil Nadu eat food on a banana leaf?",
           "id": "tamil-nadu-gk-easy-x2"
+        },
+        {
+          "answer": "Salem!",
+          "didYouKnow": "Salem mangoes are so sweet that people come from far away to buy them.",
+          "facts": [
+            "Salem is famous for making steel.",
+            "Salem is also famous for its sweet mangoes."
+          ],
+          "front": "Which city in Tamil Nadu is called the Steel City?",
+          "id": "salem-steel"
+        },
+        {
+          "answer": "Erode!",
+          "didYouKnow": "Erode turmeric has a special GI tag, which means it is famous all over India.",
+          "facts": [
+            "Erode grows and sells a lot of turmeric.",
+            "Turmeric is the yellow powder used in cooking."
+          ],
+          "front": "Which city is famous for yellow turmeric?",
+          "id": "erode-turmeric"
+        },
+        {
+          "answer": "Dosa!",
+          "didYouKnow": "Dosa is eaten for breakfast in many homes in Tamil Nadu.",
+          "facts": [
+            "Dosa is made from rice and dal batter.",
+            "It is served with sambar and coconut chutney."
+          ],
+          "front": "Which yummy food is a thin, crispy pancake?",
+          "id": "dosa"
+        },
+        {
+          "answer": "Idli!",
+          "didYouKnow": "Idli is steamed, not fried, so it is very light and healthy.",
+          "facts": [
+            "Idli is made from rice and dal batter, steamed in small moulds.",
+            "It is soft, light and very healthy."
+          ],
+          "front": "Which soft white food is steamed and eaten with sambar?",
+          "id": "idli"
+        },
+        {
+          "answer": "Filter coffee!",
+          "didYouKnow": "People pour the coffee from a height to make it frothy and cool.",
+          "facts": [
+            "Filter coffee is made with a metal filter and frothy milk.",
+            "It is served in a small steel tumbler and bowl."
+          ],
+          "front": "Which hot drink do people in Tamil Nadu love in the morning?",
+          "id": "filter-coffee"
+        },
+        {
+          "answer": "The coconut tree!",
+          "didYouKnow": "Every part of the coconut tree is useful — the nut, the leaves and even the trunk.",
+          "facts": [
+            "Coconut trees grow in plenty all over Tamil Nadu.",
+            "Tender coconut water is a cool and healthy drink."
+          ],
+          "front": "Which tall tree gives us tender coconut water?",
+          "id": "coconut-tree"
+        },
+        {
+          "answer": "The Shore Temple!",
+          "didYouKnow": "The Shore Temple is one of the oldest stone temples in South India.",
+          "facts": [
+            "The Shore Temple was built more than 1,200 years ago.",
+            "It is a UNESCO World Heritage Site."
+          ],
+          "front": "Which famous temple stands by the sea at Mamallapuram?",
+          "id": "mamallapuram-shore-temple"
+        },
+        {
+          "answer": "The Pamban Bridge!",
+          "didYouKnow": "The bridge can open in the middle to let big ships pass under it.",
+          "facts": [
+            "The Pamban Bridge was opened in 1914.",
+            "It was the first sea bridge in India."
+          ],
+          "front": "Which bridge takes trains across the sea to Rameswaram?",
+          "id": "rameswaram-pamban"
+        },
+        {
+          "answer": "Kanyakumari!",
+          "didYouKnow": "On full moon days, you can see the sunset and the moonrise at the same time in Kanyakumari.",
+          "facts": [
+            "The Bay of Bengal, the Arabian Sea and the Indian Ocean meet at Kanyakumari.",
+            "Kanyakumari is the southernmost tip of India."
+          ],
+          "front": "At which place do three seas meet?",
+          "id": "kanyakumari-three-seas"
+        },
+        {
+          "answer": "Thiruvalluvar!",
+          "didYouKnow": "The statue is 133 feet tall because the Thirukkural has 133 chapters.",
+          "facts": [
+            "The statue is 133 feet tall.",
+            "It was built to honour Thiruvalluvar, who wrote the Thirukkural."
+          ],
+          "front": "Whose tall statue stands on a rock in the sea at Kanyakumari?",
+          "id": "thiruvalluvar-statue"
+        },
+        {
+          "answer": "Mudumalai Tiger Reserve!",
+          "didYouKnow": "Mudumalai is part of the Nilgiri Biosphere Reserve.",
+          "facts": [
+            "Mudumalai is in the Nilgiri Hills.",
+            "Tigers, elephants and deer live in this forest."
+          ],
+          "front": "Which forest in the Nilgiris is famous for tigers and elephants?",
+          "id": "mudumalai-tiger-reserve"
+        },
+        {
+          "answer": "Guindy National Park!",
+          "didYouKnow": "Guindy is one of the smallest national parks in India.",
+          "facts": [
+            "Guindy National Park is right inside Chennai.",
+            "Deer, jackals and many birds live there."
+          ],
+          "front": "Which national park is inside Chennai city?",
+          "id": "guindy-national-park"
+        },
+        {
+          "answer": "Puthandu!",
+          "didYouKnow": "On Puthandu, people eat a special dish with six tastes — sweet, sour, salty, bitter, spicy and tangy.",
+          "facts": [
+            "Puthandu is the Tamil New Year.",
+            "It falls on 14 April every year."
+          ],
+          "front": "Which new year festival do Tamil people celebrate in April?",
+          "id": "tamil-new-year"
+        },
+        {
+          "answer": "The Srivilliputhur Temple Tower!",
+          "didYouKnow": "The Srivilliputhur tower is 192 feet tall.",
+          "facts": [
+            "The tower belongs to the Andal Temple in Srivilliputhur.",
+            "It is the emblem of the Tamil Nadu government."
+          ],
+          "front": "Which temple tower is the symbol of Tamil Nadu?",
+          "id": "srivilliputhur-tower"
+        },
+        {
+          "answer": "Palani Murugan Temple!",
+          "didYouKnow": "A rope car and a winch carry people up the Palani hill.",
+          "facts": [
+            "Palani is one of the six holy homes of Lord Murugan.",
+            "People climb 690 steps to reach the temple on the hill."
+          ],
+          "front": "Which hill temple is one of the six holy homes of Lord Murugan?",
+          "id": "murugan-palani"
+        },
+        {
+          "answer": "Kodaikanal!",
+          "didYouKnow": "Kodaikanal Lake is shaped like a star when you see it from above.",
+          "facts": [
+            "Kodaikanal is in the Palani Hills.",
+            "It has a beautiful star-shaped lake."
+          ],
+          "front": "Which hill station is called the Princess of Hill Stations?",
+          "id": "kodaikanal"
+        },
+        {
+          "answer": "Hogenakkal Falls!",
+          "didYouKnow": "The water at Hogenakkal is said to have healing powers.",
+          "facts": [
+            "Hogenakkal Falls is on the Kaveri river.",
+            "Boats made of bamboo, called coracles, carry people near the falls."
+          ],
+          "front": "Which waterfall is called the Niagara of India?",
+          "id": "hogenakkal-falls"
+        },
+        {
+          "answer": "Kolam!",
+          "didYouKnow": "Ants and birds eat the rice powder used in kolams.",
+          "facts": [
+            "Kolam is drawn with rice powder on the ground.",
+            "People draw kolams to welcome guests and good luck."
+          ],
+          "front": "What beautiful drawing do people make in front of their homes every morning?",
+          "id": "kolam"
+        },
+        {
+          "answer": "The Thanjavur Dancing Doll!",
+          "didYouKnow": "The Thanjavur dancing doll is so famous that it has a GI tag.",
+          "facts": [
+            "The Thanjavur doll is made in Thanjavur.",
+            "Its head and body move when you tap it gently."
+          ],
+          "front": "Which famous doll nods its head when you touch it?",
+          "id": "thanjavur-doll"
+        },
+        {
+          "answer": "Rockfort!",
+          "didYouKnow": "The rock of Rockfort is more than 3,000 million years old — one of the oldest rocks in the world.",
+          "facts": [
+            "Rockfort stands on a rock that is 83 metres tall.",
+            "There is a temple of Lord Ganesha at the top."
+          ],
+          "front": "Which fort in Trichy is built on top of a huge rock?",
+          "id": "trichy-rockfort"
+        },
+        {
+          "answer": "Thoothukudi!",
+          "didYouKnow": "Ships from Thoothukudi carry goods to many countries.",
+          "facts": [
+            "Thoothukudi is a big port city on the sea.",
+            "It is called the Pearl City because pearls were found in its sea long ago."
+          ],
+          "front": "Which port city is called the Pearl City?",
+          "id": "tuticorin-pearl-city"
+        },
+        {
+          "answer": "Tiruppur!",
+          "didYouKnow": "Tiruppur sends clothes worth thousands of crores of rupees to other countries every year.",
+          "facts": [
+            "Tiruppur makes T-shirts and clothes for the whole world.",
+            "Its clothes are sold in many countries."
+          ],
+          "front": "Which city is called the knitwear capital of India?",
+          "id": "tiruppur-knitwear"
+        },
+        {
+          "answer": "Courtallam!",
+          "didYouKnow": "Courtallam has nine waterfalls, and the Main Falls is the biggest.",
+          "facts": [
+            "Courtallam is famous for its waterfalls.",
+            "People bathe under the falls because the water is cool and fresh."
+          ],
+          "front": "Which place is called the Spa of South India?",
+          "id": "courtallam-falls"
+        },
+        {
+          "answer": "Sivakasi!",
+          "didYouKnow": "Sivakasi is also called Little Japan because it is full of busy factories.",
+          "facts": [
+            "Sivakasi makes crackers and fireworks for Diwali.",
+            "It is also famous for printing presses."
+          ],
+          "front": "Which town makes most of the fireworks in India?",
+          "id": "sivakasi-fireworks"
         }
       ],
       "color": "#E91E63",
@@ -4228,6 +6388,246 @@
           ],
           "front": "Which famous train climbs the Nilgiri Hills to Ooty?",
           "id": "tamil-nadu-gk-medium-x2"
+        },
+        {
+          "answer": "M.S. Subbulakshmi!",
+          "didYouKnow": "In 1966, she was the first Indian to sing at the United Nations.",
+          "facts": [
+            "M.S. Subbulakshmi was one of the greatest Carnatic singers of India.",
+            "She sang the famous song 'Kurai Onrum Illai'."
+          ],
+          "front": "Who was the famous Carnatic singer called M.S.?",
+          "id": "ms-subbulakshmi"
+        },
+        {
+          "answer": "Dr. A.P.J. Abdul Kalam!",
+          "didYouKnow": "Dr. Kalam was the President of India from 2002 to 2007.",
+          "facts": [
+            "Dr. Kalam was born in Rameswaram in Tamil Nadu.",
+            "He was called the Missile Man of India."
+          ],
+          "front": "Which scientist from Rameswaram became the President of India?",
+          "id": "apj-abdul-kalam"
+        },
+        {
+          "answer": "Sir C.V. Raman!",
+          "didYouKnow": "The Raman Effect is named after him, and 28 February is celebrated as National Science Day in India.",
+          "facts": [
+            "C.V. Raman was born in Tiruchirappalli.",
+            "He won the Nobel Prize in 1930 for his work on light."
+          ],
+          "front": "Which scientist from Trichy won the Nobel Prize in Physics?",
+          "id": "cv-raman"
+        },
+        {
+          "answer": "Srinivasa Ramanujan!",
+          "didYouKnow": "Ramanujan wrote down thousands of maths formulas, many without proof — and most turned out to be true.",
+          "facts": [
+            "Ramanujan was born in Erode and grew up in Kumbakonam.",
+            "He worked with the famous mathematician G.H. Hardy in England."
+          ],
+          "front": "Which maths genius from Tamil Nadu amazed the world with numbers?",
+          "id": "ramanujan"
+        },
+        {
+          "answer": "C.N. Annadurai!",
+          "didYouKnow": "Annadurai was a great speaker and writer in Tamil.",
+          "facts": [
+            "Annadurai became the first Chief Minister of Tamil Nadu in 1967.",
+            "He gave the state its name, Tamil Nadu, in 1969."
+          ],
+          "front": "Who was the first Chief Minister of Tamil Nadu?",
+          "id": "annadurai"
+        },
+        {
+          "answer": "V.O. Chidambaram Pillai!",
+          "didYouKnow": "The Tuticorin port is named after V.O. Chidambaram Pillai.",
+          "facts": [
+            "V.O.C. started an Indian shipping company in 1906.",
+            "He wanted Indian ships to challenge British ships."
+          ],
+          "front": "Who is known as Kappalottiya Tamizhan, the Tamilian who launched a ship?",
+          "id": "voc-pillai"
+        },
+        {
+          "answer": "Ilaiyaraaja!",
+          "didYouKnow": "Ilaiyaraaja was the first Asian to compose a symphony with the Royal Philharmonic Orchestra of London.",
+          "facts": [
+            "Ilaiyaraaja is from Pannaipuram in Theni district.",
+            "He has composed music for more than 1,000 films."
+          ],
+          "front": "Which music composer from Tamil Nadu made music for more than 1,000 films?",
+          "id": "ilaiyaraaja"
+        },
+        {
+          "answer": "The Chola Dynasty!",
+          "didYouKnow": "The Chola kings built temples with stones so big that people still wonder how they lifted them.",
+          "facts": [
+            "The Cholas ruled Tamil Nadu from about 850 CE to 1279 CE.",
+            "They built many great temples, like the Brihadeeswara Temple."
+          ],
+          "front": "Which great dynasty ruled Tamil Nadu for about 400 years?",
+          "id": "chola-dynasty"
+        },
+        {
+          "answer": "The Pallava Dynasty!",
+          "didYouKnow": "The Pallava king Narasimhavarman was called Mamalla, which means great wrestler — and Mamallapuram is named after him.",
+          "facts": [
+            "The Pallavas ruled from Kanchipuram more than 1,300 years ago.",
+            "They built the famous temples at Mamallapuram."
+          ],
+          "front": "Which dynasty had its capital at Kanchipuram?",
+          "id": "pallava-kanchipuram"
+        },
+        {
+          "answer": "Chera, Chola and Pandya!",
+          "didYouKnow": "The Pandya flag had a fish on it, and the Chola flag had a tiger.",
+          "facts": [
+            "The Chera, Chola and Pandya kings are called the Moovendar.",
+            "Each kingdom had its own capital, army and flag."
+          ],
+          "front": "Which three kingdoms ruled ancient Tamil Nadu?",
+          "id": "three-kingdoms"
+        },
+        {
+          "answer": "Kamban!",
+          "didYouKnow": "Kamban was a court poet of the Chola kings.",
+          "facts": [
+            "Kamban wrote the Kamba Ramayanam in the 12th century.",
+            "His Tamil Ramayana is one of the greatest books in Tamil literature."
+          ],
+          "front": "Who wrote the Ramayana in Tamil?",
+          "id": "kamban"
+        },
+        {
+          "answer": "Tamil!",
+          "didYouKnow": "Tamil is an official language in Sri Lanka and Singapore too.",
+          "facts": [
+            "Tamil has been spoken for more than 2,000 years.",
+            "Old Tamil books like Sangam literature are still read today."
+          ],
+          "front": "Which language is one of the oldest still spoken in the world?",
+          "id": "tamil-oldest-language"
+        },
+        {
+          "answer": "Kannagi!",
+          "didYouKnow": "Kannagi is worshipped as a goddess in Tamil Nadu and Kerala.",
+          "facts": [
+            "Kannagi is the brave heroine of Silappatikaram.",
+            "Her story is about justice — she fought for her husband, Kovalan."
+          ],
+          "front": "Who is the heroine of the Tamil epic Silappatikaram?",
+          "id": "kannagi-heroine"
+        },
+        {
+          "answer": "The Vaigai River!",
+          "didYouKnow": "The Vaigai river is named in many old Tamil poems.",
+          "facts": [
+            "The Vaigai flows through Madurai in southern Tamil Nadu.",
+            "It joins the sea in the Palk Strait."
+          ],
+          "front": "Which river flows through Madurai?",
+          "id": "vaigai-river"
+        },
+        {
+          "answer": "The Tamirabharani River!",
+          "didYouKnow": "The Tamirabharani never dries up, even in summer.",
+          "facts": [
+            "The Tamirabharani starts in the Western Ghats.",
+            "It flows through Tirunelveli and reaches the sea near Thoothukudi."
+          ],
+          "front": "Which river flows through Tirunelveli?",
+          "id": "tamirabharani-river"
+        },
+        {
+          "answer": "The Palk Strait!",
+          "didYouKnow": "The Palk Strait is so shallow in some places that you can almost walk across at low tide.",
+          "facts": [
+            "The Palk Strait separates Tamil Nadu from Sri Lanka.",
+            "It is named after Robert Palk, a British governor of Madras."
+          ],
+          "front": "Which sea strait lies between Tamil Nadu and Sri Lanka?",
+          "id": "palk-strait"
+        },
+        {
+          "answer": "The Gulf of Mannar!",
+          "didYouKnow": "The Gulf of Mannar was India's first marine biosphere reserve.",
+          "facts": [
+            "The Gulf of Mannar lies between Tamil Nadu and Sri Lanka.",
+            "It is home to coral reefs, sea cows and pearl oysters."
+          ],
+          "front": "Which gulf between Tamil Nadu and Sri Lanka is famous for corals and pearls?",
+          "id": "gulf-of-mannar"
+        },
+        {
+          "answer": "Pichavaram!",
+          "didYouKnow": "Mangrove trees grow in salty water, and their roots protect the coast from big waves.",
+          "facts": [
+            "Pichavaram is a mangrove forest near Chidambaram.",
+            "Boats take visitors through its quiet green water channels."
+          ],
+          "front": "Which mangrove forest near Chidambaram is one of the largest in India?",
+          "id": "pichavaram-mangroves"
+        },
+        {
+          "answer": "Sri Ranganathaswamy Temple, Srirangam!",
+          "didYouKnow": "The Srirangam temple is so big that a small town with streets and houses sits inside its walls.",
+          "facts": [
+            "The Srirangam temple covers about 156 acres.",
+            "It has 21 tall towers called gopurams."
+          ],
+          "front": "Which temple in Trichy is one of the largest temple complexes in the world?",
+          "id": "srirangam-temple"
+        },
+        {
+          "answer": "The Nataraja Temple, Chidambaram!",
+          "didYouKnow": "Dancers from all over India come to Chidambaram for the Natyanjali dance festival.",
+          "facts": [
+            "The Nataraja Temple in Chidambaram shows Shiva dancing in a golden hall.",
+            "It is one of the five Pancha Bhoota Sthalams, for the element of space."
+          ],
+          "front": "Which temple is famous for Lord Shiva as the dancing Nataraja?",
+          "id": "chidambaram-nataraja"
+        },
+        {
+          "answer": "Yercaud!",
+          "didYouKnow": "Yercaud is called the Poor Man's Ooty because it is pretty like Ooty but less crowded.",
+          "facts": [
+            "Yercaud is a hill station in the Shevaroy Hills near Salem.",
+            "Its lake is called the Emerald Lake."
+          ],
+          "front": "Which hill station near Salem is famous for its lake?",
+          "id": "yercaud"
+        },
+        {
+          "answer": "The Madras Crocodile Bank!",
+          "didYouKnow": "The Crocodile Bank was started by Romulus Whitaker, a famous snake expert.",
+          "facts": [
+            "The Crocodile Bank is near Mamallapuram, south of Chennai.",
+            "It looks after many kinds of crocodiles and snakes."
+          ],
+          "front": "Which famous centre near Mamallapuram protects crocodiles?",
+          "id": "crocodile-bank"
+        },
+        {
+          "answer": "Thiruchendur Murugan Temple!",
+          "didYouKnow": "At Thiruchendur, the sea waves touch the temple walls.",
+          "facts": [
+            "Thiruchendur is one of the six holy homes of Lord Murugan.",
+            "It is the only Murugan temple that stands right on the sea shore."
+          ],
+          "front": "Which Murugan temple stands on the sea shore?",
+          "id": "thiruchendur"
+        },
+        {
+          "answer": "Karagattam!",
+          "didYouKnow": "Karagattam is performed to honour Mariamman, the goddess of rain.",
+          "facts": [
+            "Karagattam is a traditional dance of Tamil Nadu.",
+            "Dancers balance a decorated pot on their head while dancing."
+          ],
+          "front": "In which Tamil dance do dancers balance a pot on their head?",
+          "id": "karagattam"
         }
       ],
       "color": "#E91E63",
@@ -4691,6 +7091,246 @@
           ],
           "front": "Which famous painting style comes from Thanjavur?",
           "id": "tamil-nadu-gk-hard-x2"
+        },
+        {
+          "answer": "The Cholas!",
+          "didYouKnow": "Rajendra Chola's navy even reached the kingdom of Srivijaya in 1025 CE.",
+          "facts": [
+            "The Cholas built strong ships and had a powerful navy.",
+            "Their ships sailed to South-East Asia, to places like Malaysia and Indonesia."
+          ],
+          "front": "Which Tamil dynasty had a powerful navy that sailed to South-East Asia?",
+          "id": "chola-navy"
+        },
+        {
+          "answer": "The Cholas!",
+          "didYouKnow": "Chola bronze statues are made using the lost-wax method, which is more than 4,000 years old.",
+          "facts": [
+            "Chola bronze statues are famous all over the world.",
+            "The dancing Shiva, or Nataraja, is the most famous Chola bronze."
+          ],
+          "front": "Which dynasty made the world-famous bronze statue of dancing Shiva?",
+          "id": "chola-bronze"
+        },
+        {
+          "answer": "Keezhadi!",
+          "didYouKnow": "Keezhadi shows that Tamil people lived in towns with brick houses and drainage more than 2,500 years ago.",
+          "facts": [
+            "Keezhadi is an excavation site near Madurai.",
+            "Artefacts found there are from the 6th century BCE, more than 2,500 years ago."
+          ],
+          "front": "Which excavation near Madurai found Tamil artefacts more than 2,500 years old?",
+          "id": "keezhadi"
+        },
+        {
+          "answer": "Sangam Literature!",
+          "didYouKnow": "Sangam poems talk about love, war, kings, farming and the sea.",
+          "facts": [
+            "Sangam literature is the oldest Tamil writing.",
+            "It was written more than 2,000 years ago by Tamil poets."
+          ],
+          "front": "What is the oldest Tamil writing called?",
+          "id": "sangam-literature"
+        },
+        {
+          "answer": "Tolkappiyam!",
+          "didYouKnow": "Tolkappiyam also teaches poets how to write poems about love and war.",
+          "facts": [
+            "Tolkappiyam is the oldest Tamil grammar book.",
+            "It was written more than 2,000 years ago."
+          ],
+          "front": "What is the oldest Tamil grammar book called?",
+          "id": "tolkappiyam"
+        },
+        {
+          "answer": "Manimekalai!",
+          "didYouKnow": "Manimekalai was written by Seethalai Sattanar, a Tamil poet.",
+          "facts": [
+            "Manimekalai is one of the five great Tamil epics.",
+            "Its heroine feeds the hungry with a magic bowl called Amudhasurabhi."
+          ],
+          "front": "Which Tamil epic tells of a woman who feeds the hungry with a magic bowl?",
+          "id": "manimekalai-bowl"
+        },
+        {
+          "answer": "Dravidian Architecture!",
+          "didYouKnow": "Dravidian architecture began more than 1,300 years ago under the Pallava kings.",
+          "facts": [
+            "The great temples of Tamil Nadu are built in the Dravidian style.",
+            "Dravidian temples have tall towers called gopurams and pillared halls."
+          ],
+          "front": "In which style are the great temples of Tamil Nadu built?",
+          "id": "dravidian-architecture"
+        },
+        {
+          "answer": "The Descent of the Ganges!",
+          "didYouKnow": "The carving tells the story of the river Ganga coming down to Earth.",
+          "facts": [
+            "The Descent of the Ganges is a huge rock carving at Mamallapuram.",
+            "It is about 29 metres long and 13 metres high."
+          ],
+          "front": "Which giant rock carving at Mamallapuram is one of the largest in the world?",
+          "id": "descent-of-ganges"
+        },
+        {
+          "answer": "The Five Rathas!",
+          "didYouKnow": "The Five Rathas were carved in the 7th century, more than 1,300 years ago.",
+          "facts": [
+            "The Five Rathas at Mamallapuram are five temples carved from single rocks.",
+            "Each ratha is named after a hero of the Mahabharata."
+          ],
+          "front": "Which five temples at Mamallapuram are each carved from a single rock?",
+          "id": "five-rathas"
+        },
+        {
+          "answer": "The Kailasanathar Temple!",
+          "didYouKnow": "The temple is built of sandstone and has small shrines all around its walls.",
+          "facts": [
+            "The Kailasanathar Temple was built about 1,300 years ago.",
+            "It was built by the Pallava king Narasimhavarman II."
+          ],
+          "front": "Which is the oldest temple in Kanchipuram?",
+          "id": "kailasanathar-kanchipuram"
+        },
+        {
+          "answer": "The Airavatesvara Temple!",
+          "didYouKnow": "The temple has stone steps that sing like musical notes when you tap them.",
+          "facts": [
+            "The Airavatesvara Temple at Darasuram was built by Rajaraja Chola II.",
+            "It is one of the three Great Living Chola Temples on the UNESCO list."
+          ],
+          "front": "Which Chola temple at Darasuram is on the UNESCO World Heritage list?",
+          "id": "airavatesvara-darasuram"
+        },
+        {
+          "answer": "Veerapandiya Kattabomman!",
+          "didYouKnow": "Kattabomman is remembered as one of the first Tamil freedom fighters.",
+          "facts": [
+            "Kattabomman was the ruler of Panchalankurichi.",
+            "He refused to pay taxes to the British and fought them."
+          ],
+          "front": "Which Tamil king fought the British and was hanged in 1799?",
+          "id": "veerapandiya-kattabomman"
+        },
+        {
+          "answer": "Dheeran Chinnamalai!",
+          "didYouKnow": "Dheeran Chinnamalai was hanged by the British in 1805.",
+          "facts": [
+            "Dheeran Chinnamalai was a freedom fighter from Kongu Nadu.",
+            "He fought the British in three battles at Cauvery, Odanilai and Arachalur."
+          ],
+          "front": "Which freedom fighter from Kongu Nadu fought the British?",
+          "id": "dheeran-chinnamalai"
+        },
+        {
+          "answer": "The Marudhu Brothers!",
+          "didYouKnow": "The Marudhu brothers gave shelter to Veerapandiya Kattabomman's family.",
+          "facts": [
+            "The Marudhu brothers, Periya Marudhu and Chinna Marudhu, ruled Sivaganga.",
+            "They fought the British and were hanged in 1801."
+          ],
+          "front": "Which two brothers were freedom fighters from Sivaganga?",
+          "id": "marudhu-brothers"
+        },
+        {
+          "answer": "Tiruppur Kumaran!",
+          "didYouKnow": "Kumaran is called Kodi Katha Kumaran, which means Kumaran who protected the flag.",
+          "facts": [
+            "Tiruppur Kumaran was a freedom fighter from Tiruppur.",
+            "He died in 1932 while holding the Indian flag in a protest."
+          ],
+          "front": "Which freedom fighter died holding the Indian flag in 1932?",
+          "id": "tiruppur-kumaran"
+        },
+        {
+          "answer": "J. Jayalalithaa!",
+          "didYouKnow": "Jayalalithaa was called Amma, which means mother, by her supporters.",
+          "facts": [
+            "Jayalalithaa was a famous film actor before she entered politics.",
+            "She was the Chief Minister of Tamil Nadu six times."
+          ],
+          "front": "Which actor became the Chief Minister of Tamil Nadu?",
+          "id": "jayalalithaa"
+        },
+        {
+          "answer": "Korkai!",
+          "didYouKnow": "Greek and Roman writers wrote about the pearls of Korkai more than 2,000 years ago.",
+          "facts": [
+            "Korkai was an ancient port of the Pandya kings.",
+            "It was famous for pearl fishing long ago."
+          ],
+          "front": "Which ancient Pandya port was famous for pearls?",
+          "id": "korkai-port"
+        },
+        {
+          "answer": "The Vellore Mutiny!",
+          "didYouKnow": "The Vellore Mutiny happened 51 years before the great revolt of 1857.",
+          "facts": [
+            "The Vellore Mutiny happened in 1806 at Vellore Fort.",
+            "Indian soldiers rose against the British, many years before the revolt of 1857."
+          ],
+          "front": "Which revolt in 1806 was one of the first against British rule in India?",
+          "id": "vellore-mutiny"
+        },
+        {
+          "answer": "The Western Ghats!",
+          "didYouKnow": "The Western Ghats are older than the Himalaya mountains.",
+          "facts": [
+            "The Western Ghats run along the western side of Tamil Nadu.",
+            "They are one of the world's richest places for plants and animals."
+          ],
+          "front": "Which mountain range runs along Tamil Nadu and is a UNESCO World Heritage site?",
+          "id": "western-ghats"
+        },
+        {
+          "answer": "Vedanthangal Bird Sanctuary!",
+          "didYouKnow": "Vedanthangal has been protected as a bird sanctuary since 1798.",
+          "facts": [
+            "Vedanthangal is near Chennai in Tamil Nadu.",
+            "Thousands of birds from faraway countries come here every year."
+          ],
+          "front": "Which is one of the oldest bird sanctuaries in India?",
+          "id": "vedanthangal-birds"
+        },
+        {
+          "answer": "Tamil!",
+          "didYouKnow": "A classical language is one with a very old and rich literature.",
+          "facts": [
+            "Tamil was declared a classical language in 2004.",
+            "It was the first Indian language to get this honour."
+          ],
+          "front": "Which was the first Indian language declared a classical language?",
+          "id": "tamil-classical-language"
+        },
+        {
+          "answer": "Bhavanisagar Dam!",
+          "didYouKnow": "The dam helps farmers water their fields in Erode district.",
+          "facts": [
+            "Bhavanisagar Dam is built on the Bhavani river near Sathyamangalam.",
+            "It is one of the largest earthen dams in the world."
+          ],
+          "front": "Which dam in Tamil Nadu is one of the largest earthen dams in the world?",
+          "id": "bhavanisagar-dam"
+        },
+        {
+          "answer": "Kalpakkam!",
+          "didYouKnow": "Kalpakkam also has a research centre where scientists study atoms.",
+          "facts": [
+            "Kalpakkam has the Madras Atomic Power Station.",
+            "The power station makes electricity from nuclear energy."
+          ],
+          "front": "Which town near Chennai has a nuclear power plant?",
+          "id": "kalapakkam-nuclear"
+        },
+        {
+          "answer": "The Saraswathi Mahal Library!",
+          "didYouKnow": "The library was started by the Nayak kings and made famous by the Maratha king Serfoji II.",
+          "facts": [
+            "The Saraswathi Mahal Library is in Thanjavur.",
+            "It has thousands of old palm-leaf manuscripts in Tamil and Sanskrit."
+          ],
+          "front": "Which library in Thanjavur is one of the oldest in Asia?",
+          "id": "saraswathi-mahal-library"
         }
       ],
       "color": "#E91E63",
@@ -5094,5 +7734,5 @@
       ]
     }
   ],
-  "version": 2
+  "version": 3
 }
