@@ -10,7 +10,10 @@
             "Lions sleep up to 20 hours a day!"
           ],
           "front": "Who is called the King of the Jungle?",
-          "id": "lion"
+          "id": "lion",
+          "media": {
+            "image": "https://images.pexels.com/photos/2220337/pexels-photo-2220337.jpeg?cs=srgb&dl=animal-animal-photography-animal-portrait-2220337.jpg&fm=jpg"
+          }
         },
         {
           "answer": "The Penguin!",
@@ -20,7 +23,10 @@
             "Emperor penguins are the tallest, about 1.1 metres tall."
           ],
           "front": "Which bird cannot fly but loves to swim?",
-          "id": "penguin"
+          "id": "penguin",
+          "media": {
+            "image": "https://images.pexels.com/photos/4468725/pexels-photo-4468725.jpeg?auto=compress&w=600"
+          }
         },
         {
           "answer": "The African Elephant!",
@@ -30,7 +36,10 @@
             "Elephants can hear with their feet — they feel rumbles in the ground."
           ],
           "front": "Which is the largest land animal?",
-          "id": "elephant"
+          "id": "elephant",
+          "media": {
+            "image": "https://images.pexels.com/photos/26926248/pexels-photo-26926248.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         },
         {
           "answer": "The Butterfly!",
@@ -40,7 +49,10 @@
             "The Monarch butterfly can fly 4,000 km on migration!"
           ],
           "front": "Which insect tastes with its feet?",
-          "id": "butterfly"
+          "id": "butterfly",
+          "media": {
+            "image": "https://images.pexels.com/photos/7279658/pexels-photo-7279658.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Cheetah!",
@@ -50,7 +62,10 @@
             "It can go from 0 to 100 km per hour in about 3 seconds."
           ],
           "front": "Which land animal is the fastest runner?",
-          "id": "amazing-animals-x1"
+          "id": "amazing-animals-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/16097293/pexels-photo-16097293/free-photo-of-cheetah-looking-at-camera.jpeg?auto=compress&w=600"
+          }
         },
         {
           "answer": "The Octopus!",
@@ -60,7 +75,10 @@
             "They can change colour and squeeze through a gap as small as a coin."
           ],
           "front": "Which sea animal has three hearts?",
-          "id": "amazing-animals-x2"
+          "id": "amazing-animals-x2",
+          "media": {
+            "image": "https://images.pexels.com/photos/23025304/pexels-photo-23025304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          }
         },
         {
           "id": "giraffe",
@@ -70,7 +88,10 @@
             "A giraffe's long neck helps it eat leaves from the tops of tall trees.",
             "A giraffe has the same number of neck bones as you — seven!"
           ],
-          "didYouKnow": "A giraffe's tongue is dark blue and can be about half a metre long!"
+          "didYouKnow": "A giraffe's tongue is dark blue and can be about half a metre long!",
+          "media": {
+            "image": "https://images.pexels.com/photos/26837643/pexels-photo-26837643/free-photo-of-giraffe.jpeg?auto=compress&cs=tinysrgb&w=600&loading=lazy"
+          }
         },
         {
           "id": "tiger",
@@ -80,7 +101,10 @@
             "A tiger is the biggest cat in the world.",
             "No two tigers have the same stripes — just like your fingerprints."
           ],
-          "didYouKnow": "Tigers love water and are very good swimmers!"
+          "didYouKnow": "Tigers love water and are very good swimmers!",
+          "media": {
+            "image": "https://images.pexels.com/photos/35802457/pexels-photo-35802457.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "kangaroo",
@@ -90,7 +114,10 @@
             "A baby kangaroo is called a joey and lives in its mother's pouch.",
             "Kangaroos hop on two strong back legs and use their tail to balance."
           ],
-          "didYouKnow": "A kangaroo cannot walk backwards easily!"
+          "didYouKnow": "A kangaroo cannot walk backwards easily!",
+          "media": {
+            "image": "https://images.pexels.com/photos/33125604/pexels-photo-33125604.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "koala",
@@ -100,7 +127,10 @@
             "Koalas eat eucalyptus leaves and almost nothing else.",
             "A koala is not a bear at all — it is a marsupial, like a kangaroo."
           ],
-          "didYouKnow": "A koala can sleep for up to 20 hours a day!"
+          "didYouKnow": "A koala can sleep for up to 20 hours a day!",
+          "media": {
+            "image": "https://images.pexels.com/photos/15028204/pexels-photo-15028204.jpeg?w=600"
+          }
         },
         {
           "id": "giant-panda",
@@ -110,7 +140,10 @@
             "Giant pandas live in the mountains of China.",
             "They eat bamboo for most of the day — it is almost all they eat."
           ],
-          "didYouKnow": "A giant panda has an extra thumb-like bone that helps it hold bamboo!"
+          "didYouKnow": "A giant panda has an extra thumb-like bone that helps it hold bamboo!",
+          "media": {
+            "image": "https://images.pexels.com/photos/30415353/pexels-photo-30415353.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "polar-bear",
@@ -120,7 +153,10 @@
             "Polar bears live in the cold Arctic, around the North Pole.",
             "They are wonderful swimmers and can swim for many kilometres."
           ],
-          "didYouKnow": "A polar bear's fur looks white, but each hair is actually see-through!"
+          "didYouKnow": "A polar bear's fur looks white, but each hair is actually see-through!",
+          "media": {
+            "image": "https://images.pexels.com/photos/26600774/pexels-photo-26600774.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         },
         {
           "id": "zebra",
@@ -130,7 +166,10 @@
             "Zebras live in Africa in big groups called herds.",
             "A zebra's stripes help confuse lions that try to hunt it."
           ],
-          "didYouKnow": "No two zebras have the same stripe pattern!"
+          "didYouKnow": "No two zebras have the same stripe pattern!",
+          "media": {
+            "image": "https://images.pexels.com/photos/14881251/pexels-photo-14881251.jpeg?auto=compress&cs=tinysrgb&w=600&loading=lazy"
+          }
         },
         {
           "id": "gorilla",
@@ -140,7 +179,10 @@
             "Gorillas live in the forests of Africa.",
             "They mostly eat plants, leaves and fruit."
           ],
-          "didYouKnow": "Male gorillas beat their chests to show how strong they are!"
+          "didYouKnow": "Male gorillas beat their chests to show how strong they are!",
+          "media": {
+            "image": "https://images.pexels.com/photos/6233523/pexels-photo-6233523.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "dolphin",
@@ -150,7 +192,10 @@
             "Dolphins live in groups called pods and talk with clicks and whistles.",
             "They are mammals, so they breathe air through a hole on top of their head."
           ],
-          "didYouKnow": "A dolphin can sleep with one eye open and half of its brain awake!"
+          "didYouKnow": "A dolphin can sleep with one eye open and half of its brain awake!",
+          "media": {
+            "image": "https://images.pexels.com/photos/4610401/pexels-photo-4610401.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         },
         {
           "id": "blue-whale",
@@ -160,7 +205,10 @@
             "A blue whale can grow longer than 30 metres — longer than three buses!",
             "It eats tiny sea animals called krill, even though it is so huge."
           ],
-          "didYouKnow": "A blue whale's heart is as big as a small car!"
+          "didYouKnow": "A blue whale's heart is as big as a small car!",
+          "media": {
+            "image": "https://images.pexels.com/photos/10154784/pexels-photo-10154784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          }
         },
         {
           "id": "shark",
@@ -170,7 +218,10 @@
             "Sharks have a wonderful sense of smell and can smell a drop of blood in the sea.",
             "If a shark loses a tooth, a new one grows in its place."
           ],
-          "didYouKnow": "A shark can grow thousands of teeth in its whole life!"
+          "didYouKnow": "A shark can grow thousands of teeth in its whole life!",
+          "media": {
+            "image": "https://images.pexels.com/photos/18659794/pexels-photo-18659794/free-photo-of-shark-swimming-in-a-sea.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "owl",
@@ -180,7 +231,10 @@
             "Owls hunt at night and have very big eyes to see in the dark.",
             "They fly almost silently, so their prey cannot hear them coming."
           ],
-          "didYouKnow": "An owl can turn its head almost all the way around!"
+          "didYouKnow": "An owl can turn its head almost all the way around!",
+          "media": {
+            "image": "https://images.pexels.com/photos/6541751/pexels-photo-6541751.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+          }
         },
         {
           "id": "eagle",
@@ -190,7 +244,10 @@
             "An eagle can spot a small animal from very high in the sky.",
             "Its strong wings help it soar for hours without flapping much."
           ],
-          "didYouKnow": "The bald eagle is the national bird of the United States of America!"
+          "didYouKnow": "The bald eagle is the national bird of the United States of America!",
+          "media": {
+            "image": "https://images.pexels.com/photos/7758314/pexels-photo-7758314.jpeg?auto=compress&cs=tinysrgb&h=1280"
+          }
         },
         {
           "id": "hummingbird",
@@ -200,7 +257,10 @@
             "Hummingbirds flap their wings many times every second.",
             "They drink sweet nectar from flowers with their long beaks."
           ],
-          "didYouKnow": "A hummingbird is so small that some weigh less than a coin!"
+          "didYouKnow": "A hummingbird is so small that some weigh less than a coin!",
+          "media": {
+            "image": "https://images.pexels.com/photos/38380834/pexels-photo-38380834.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "flamingo",
@@ -210,7 +270,10 @@
             "Flamingos often stand on one leg while they rest.",
             "They eat in the water with their heads held upside down."
           ],
-          "didYouKnow": "A flamingo gets its pink colour from the food it eats — baby flamingos are born grey!"
+          "didYouKnow": "A flamingo gets its pink colour from the food it eats — baby flamingos are born grey!",
+          "media": {
+            "image": "https://images.pexels.com/photos/29870104/pexels-photo-29870104.jpeg?w=600"
+          }
         },
         {
           "id": "chameleon",
@@ -220,7 +283,10 @@
             "A chameleon can change its colour to hide or to show how it feels.",
             "Its two eyes can move in different directions at the same time."
           ],
-          "didYouKnow": "A chameleon's tongue is very long and sticky — it shoots out to catch insects!"
+          "didYouKnow": "A chameleon's tongue is very long and sticky — it shoots out to catch insects!",
+          "media": {
+            "image": "https://images.pexels.com/photos/33216835/pexels-photo-33216835.jpeg?cs=srgb&dl=pexels-regan-dsouza-1315522347-33216835.jpg&fm=jpg"
+          }
         },
         {
           "id": "snake",
@@ -230,7 +296,10 @@
             "A snake smells with its forked tongue, which picks up tiny bits from the air.",
             "Snakes shed their skin as they grow bigger."
           ],
-          "didYouKnow": "Some snakes can go for months without eating!"
+          "didYouKnow": "Some snakes can go for months without eating!",
+          "media": {
+            "image": "https://images.pexels.com/photos/17442859/pexels-photo-17442859/free-photo-of-snake-on-branch.jpeg?w=600"
+          }
         },
         {
           "id": "frog",
@@ -240,7 +309,10 @@
             "A baby frog is called a tadpole and lives in water.",
             "Frogs can live both in water and on land."
           ],
-          "didYouKnow": "Some frogs can jump 20 times their own body length!"
+          "didYouKnow": "Some frogs can jump 20 times their own body length!",
+          "media": {
+            "image": "https://images.pexels.com/photos/18169902/pexels-photo-18169902/free-photo-of-close-up-of-frog.jpeg?w=600"
+          }
         },
         {
           "id": "tortoise",
@@ -250,7 +322,10 @@
             "A tortoise carries a hard shell on its back for safety.",
             "It moves slowly but can live for a very, very long time."
           ],
-          "didYouKnow": "Some giant tortoises live for more than 100 years!"
+          "didYouKnow": "Some giant tortoises live for more than 100 years!",
+          "media": {
+            "image": "https://images.pexels.com/photos/32614546/pexels-photo-32614546/free-photo-of-tortoise-on-pebble-beach-in-natural-habitat.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "camel",
@@ -260,7 +335,10 @@
             "A camel's hump stores fat, which gives it energy in the desert.",
             "Its long eyelashes keep sand out of its eyes."
           ],
-          "didYouKnow": "A camel can go for many days without drinking water!"
+          "didYouKnow": "A camel can go for many days without drinking water!",
+          "media": {
+            "image": "https://images.pexels.com/photos/5381500/pexels-photo-5381500.jpeg?w=600"
+          }
         },
         {
           "id": "horse",
@@ -270,7 +348,10 @@
             "Horses can sleep standing up, and they can also lie down to rest.",
             "They eat grass and hay, and love to run fast."
           ],
-          "didYouKnow": "Horses have the biggest eyes of any land animal!"
+          "didYouKnow": "Horses have the biggest eyes of any land animal!",
+          "media": {
+            "image": "https://images.pexels.com/photos/13394877/pexels-photo-13394877.jpeg?w=600"
+          }
         },
         {
           "id": "dog",
@@ -280,7 +361,10 @@
             "Dogs have a sense of smell that is far better than ours.",
             "They wag their tails when they are happy or excited."
           ],
-          "didYouKnow": "A dog's nose print is unique — just like your fingerprint!"
+          "didYouKnow": "A dog's nose print is unique — just like your fingerprint!",
+          "media": {
+            "image": "https://images.pexels.com/photos/9109332/pexels-photo-9109332.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "cat",
@@ -290,7 +374,10 @@
             "Cats purr when they are happy and relaxed.",
             "They can see very well in the dark."
           ],
-          "didYouKnow": "A cat's whiskers help it feel its way in the dark and judge small spaces!"
+          "didYouKnow": "A cat's whiskers help it feel its way in the dark and judge small spaces!",
+          "media": {
+            "image": "https://images.pexels.com/photos/18316166/pexels-photo-18316166.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "bat",
@@ -300,7 +387,10 @@
             "Bats sleep hanging upside down during the day.",
             "They use echoes to find food in the dark — this is called echolocation."
           ],
-          "didYouKnow": "There are more than 1,400 kinds of bats in the world!"
+          "didYouKnow": "There are more than 1,400 kinds of bats in the world!",
+          "media": {
+            "image": "https://images.pexels.com/photos/26589599/pexels-photo-26589599/free-photo-of-black-bat-in-close-up-view.jpeg?h=1000&w=1500&fit=crop&markalign=center%2Cmiddle&txt=pexels.com&txtalign=center&txtsize=60&txtclr=eeffffff&txtfont=Avenir-Heavy&txtshad=10&mark=https%3A%2F%2Fassets.imgix.net%2F~text%3Ftxtclr%3Dfff%26txtsize%3D120%26txtpad%3D20%26bg%3D80000000%26txtfont%3DAvenir-Heavy%26txtalign%3Dcenter%26w%3D1300%26txt%3DFree%2520Stock%2520Photos"
+          }
         }
       ],
       "color": "#FF6B6B",
@@ -713,7 +803,10 @@
             "We always see the same side of the Moon."
           ],
           "front": "What glows in the night sky?",
-          "id": "moon"
+          "id": "moon",
+          "media": {
+            "image": "https://images.pexels.com/photos/29797676/pexels-photo-29797676/free-photo-of-full-moon-against-a-dark-night-sky.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Sun!",
@@ -723,7 +816,10 @@
             "The Sun is a star — the closest one to Earth."
           ],
           "front": "Which star gives us light and heat?",
-          "id": "sun"
+          "id": "sun",
+          "media": {
+            "image": "https://images.pexels.com/photos/27679978/pexels-photo-27679978/free-photo-of-the-sun-is-shining-brightly-in-the-blue-sky.jpeg?auto=compress&w=600"
+          }
         },
         {
           "answer": "Mars!",
@@ -733,7 +829,10 @@
             "A day on Mars is about 24 hours and 37 minutes."
           ],
           "front": "Which planet is called the Red Planet?",
-          "id": "mars"
+          "id": "mars",
+          "media": {
+            "image": "https://images.pexels.com/photos/20337596/pexels-photo-20337596.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+          }
         },
         {
           "answer": "Saturn!",
@@ -743,7 +842,10 @@
             "Saturn has more than 140 moons."
           ],
           "front": "Which planet wears beautiful rings?",
-          "id": "saturn"
+          "id": "saturn",
+          "media": {
+            "image": "https://images.pexels.com/photos/12491661/pexels-photo-12491661.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+          }
         },
         {
           "answer": "Jupiter!",
@@ -753,7 +855,10 @@
             "Its Great Red Spot is a giant storm bigger than Earth that has raged for hundreds of years."
           ],
           "front": "Which is the biggest planet in our solar system?",
-          "id": "space-adventure-x1"
+          "id": "space-adventure-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/20337592/pexels-photo-20337592/free-photo-of-jupiter-planet-in-space.jpeg?h=1000&w=1500&fit=crop&markalign=center%2Cmiddle&txt=pexels.com&txtalign=center&txtsize=60&txtclr=eeffffff&txtfont=Avenir-Heavy&txtshad=10&mark=https%3A%2F%2Fassets.imgix.net%2F~text%3Ftxtclr%3Dfff%26txtsize%3D120%26txtpad%3D20%26bg%3D80000000%26txtfont%3DAvenir-Heavy%26txtalign%3Dcenter%26w%3D1300%26txt%3DFree%2520Stock%2520Photos"
+          }
         },
         {
           "answer": "The International Space Station!",
@@ -763,7 +868,10 @@
             "It goes all the way around Earth in about 90 minutes, and it is as big as a football field."
           ],
           "front": "Where do astronauts live in space?",
-          "id": "space-adventure-x2"
+          "id": "space-adventure-x2",
+          "media": {
+            "image": "https://images.pexels.com/photos/586073/pexels-photo-586073.jpeg?auto=compress&cs=tinysrgb&w=1200"
+          }
         },
         {
           "id": "venus",
@@ -773,7 +881,10 @@
             "Venus is covered in thick clouds that trap heat.",
             "It spins backwards, unlike most other planets."
           ],
-          "didYouKnow": "Venus is so bright that people call it the Morning Star!"
+          "didYouKnow": "Venus is so bright that people call it the Morning Star!",
+          "media": {
+            "image": "https://images.pexels.com/photos/12498793/pexels-photo-12498793.jpeg?h=1000&w=1500&fit=crop"
+          }
         },
         {
           "id": "mercury",
@@ -783,7 +894,10 @@
             "Mercury is the closest planet to the Sun.",
             "A year on Mercury lasts only 88 days."
           ],
-          "didYouKnow": "Mercury is very hot in the daytime and freezing cold at night!"
+          "didYouKnow": "Mercury is very hot in the daytime and freezing cold at night!",
+          "media": {
+            "image": "https://images.pexels.com/photos/20376399/pexels-photo-20376399.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+          }
         },
         {
           "id": "earth",
@@ -793,7 +907,10 @@
             "About 70 percent of Earth is covered by water.",
             "Earth has only one Moon."
           ],
-          "didYouKnow": "Earth is the only planet that is not named after a god!"
+          "didYouKnow": "Earth is the only planet that is not named after a god!",
+          "media": {
+            "image": "https://images.pexels.com/photos/30596245/pexels-photo-30596245.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         },
         {
           "id": "neptune",
@@ -803,7 +920,10 @@
             "Neptune is a deep blue planet, and its colour comes from a gas called methane.",
             "It takes Neptune about 165 years to go around the Sun once."
           ],
-          "didYouKnow": "Neptune has the fastest winds of any planet!"
+          "didYouKnow": "Neptune has the fastest winds of any planet!",
+          "media": {
+            "image": "https://images.pexels.com/photos/20376398/pexels-photo-20376398/free-photo-of-spazio-blu-azzurro-galaxy.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "uranus",
@@ -813,7 +933,10 @@
             "Uranus spins on its side, unlike other planets.",
             "Its blue-green colour comes from a gas called methane."
           ],
-          "didYouKnow": "Uranus is one of the coldest planets in the solar system!"
+          "didYouKnow": "Uranus is one of the coldest planets in the solar system!",
+          "media": {
+            "image": "https://images.pexels.com/photos/20337612/pexels-photo-20337612/free-photo-of-3d-render-of-uranus.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "neil-armstrong",
@@ -823,7 +946,10 @@
             "Neil Armstrong walked on the Moon in 1969.",
             "He travelled there in a spacecraft called Apollo 11."
           ],
-          "didYouKnow": "His first words on the Moon were, 'That's one small step for man, one giant leap for mankind!'"
+          "didYouKnow": "His first words on the Moon were, 'That's one small step for man, one giant leap for mankind!'",
+          "media": {
+            "image": "https://images.pexels.com/photos/41162/moon-landing-apollo-11-nasa-buzz-aldrin-41162.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "rocket",
@@ -833,7 +959,10 @@
             "A rocket burns fuel to push itself up into the sky.",
             "Rockets carry astronauts and satellites into space."
           ],
-          "didYouKnow": "A rocket needs huge power to escape the pull of Earth's gravity!"
+          "didYouKnow": "A rocket needs huge power to escape the pull of Earth's gravity!",
+          "media": {
+            "image": "https://images.pexels.com/photos/23795/rocket-launch-space-discovery.jpg?auto=compress&cs=tinysrgb&h=650&w=940"
+          }
         },
         {
           "id": "comet",
@@ -843,7 +972,10 @@
             "A comet is a ball of ice and dust that travels around the Sun.",
             "When it comes near the Sun, it grows a bright, glowing tail."
           ],
-          "didYouKnow": "Halley's Comet visits our skies about every 75 years!"
+          "didYouKnow": "Halley's Comet visits our skies about every 75 years!",
+          "media": {
+            "image": "https://images.pexels.com/photos/4937822/pexels-photo-4937822.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "asteroid",
@@ -853,7 +985,10 @@
             "Asteroids are rocky pieces left over from when the planets were formed.",
             "Most of them live in a belt between Mars and Jupiter."
           ],
-          "didYouKnow": "Some asteroids are as big as mountains!"
+          "didYouKnow": "Some asteroids are as big as mountains!",
+          "media": {
+            "image": "https://images.pexels.com/photos/10572153/pexels-photo-10572153.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "meteor",
@@ -863,7 +998,10 @@
             "A meteor is a space rock that burns brightly as it falls through the sky.",
             "If a piece lands on Earth, we call it a meteorite."
           ],
-          "didYouKnow": "Most meteors burn up completely before they reach the ground!"
+          "didYouKnow": "Most meteors burn up completely before they reach the ground!",
+          "media": {
+            "image": "https://images.pexels.com/photos/28357544/pexels-photo-28357544/free-photo-of-a-shooting-star-is-seen-in-the-night-sky.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "star",
@@ -873,7 +1011,10 @@
             "A star is a giant ball of hot gas that gives out light and heat.",
             "The Sun is a star — it is just the closest one to us."
           ],
-          "didYouKnow": "Stars look like they twinkle because of the air moving around Earth!"
+          "didYouKnow": "Stars look like they twinkle because of the air moving around Earth!",
+          "media": {
+            "image": "https://images.pexels.com/photos/33679044/pexels-photo-33679044/free-photo-of-stunning-night-sky-filled-with-stars.jpeg?w=600"
+          }
         },
         {
           "id": "milky-way",
@@ -883,7 +1024,10 @@
             "Our galaxy is called the Milky Way.",
             "It holds billions of stars, and our Sun is one of them."
           ],
-          "didYouKnow": "On a dark night, the Milky Way looks like a milky band of light across the sky!"
+          "didYouKnow": "On a dark night, the Milky Way looks like a milky band of light across the sky!",
+          "media": {
+            "image": "https://images.pexels.com/photos/1323321/nature-milky-way-galaxy-stars-1323321.jpeg?cs=srgb&dl=pexels-free-nature-stock-1323321.jpg&fm=jpg"
+          }
         },
         {
           "id": "black-hole",
@@ -893,7 +1037,10 @@
             "A black hole is made when a very big star dies.",
             "Its gravity is so strong that not even light can escape from it."
           ],
-          "didYouKnow": "We cannot see a black hole directly — scientists find it by watching the stars around it!"
+          "didYouKnow": "We cannot see a black hole directly — scientists find it by watching the stars around it!",
+          "media": {
+            "image": "https://images.pexels.com/videos/35729889/pexels-photo-35729889.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "astronaut",
@@ -903,7 +1050,10 @@
             "Astronauts wear special suits that give them air to breathe.",
             "In space they float, because there is almost no gravity."
           ],
-          "didYouKnow": "Astronauts eat their food from special packets in space!"
+          "didYouKnow": "Astronauts eat their food from special packets in space!",
+          "media": {
+            "image": "https://images.pexels.com/photos/355956/pexels-photo-355956.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         },
         {
           "id": "satellite",
@@ -913,7 +1063,10 @@
             "A satellite is a machine that goes around Earth in space.",
             "Satellites help us with TV, maps, phone calls and weather forecasts."
           ],
-          "didYouKnow": "The Moon is Earth's natural satellite!"
+          "didYouKnow": "The Moon is Earth's natural satellite!",
+          "media": {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/GPS_Satellite_NASA_art-iif.jpg"
+          }
         },
         {
           "id": "telescope",
@@ -923,7 +1076,10 @@
             "A telescope makes faraway things in the sky look closer.",
             "The Hubble telescope floats in space and takes wonderful photos."
           ],
-          "didYouKnow": "More than 400 years ago, Galileo used a telescope to spot four moons of Jupiter!"
+          "didYouKnow": "More than 400 years ago, Galileo used a telescope to spot four moons of Jupiter!",
+          "media": {
+            "image": "https://images.pexels.com/photos/30152008/pexels-photo-30152008/free-photo-of-starry-night-stargazing-in-ohrid.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "solar-eclipse",
@@ -933,7 +1089,10 @@
             "During a solar eclipse, the Moon moves between Earth and the Sun.",
             "The sky can go dark in the middle of the day."
           ],
-          "didYouKnow": "Never look at the Sun directly, even during an eclipse — it can hurt your eyes!"
+          "didYouKnow": "Never look at the Sun directly, even during an eclipse — it can hurt your eyes!",
+          "media": {
+            "image": "https://images.pexels.com/photos/18285260/pexels-photo-18285260/free-photo-of-eclipse-of-moon.jpeg?w=600"
+          }
         },
         {
           "id": "lunar-eclipse",
@@ -943,7 +1102,10 @@
             "During a lunar eclipse, Earth blocks sunlight from reaching the Moon.",
             "The Moon can turn a deep red colour — people call it a blood moon."
           ],
-          "didYouKnow": "A lunar eclipse can last for hours, and it is safe to watch with your eyes!"
+          "didYouKnow": "A lunar eclipse can last for hours, and it is safe to watch with your eyes!",
+          "media": {
+            "image": "https://images.pexels.com/photos/36634123/pexels-photo-36634123/free-photo-of-red-blood-moon-during-lunar-eclipse-in-night-sky.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "solar-system",
@@ -953,7 +1115,10 @@
             "Eight planets travel around the Sun in our solar system.",
             "Earth is the third planet from the Sun."
           ],
-          "didYouKnow": "The Sun holds more than 99 percent of all the stuff in our solar system!"
+          "didYouKnow": "The Sun holds more than 99 percent of all the stuff in our solar system!",
+          "media": {
+            "image": "https://images.pexels.com/photos/12491599/pexels-photo-12491599.jpeg?w=600"
+          }
         },
         {
           "id": "constellation",
@@ -963,7 +1128,10 @@
             "A constellation is a group of stars that looks like a picture in the sky.",
             "Long ago, sailors used constellations to find their way at sea."
           ],
-          "didYouKnow": "The Big Dipper looks like a big spoon in the sky!"
+          "didYouKnow": "The Big Dipper looks like a big spoon in the sky!",
+          "media": {
+            "image": "https://images.pexels.com/photos/974471/nature-night-sky-stars-974471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          }
         },
         {
           "id": "mars-rover",
@@ -973,7 +1141,10 @@
             "A Mars rover is a robot that drives on the surface of Mars.",
             "It takes photos and sends them back to Earth."
           ],
-          "didYouKnow": "The rover Perseverance landed on Mars in 2021 and is still exploring!"
+          "didYouKnow": "The rover Perseverance landed on Mars in 2021 and is still exploring!",
+          "media": {
+            "image": "https://images.pexels.com/photos/73910/mars-mars-rover-space-travel-robot-73910.jpeg?h=1000&w=1500&fit=crop&markalign=center%2Cmiddle&txt=pexels.com&txtalign=center&txtsize=60&txtclr=eeffffff&txtfont=Avenir-Heavy&txtshad=10&mark=https%3A%2F%2Fassets.imgix.net%2F~text%3Ftxtclr%3Dfff%26txtsize%3D120%26txtpad%3D20%26bg%3D80000000%26txtfont%3DAvenir-Heavy%26txtalign%3Dcenter%26w%3D1300%26txt%3DFoto%2520Stok%2520Gratis"
+          }
         },
         {
           "id": "pluto",
@@ -983,7 +1154,10 @@
             "Pluto used to be called the ninth planet.",
             "Now scientists call it a dwarf planet."
           ],
-          "didYouKnow": "Pluto is even smaller than our Moon!"
+          "didYouKnow": "Pluto is even smaller than our Moon!",
+          "media": {
+            "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/1280px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg"
+          }
         },
         {
           "id": "moon-phases",
@@ -993,7 +1167,10 @@
             "The Moon looks different as it moves around Earth — crescent, half and full.",
             "A full moon is round and bright in the night sky."
           ],
-          "didYouKnow": "It takes the Moon about a month to go through all its shapes!"
+          "didYouKnow": "It takes the Moon about a month to go through all its shapes!",
+          "media": {
+            "image": "https://images.pexels.com/photos/36844859/pexels-photo-36844859.jpeg?w=600"
+          }
         },
         {
           "id": "day-and-night",
@@ -1003,7 +1180,10 @@
             "Earth spins around once every day, in 24 hours.",
             "The side facing the Sun has day, while the other side has night."
           ],
-          "didYouKnow": "Earth spins so fast that places on the equator move at more than 1,600 km every hour!"
+          "didYouKnow": "Earth spins so fast that places on the equator move at more than 1,600 km every hour!",
+          "media": {
+            "image": "https://images.pexels.com/videos/8125427/earth-earth-day-earth-surface-interstellar-8125427.jpeg?w=600"
+          }
         }
       ],
       "color": "#7B61FF",
@@ -1416,7 +1596,10 @@
             "It was the tallest building in the world for 41 years."
           ],
           "front": "Which tall tower stands in Paris?",
-          "id": "eiffel"
+          "id": "eiffel",
+          "media": {
+            "image": "https://images.pexels.com/photos/1461974/pexels-photo-1461974.jpeg?auto=compress&cs=tinysrgb&w=600&loading=lazy"
+          }
         },
         {
           "answer": "The Pyramids of Giza!",
@@ -1426,7 +1609,10 @@
             "It was the tallest human-made structure for over 3,800 years."
           ],
           "front": "Which giant triangles stand in the desert of Egypt?",
-          "id": "pyramids"
+          "id": "pyramids",
+          "media": {
+            "image": "https://images.pexels.com/photos/6716161/pexels-photo-6716161.jpeg?auto=compress&cs=tinysrgb&w=800&loading=lazy"
+          }
         },
         {
           "answer": "The Great Wall of China!",
@@ -1436,7 +1622,10 @@
             "Sticky rice was used in the mortar to hold the bricks together!"
           ],
           "front": "Which is one of the longest walls ever built?",
-          "id": "great-wall"
+          "id": "great-wall",
+          "media": {
+            "image": "https://images.pexels.com/photos/7897564/pexels-photo-7897564.jpeg?auto=compress&cs=tinysrgb&w=1280"
+          }
         },
         {
           "answer": "The Statue of Liberty!",
@@ -1446,7 +1635,10 @@
             "Its torch flame is covered in gold leaf."
           ],
           "front": "Which statue holds a torch in New York?",
-          "id": "liberty"
+          "id": "liberty",
+          "media": {
+            "image": "https://images.pexels.com/photos/5736659/pexels-photo-5736659.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
+          }
         },
         {
           "answer": "The Colosseum!",
@@ -1456,7 +1648,10 @@
             "It could hold about 50,000 people, and gladiators fought there long ago."
           ],
           "front": "Which giant round building in Rome did gladiators fight in?",
-          "id": "our-wonderful-world-x1"
+          "id": "our-wonderful-world-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/33009164/pexels-photo-33009164/free-photo-of-iconic-colosseum-in-rome-under-clear-sky.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Sahara Desert!",
@@ -1466,7 +1661,10 @@
             "Thousands of years ago, the Sahara was green, with lakes and rivers."
           ],
           "front": "Which is the largest hot desert in the world?",
-          "id": "our-wonderful-world-x2"
+          "id": "our-wonderful-world-x2",
+          "media": {
+            "image": "https://images.pexels.com/photos/26775382/pexels-photo-26775382.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         },
         {
           "id": "mount-everest",
@@ -1476,7 +1674,10 @@
             "Mount Everest is 8,849 metres tall.",
             "It stands in the Himalayas, on the border of Nepal and China."
           ],
-          "didYouKnow": "Mount Everest grows a little taller every year!"
+          "didYouKnow": "Mount Everest grows a little taller every year!",
+          "media": {
+            "image": "https://images.pexels.com/photos/27367865/pexels-photo-27367865/free-photo-of-mount-everest.png?auto=compress&w=600"
+          }
         },
         {
           "id": "taj-mahal",
@@ -1486,7 +1687,10 @@
             "The Taj Mahal is made of shining white marble.",
             "Emperor Shah Jahan built it for his wife, Mumtaz Mahal."
           ],
-          "didYouKnow": "It took about 20 years to build the Taj Mahal!"
+          "didYouKnow": "It took about 20 years to build the Taj Mahal!",
+          "media": {
+            "image": "https://images.pexels.com/photos/19149640/pexels-photo-19149640.jpeg?w=800&format=webp"
+          }
         },
         {
           "id": "amazon-rainforest",
@@ -1496,7 +1700,10 @@
             "The Amazon is the largest rainforest in the world.",
             "It is in South America and is home to more kinds of plants and animals than almost anywhere else on Earth."
           ],
-          "didYouKnow": "The Amazon is often called the 'lungs of the Earth' because it makes so much oxygen!"
+          "didYouKnow": "The Amazon is often called the 'lungs of the Earth' because it makes so much oxygen!",
+          "media": {
+            "image": "https://images.pexels.com/photos/7867865/pexels-photo-7867865.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "niagara-falls",
@@ -1506,7 +1713,10 @@
             "Niagara Falls is made of three waterfalls.",
             "The water falls from about 50 metres high."
           ],
-          "didYouKnow": "Millions of people visit Niagara Falls every year!"
+          "didYouKnow": "Millions of people visit Niagara Falls every year!",
+          "media": {
+            "image": "https://images.pexels.com/photos/34911227/pexels-photo-34911227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          }
         },
         {
           "id": "big-ben",
@@ -1516,7 +1726,10 @@
             "Big Ben is the great bell in a clock tower in London.",
             "The tower stands beside the River Thames."
           ],
-          "didYouKnow": "Big Ben has been ringing for more than 160 years!"
+          "didYouKnow": "Big Ben has been ringing for more than 160 years!",
+          "media": {
+            "image": "https://images.pexels.com/photos/15683965/pexels-photo-15683965/free-photo-of-big-ben-clock-tower-in-london-england.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "leaning-tower-pisa",
@@ -1526,7 +1739,10 @@
             "The Leaning Tower of Pisa is a bell tower in Italy.",
             "It started to lean while it was being built, more than 800 years ago."
           ],
-          "didYouKnow": "Builders tried to fix the lean, but the tower still leans today!"
+          "didYouKnow": "Builders tried to fix the lean, but the tower still leans today!",
+          "media": {
+            "image": "https://images.pexels.com/photos/15570484/pexels-photo-15570484.jpeg?auto=compress&cs=tinysrgb&w=600&loading=lazy"
+          }
         },
         {
           "id": "sydney-opera-house",
@@ -1536,7 +1752,10 @@
             "The Sydney Opera House stands in Sydney, Australia.",
             "Its roof looks like the sails of ships."
           ],
-          "didYouKnow": "The Sydney Opera House opened in 1973!"
+          "didYouKnow": "The Sydney Opera House opened in 1973!",
+          "media": {
+            "image": "https://images.pexels.com/photos/31541521/pexels-photo-31541521.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         },
         {
           "id": "mount-fuji",
@@ -1546,7 +1765,10 @@
             "Mount Fuji is the tallest mountain in Japan.",
             "It is a volcano with snow on its top."
           ],
-          "didYouKnow": "Mount Fuji is a symbol of Japan and appears in many paintings!"
+          "didYouKnow": "Mount Fuji is a symbol of Japan and appears in many paintings!",
+          "media": {
+            "image": "https://images.pexels.com/photos/30227319/pexels-photo-30227319/free-photo-of-serene-view-of-mount-fuji-at-dusk.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "grand-canyon",
@@ -1556,7 +1778,10 @@
             "The Grand Canyon is in Arizona, in the United States.",
             "The Colorado River carved it over millions of years."
           ],
-          "didYouKnow": "The Grand Canyon is about 446 km long — longer than 4,000 football fields!"
+          "didYouKnow": "The Grand Canyon is about 446 km long — longer than 4,000 football fields!",
+          "media": {
+            "image": "https://images.pexels.com/photos/27681581/pexels-photo-27681581/free-photo-of-a-view-of-the-grand-canyon-from-the-rim.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "northern-lights",
@@ -1566,7 +1791,10 @@
             "The Northern Lights are colourful lights in the night sky.",
             "They are seen near the North Pole, in places like Norway and Iceland."
           ],
-          "didYouKnow": "The lights are made by tiny bits from the Sun hitting the air around Earth!"
+          "didYouKnow": "The lights are made by tiny bits from the Sun hitting the air around Earth!",
+          "media": {
+            "image": "https://images.pexels.com/photos/11183434/pexels-photo-11183434.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "great-barrier-reef",
@@ -1576,7 +1804,10 @@
             "The Great Barrier Reef lies in the sea near Australia.",
             "It is home to many colourful fish, turtles and corals."
           ],
-          "didYouKnow": "The Great Barrier Reef is so big that it can be seen from space!"
+          "didYouKnow": "The Great Barrier Reef is so big that it can be seen from space!",
+          "media": {
+            "image": "https://images.pexels.com/photos/34492256/pexels-photo-34492256/free-photo-of-vibrant-coral-reef-underwater-in-australia.jpeg?w=600"
+          }
         },
         {
           "id": "antarctica",
@@ -1586,7 +1817,10 @@
             "Antarctica is covered in ice and snow all year.",
             "Penguins live there, but no people live there all the time."
           ],
-          "didYouKnow": "No country owns Antarctica — it belongs to everyone for science and peace!"
+          "didYouKnow": "No country owns Antarctica — it belongs to everyone for science and peace!",
+          "media": {
+            "image": "https://images.pexels.com/photos/35686282/pexels-photo-35686282/free-photo-of-penguin-colony-on-snowy-antarctic-coastline.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "river-nile",
@@ -1596,7 +1830,10 @@
             "The River Nile flows through Egypt in Africa.",
             "It flows north into the Mediterranean Sea."
           ],
-          "didYouKnow": "The Nile is one of the longest rivers in the world!"
+          "didYouKnow": "The Nile is one of the longest rivers in the world!",
+          "media": {
+            "image": "https://images.pexels.com/photos/12607742/pexels-photo-12607742.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=800&w=1200"
+          }
         },
         {
           "id": "pacific-ocean",
@@ -1606,7 +1843,10 @@
             "The Pacific Ocean is the largest ocean in the world.",
             "It covers more of Earth than all the land put together."
           ],
-          "didYouKnow": "The deepest place on Earth, the Mariana Trench, is in the Pacific Ocean!"
+          "didYouKnow": "The deepest place on Earth, the Mariana Trench, is in the Pacific Ocean!",
+          "media": {
+            "image": "https://images.pexels.com/photos/4443840/pexels-photo-4443840.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "dead-sea",
@@ -1616,7 +1856,10 @@
             "The Dead Sea is so salty that people float easily on it.",
             "It lies between Jordan and Israel."
           ],
-          "didYouKnow": "The Dead Sea is the lowest place on land on Earth!"
+          "didYouKnow": "The Dead Sea is the lowest place on land on Earth!",
+          "media": {
+            "image": "https://images.pexels.com/photos/11589243/pexels-photo-11589243.jpeg?auto=compress&cs=tinysrgb&w=750"
+          }
         },
         {
           "id": "mount-kilimanjaro",
@@ -1626,7 +1869,10 @@
             "Mount Kilimanjaro is in Tanzania, in Africa.",
             "It has snow on its top, even though it is near the equator."
           ],
-          "didYouKnow": "Mount Kilimanjaro is a sleeping volcano that has not erupted for thousands of years!"
+          "didYouKnow": "Mount Kilimanjaro is a sleeping volcano that has not erupted for thousands of years!",
+          "media": {
+            "image": "https://images.pexels.com/photos/15994035/pexels-photo-15994035/free-photo-of-aerial-photo-of-mount-kilimanjaro.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "machu-picchu",
@@ -1636,7 +1882,10 @@
             "Machu Picchu is an old Inca city high in the mountains of Peru.",
             "It was built about 600 years ago."
           ],
-          "didYouKnow": "The stones of Machu Picchu fit together so well that no cement was needed!"
+          "didYouKnow": "The stones of Machu Picchu fit together so well that no cement was needed!",
+          "media": {
+            "image": "https://images.pexels.com/photos/10549836/pexels-photo-10549836.jpeg?cs=srgb&dl=pexels-tommaso-10549836.jpg&fm=jpg"
+          }
         },
         {
           "id": "angkor-wat",
@@ -1646,7 +1895,10 @@
             "Angkor Wat is a huge temple in Cambodia.",
             "It was built about 900 years ago, first as a Hindu temple."
           ],
-          "didYouKnow": "Angkor Wat is so big that it has five towers shaped like lotus flowers!"
+          "didYouKnow": "Angkor Wat is so big that it has five towers shaped like lotus flowers!",
+          "media": {
+            "image": "https://images.pexels.com/photos/33614640/pexels-photo-33614640.jpeg"
+          }
         },
         {
           "id": "stonehenge",
@@ -1656,7 +1908,10 @@
             "Stonehenge is a circle of giant stones in England.",
             "It was built about 5,000 years ago."
           ],
-          "didYouKnow": "Nobody knows exactly how people moved the giant stones to Stonehenge!"
+          "didYouKnow": "Nobody knows exactly how people moved the giant stones to Stonehenge!",
+          "media": {
+            "image": "https://images.pexels.com/photos/18222649/pexels-photo-18222649.jpeg?auto=compress&cs=tinysrgb&w=600&loading=lazy"
+          }
         },
         {
           "id": "burj-khalifa",
@@ -1666,7 +1921,10 @@
             "The Burj Khalifa stands in Dubai.",
             "It is 828 metres tall and has more than 160 floors."
           ],
-          "didYouKnow": "On a clear day, you can see very far from the top of the Burj Khalifa!"
+          "didYouKnow": "On a clear day, you can see very far from the top of the Burj Khalifa!",
+          "media": {
+            "image": "https://images.pexels.com/photos/33669696/pexels-photo-33669696.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+          }
         },
         {
           "id": "golden-gate-bridge",
@@ -1676,7 +1934,10 @@
             "The Golden Gate Bridge is in San Francisco, in the United States.",
             "It opened in 1937 and is painted orange-red."
           ],
-          "didYouKnow": "The Golden Gate Bridge is so long that it took four years to build!"
+          "didYouKnow": "The Golden Gate Bridge is so long that it took four years to build!",
+          "media": {
+            "image": "https://images.pexels.com/photos/29482688/pexels-photo-29482688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          }
         },
         {
           "id": "victoria-falls",
@@ -1686,7 +1947,10 @@
             "Victoria Falls is on the border of Zambia and Zimbabwe in Africa.",
             "It is one of the largest waterfalls in the world."
           ],
-          "didYouKnow": "The local name for Victoria Falls means 'the smoke that thunders'!"
+          "didYouKnow": "The local name for Victoria Falls means 'the smoke that thunders'!",
+          "media": {
+            "image": "https://images.pexels.com/photos/35271379/pexels-photo-35271379.jpeg?cs=srgb&dl=pexels-caitlin-2158232103-35271379.jpg&fm=jpg"
+          }
         },
         {
           "id": "lake-baikal",
@@ -1696,7 +1960,10 @@
             "Lake Baikal is in Russia.",
             "It is the deepest lake in the world."
           ],
-          "didYouKnow": "Lake Baikal holds about one-fifth of all the fresh water on Earth!"
+          "didYouKnow": "Lake Baikal holds about one-fifth of all the fresh water on Earth!",
+          "media": {
+            "image": "https://images.pexels.com/videos/7041092/baikal-7041092.jpeg?auto=compress&cs=tinysrgb&w=600&loading=lazy"
+          }
         },
         {
           "id": "christ-the-redeemer",
@@ -1706,7 +1973,10 @@
             "Christ the Redeemer is a giant statue in Rio de Janeiro, Brazil.",
             "It stands on top of a mountain with its arms stretched wide."
           ],
-          "didYouKnow": "The statue is 38 metres tall, as tall as a 12-storey building!"
+          "didYouKnow": "The statue is 38 metres tall, as tall as a 12-storey building!",
+          "media": {
+            "image": "https://images.pexels.com/photos/14996556/pexels-photo-14996556/free-photo-of-christ-the-redeemer-in-brazil.jpeg?auto=compress&w=600"
+          }
         }
       ],
       "color": "#2EC4B6",
@@ -2119,7 +2389,10 @@
             "Rainbows appear when sunlight shines through raindrops."
           ],
           "front": "What appears in the sky after rain and sunshine?",
-          "id": "rainbow"
+          "id": "rainbow",
+          "media": {
+            "image": "https://images.pexels.com/photos/39004675/pexels-photo-39004675/free-photo-of-vibrant-rainbow-over-lush-green-foliage.jpeg?auto=compress&w=600"
+          }
         },
         {
           "answer": "A Volcano!",
@@ -2129,7 +2402,10 @@
             "There are about 1,500 active volcanoes on Earth."
           ],
           "front": "Which mountain can spit out hot lava?",
-          "id": "volcano"
+          "id": "volcano",
+          "media": {
+            "image": "https://images.pexels.com/photos/17130078/pexels-photo-17130078/free-photo-of-landscape-with-smoking-volcano.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "A Magnet!",
@@ -2139,7 +2415,10 @@
             "Opposite poles attract, same poles push away."
           ],
           "front": "What can pull iron without touching it?",
-          "id": "magnet"
+          "id": "magnet",
+          "media": {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/A-1_horseshoe-magnet-red-silver-iron-filings-AHD.jpg"
+          }
         },
         {
           "answer": "The Honey Bee!",
@@ -2149,7 +2428,10 @@
             "A hive can have up to 60,000 bees!"
           ],
           "front": "Which tiny insect makes honey?",
-          "id": "bee"
+          "id": "bee",
+          "media": {
+            "image": "https://images.pexels.com/photos/34971248/pexels-photo-34971248.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Your Heart!",
@@ -2159,7 +2441,10 @@
             "It beats about 100,000 times every single day, even while you sleep."
           ],
           "front": "Which part of your body pumps blood all day and night?",
-          "id": "science-fun-x1"
+          "id": "science-fun-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/8352120/pexels-photo-8352120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          }
         },
         {
           "answer": "Lightning!",
@@ -2169,7 +2454,10 @@
             "We see lightning before we hear thunder because light travels faster than sound."
           ],
           "front": "What flash of light do we see in the sky during a storm?",
-          "id": "science-fun-x2"
+          "id": "science-fun-x2",
+          "media": {
+            "image": "https://images.pexels.com/photos/34669962/pexels-photo-34669962.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "water-cycle",
@@ -2179,7 +2467,10 @@
             "Water from seas and rivers rises up as tiny drops called vapour.",
             "The vapour cools and makes clouds, and then it falls as rain."
           ],
-          "didYouKnow": "The same water you drink today may have fallen as rain long, long ago!"
+          "didYouKnow": "The same water you drink today may have fallen as rain long, long ago!",
+          "media": {
+            "image": "https://images.pexels.com/photos/17845895/pexels-photo-17845895/free-photo-of-landskap-mork-gras-sjo.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "photosynthesis",
@@ -2189,7 +2480,10 @@
             "Leaves use sunlight, water and air to make food for the plant.",
             "Plants give out oxygen, which we need to breathe."
           ],
-          "didYouKnow": "The green colour in leaves comes from a substance called chlorophyll!"
+          "didYouKnow": "The green colour in leaves comes from a substance called chlorophyll!",
+          "media": {
+            "image": "https://images.pexels.com/photos/23909745/pexels-photo-23909745/free-photo-of-naturaleza-planta-hojas-verde.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "bones",
@@ -2199,7 +2493,10 @@
             "Adults have 206 bones in their bodies.",
             "Babies are born with about 300 bones, and some join together as they grow."
           ],
-          "didYouKnow": "Bones protect soft parts inside you, like your brain and heart!"
+          "didYouKnow": "Bones protect soft parts inside you, like your brain and heart!",
+          "media": {
+            "image": "https://images.pexels.com/photos/2672630/pexels-photo-2672630.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "brain",
@@ -2209,7 +2506,10 @@
             "Your brain controls everything you do, even while you sleep.",
             "It is made of billions of tiny cells called neurons."
           ],
-          "didYouKnow": "Your brain uses a lot of your body's energy, even when you are just thinking!"
+          "didYouKnow": "Your brain uses a lot of your body's energy, even when you are just thinking!",
+          "media": {
+            "image": "https://images.pexels.com/photos/6192331/pexels-photo-6192331.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+          }
         },
         {
           "id": "seasons",
@@ -2219,7 +2519,10 @@
             "Earth leans to one side as it goes around the Sun.",
             "The lean makes one part of Earth warmer while another part is colder."
           ],
-          "didYouKnow": "When it is summer in India, it is winter in Australia!"
+          "didYouKnow": "When it is summer in India, it is winter in Australia!",
+          "media": {
+            "image": "https://images.pexels.com/photos/431413/pexels-photo-431413.jpeg?cs=srgb&dl=autumn-four-seasons-spring-summer-431413.jpg&fm=jpg"
+          }
         },
         {
           "id": "gravity",
@@ -2229,7 +2532,10 @@
             "Gravity is the force that pulls everything down to the ground.",
             "It also keeps the Moon going around Earth."
           ],
-          "didYouKnow": "Without gravity, you would float away into space!"
+          "didYouKnow": "Without gravity, you would float away into space!",
+          "media": {
+            "image": "https://images.pexels.com/videos/4969896/3danimation-3dfruit-apple-cgi-4969896.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "friction",
@@ -2239,7 +2545,10 @@
             "Friction is the force that slows things down when they rub against each other.",
             "Ice has very little friction, which is why we slip on it."
           ],
-          "didYouKnow": "Rub your hands together fast — friction makes them feel warm!"
+          "didYouKnow": "Rub your hands together fast — friction makes them feel warm!",
+          "media": {
+            "image": "https://images.pexels.com/photos/66267/matchstick-fire-light-striking-66267.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          }
         },
         {
           "id": "sound",
@@ -2249,7 +2558,10 @@
             "Sound travels in waves through air, water and even solids.",
             "Sound travels faster in water than it does in air."
           ],
-          "didYouKnow": "Sound cannot travel in space, because there is no air there!"
+          "didYouKnow": "Sound cannot travel in space, because there is no air there!",
+          "media": {
+            "image": "https://images.pexels.com/videos/36050184/pexels-photo-36050184.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "light",
@@ -2259,7 +2571,10 @@
             "Light travels about 300,000 km every single second.",
             "It is the fastest thing we know in the universe."
           ],
-          "didYouKnow": "Light from the Sun takes about 8 minutes to reach Earth!"
+          "didYouKnow": "Light from the Sun takes about 8 minutes to reach Earth!",
+          "media": {
+            "image": "https://images.pexels.com/photos/45854/sunbeam-rays-sun-forest-45854.jpeg?cs=srgb&dl=nature-sun-forest-45854.jpg&fm=jpg"
+          }
         },
         {
           "id": "electricity",
@@ -2269,7 +2584,10 @@
             "Electricity is a form of energy that powers things in our homes.",
             "Lightning is a huge spark of electricity in the sky."
           ],
-          "didYouKnow": "Never touch electric wires — electricity can be dangerous!"
+          "didYouKnow": "Never touch electric wires — electricity can be dangerous!",
+          "media": {
+            "image": "https://images.pexels.com/photos/11998001/pexels-photo-11998001.jpeg?auto=compress&cs=tinysrgb&w=600&loading=lazy"
+          }
         },
         {
           "id": "light-bulb",
@@ -2279,7 +2597,10 @@
             "Thomas Edison made the first light bulb that could shine for a long time.",
             "A light bulb changes electricity into light."
           ],
-          "didYouKnow": "New LED bulbs use much less power than old bulbs!"
+          "didYouKnow": "New LED bulbs use much less power than old bulbs!",
+          "media": {
+            "image": "https://images.pexels.com/photos/3217851/pexels-photo-3217851.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "thermometer",
@@ -2289,7 +2610,10 @@
             "A thermometer measures how hot or cold something is.",
             "A healthy person's body temperature is about 37 degrees Celsius."
           ],
-          "didYouKnow": "The first thermometers were made more than 400 years ago!"
+          "didYouKnow": "The first thermometers were made more than 400 years ago!",
+          "media": {
+            "image": "https://images.pexels.com/photos/15508181/pexels-photo-15508181/free-photo-of-thermometer-against-white-background.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "microscope",
@@ -2299,7 +2623,10 @@
             "A microscope makes tiny things look much bigger.",
             "Scientists use it to see germs and tiny living things."
           ],
-          "didYouKnow": "A single drop of water can hold thousands of tiny living things!"
+          "didYouKnow": "A single drop of water can hold thousands of tiny living things!",
+          "media": {
+            "image": "https://images.pexels.com/photos/8940352/pexels-photo-8940352.jpeg?w=600"
+          }
         },
         {
           "id": "germs",
@@ -2309,7 +2636,10 @@
             "Germs are tiny living things that we cannot see with our eyes.",
             "Some germs can make us sick."
           ],
-          "didYouKnow": "Washing your hands with soap removes germs and keeps you healthy!"
+          "didYouKnow": "Washing your hands with soap removes germs and keeps you healthy!",
+          "media": {
+            "image": "https://images.pexels.com/videos/5847513/pexels-photo-5847513.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "stomach",
@@ -2319,7 +2649,10 @@
             "Food travels from your mouth to your stomach through a tube.",
             "Your stomach churns the food and mixes it with juices that break it down."
           ],
-          "didYouKnow": "Your stomach makes acid that is strong enough to help melt food!"
+          "didYouKnow": "Your stomach makes acid that is strong enough to help melt food!",
+          "media": {
+            "image": "https://images.pexels.com/photos/8471875/pexels-photo-8471875.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "lungs",
@@ -2329,7 +2662,10 @@
             "Your lungs take in oxygen from the air you breathe.",
             "When you breathe out, your lungs push out a gas called carbon dioxide."
           ],
-          "didYouKnow": "You breathe about 20,000 times every day!"
+          "didYouKnow": "You breathe about 20,000 times every day!",
+          "media": {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/3d_model_of_lungs_airways_ribs.jpg"
+          }
         },
         {
           "id": "teeth",
@@ -2339,7 +2675,10 @@
             "Adults have 32 teeth.",
             "Babies have 20 milk teeth, which fall out as they grow."
           ],
-          "didYouKnow": "Brush your teeth twice a day to keep them strong and healthy!"
+          "didYouKnow": "Brush your teeth twice a day to keep them strong and healthy!",
+          "media": {
+            "image": "https://images.pexels.com/photos/5546480/pexels-photo-5546480.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "muscles",
@@ -2349,7 +2688,10 @@
             "Muscles help your body move, run, jump and smile.",
             "You have hundreds of muscles in your body."
           ],
-          "didYouKnow": "Your heart is a muscle too — and it never gets tired!"
+          "didYouKnow": "Your heart is a muscle too — and it never gets tired!",
+          "media": {
+            "image": "https://images.pexels.com/photos/5275311/pexels-photo-5275311.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "blood",
@@ -2359,7 +2701,10 @@
             "Blood carries oxygen to every part of your body.",
             "Your heart pumps blood all around your body."
           ],
-          "didYouKnow": "An adult's body has about 5 litres of blood!"
+          "didYouKnow": "An adult's body has about 5 litres of blood!",
+          "media": {
+            "image": "https://images.pexels.com/photos/8460344/pexels-photo-8460344.jpeg?auto=compress&cs=tinysrgb&w=1000"
+          }
         },
         {
           "id": "five-senses",
@@ -2369,7 +2714,10 @@
             "We have five senses: seeing, hearing, smelling, tasting and touching.",
             "Our eyes, ears, nose, tongue and skin help us use them."
           ],
-          "didYouKnow": "Your senses help you learn about the world around you!"
+          "didYouKnow": "Your senses help you learn about the world around you!",
+          "media": {
+            "image": "https://images.pexels.com/photos/30680333/pexels-photo-30680333.jpeg?w=600"
+          }
         },
         {
           "id": "seeds-grow",
@@ -2379,7 +2727,10 @@
             "A seed needs water, air and sunlight to grow.",
             "When a seed grows, its roots come out first and go down into the soil."
           ],
-          "didYouKnow": "Some seeds can grow into trees that live for hundreds of years!"
+          "didYouKnow": "Some seeds can grow into trees that live for hundreds of years!",
+          "media": {
+            "image": "https://images.pexels.com/photos/12099007/pexels-photo-12099007.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "spider",
@@ -2389,7 +2740,10 @@
             "A spider has eight legs and spins silk webs.",
             "It is not an insect — insects have only six legs."
           ],
-          "didYouKnow": "Most spiders are not dangerous to people at all!"
+          "didYouKnow": "Most spiders are not dangerous to people at all!",
+          "media": {
+            "image": "https://images.pexels.com/photos/37066134/pexels-photo-37066134.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         },
         {
           "id": "ant",
@@ -2399,7 +2753,10 @@
             "Ants live in big groups called colonies.",
             "They follow smell trails to find food and to find their way home."
           ],
-          "didYouKnow": "An ant can carry things many times heavier than its own body!"
+          "didYouKnow": "An ant can carry things many times heavier than its own body!",
+          "media": {
+            "image": "https://images.pexels.com/photos/8181843/pexels-photo-8181843.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "earthworm",
@@ -2409,7 +2766,10 @@
             "An earthworm has no eyes.",
             "It helps make the soil healthy for plants to grow."
           ],
-          "didYouKnow": "An earthworm breathes through its skin!"
+          "didYouKnow": "An earthworm breathes through its skin!",
+          "media": {
+            "image": "https://images.pexels.com/videos/3045871/free-video-3045871.jpg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         }
       ],
       "color": "#FFC93C",
@@ -2822,7 +3182,10 @@
             "A football match lasts 90 minutes."
           ],
           "front": "Which sport is played with a round ball and feet?",
-          "id": "football"
+          "id": "football",
+          "media": {
+            "image": "https://images.pexels.com/photos/5894435/pexels-photo-5894435.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+          }
         },
         {
           "answer": "Pizza!",
@@ -2832,7 +3195,10 @@
             "October is National Pizza Month in the USA."
           ],
           "front": "Which yummy food comes from Italy?",
-          "id": "pizza"
+          "id": "pizza",
+          "media": {
+            "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1100&w=800"
+          }
         },
         {
           "answer": "Chocolate!",
@@ -2842,7 +3208,10 @@
             "White chocolate is not really chocolate — it has no cocoa solids."
           ],
           "front": "Which sweet treat comes from cocoa beans?",
-          "id": "chocolate"
+          "id": "chocolate",
+          "media": {
+            "image": "https://images.pexels.com/photos/11178478/pexels-photo-11178478.jpeg?w=600"
+          }
         },
         {
           "answer": "The Olympic Games!",
@@ -2852,7 +3221,10 @@
             "The first modern Olympics were in Athens in 1896."
           ],
           "front": "Which games bring athletes from all over the world?",
-          "id": "olympics"
+          "id": "olympics",
+          "media": {
+            "image": "https://images.pexels.com/photos/24286126/pexels-photo-24286126.jpeg"
+          }
         },
         {
           "answer": "Cricket!",
@@ -2862,7 +3234,10 @@
             "A cricket team has 11 players, and it is one of the most popular sports in India."
           ],
           "front": "Which sport is played with a bat, a ball and wickets?",
-          "id": "sports-yummy-food-x1"
+          "id": "sports-yummy-food-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/4747326/pexels-photo-4747326.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "answer": "Ice Cream!",
@@ -2872,7 +3247,10 @@
             "Vanilla is the most popular ice cream flavour in the world."
           ],
           "front": "Which cold, sweet treat comes in a cone?",
-          "id": "sports-yummy-food-x2"
+          "id": "sports-yummy-food-x2",
+          "media": {
+            "image": "https://images.pexels.com/photos/9227955/pexels-photo-9227955.jpeg?w=600"
+          }
         },
         {
           "id": "tennis",
@@ -2882,7 +3260,10 @@
             "In tennis, players hit a ball over a net with a racket.",
             "Wimbledon is the oldest tennis tournament in the world."
           ],
-          "didYouKnow": "In tennis, a score of zero is called 'love'!"
+          "didYouKnow": "In tennis, a score of zero is called 'love'!",
+          "media": {
+            "image": "https://images.pexels.com/photos/27152935/pexels-photo-27152935/free-photo-of-tennis-ball-and-racket-on-a-field.jpeg?w=600"
+          }
         },
         {
           "id": "basketball",
@@ -2892,7 +3273,10 @@
             "In basketball, players throw the ball through a high hoop.",
             "Each team has five players on the court."
           ],
-          "didYouKnow": "A basket can be worth 2 or 3 points!"
+          "didYouKnow": "A basket can be worth 2 or 3 points!",
+          "media": {
+            "image": "https://images.pexels.com/photos/36663499/pexels-photo-36663499.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+          }
         },
         {
           "id": "badminton",
@@ -2902,7 +3286,10 @@
             "In badminton, players hit a shuttlecock over a net.",
             "A shuttlecock is made with feathers."
           ],
-          "didYouKnow": "Badminton is one of the fastest racket sports in the world!"
+          "didYouKnow": "Badminton is one of the fastest racket sports in the world!",
+          "media": {
+            "image": "https://images.pexels.com/photos/6878018/pexels-photo-6878018.jpeg?w=600"
+          }
         },
         {
           "id": "hockey",
@@ -2912,7 +3299,10 @@
             "In hockey, players use sticks to hit a hard ball into a goal.",
             "Hockey is a very popular sport in India."
           ],
-          "didYouKnow": "India has won the most Olympic gold medals in hockey!"
+          "didYouKnow": "India has won the most Olympic gold medals in hockey!",
+          "media": {
+            "image": "https://images.pexels.com/photos/14484886/pexels-photo-14484886.jpeg?cs=srgb&dl=pexels-bylukemiller-14484886.jpg&fm=jpg"
+          }
         },
         {
           "id": "swimming",
@@ -2922,7 +3312,10 @@
             "Swimming has four main strokes: freestyle, backstroke, breaststroke and butterfly.",
             "Swimming is wonderful exercise for your whole body."
           ],
-          "didYouKnow": "Michael Phelps has won 23 Olympic gold medals in swimming — more than anyone else!"
+          "didYouKnow": "Michael Phelps has won 23 Olympic gold medals in swimming — more than anyone else!",
+          "media": {
+            "image": "https://images.pexels.com/photos/8688583/pexels-photo-8688583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          }
         },
         {
           "id": "marathon",
@@ -2932,7 +3325,10 @@
             "A marathon is a very long race of about 42 km.",
             "It is named after a place called Marathon in Greece."
           ],
-          "didYouKnow": "Marathon runners train for many months before the race!"
+          "didYouKnow": "Marathon runners train for many months before the race!",
+          "media": {
+            "image": "https://images.pexels.com/photos/2683360/pexels-photo-2683360.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         },
         {
           "id": "cycling",
@@ -2942,7 +3338,10 @@
             "The Tour de France is the most famous bicycle race in the world.",
             "It lasts about three weeks."
           ],
-          "didYouKnow": "Cyclists in the Tour de France ride more than 3,000 km!"
+          "didYouKnow": "Cyclists in the Tour de France ride more than 3,000 km!",
+          "media": {
+            "image": "https://images.pexels.com/photos/21588830/pexels-photo-21588830.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "gymnastics",
@@ -2952,7 +3351,10 @@
             "Gymnasts do flips, jumps and balances.",
             "The balance beam is only 10 cm wide — as wide as your hand."
           ],
-          "didYouKnow": "Gymnasts need both strength and balance to perform!"
+          "didYouKnow": "Gymnasts need both strength and balance to perform!",
+          "media": {
+            "image": "https://images.pexels.com/photos/6572612/pexels-photo-6572612.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "chess",
@@ -2962,7 +3364,10 @@
             "Chess is a board game for two players.",
             "The king is the most important piece — if it is trapped, the game is over."
           ],
-          "didYouKnow": "Chess began in India long, long ago!"
+          "didYouKnow": "Chess began in India long, long ago!",
+          "media": {
+            "image": "https://images.pexels.com/photos/4114601/pexels-photo-4114601.jpeg?auto=compress&cs=tinysrgb&w=600&loading=lazy"
+          }
         },
         {
           "id": "kabaddi",
@@ -2972,7 +3377,10 @@
             "Kabaddi is a team sport that began in India.",
             "Each team has seven players on the court."
           ],
-          "didYouKnow": "In kabaddi, the raider chants 'kabaddi, kabaddi' without stopping for breath!"
+          "didYouKnow": "In kabaddi, the raider chants 'kabaddi, kabaddi' without stopping for breath!",
+          "media": {
+            "image": "https://images.pexels.com/photos/32692191/pexels-photo-32692191.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "volleyball",
@@ -2982,7 +3390,10 @@
             "In volleyball, players hit the ball over a high net.",
             "Each team has six players on the court."
           ],
-          "didYouKnow": "In volleyball, players must not let the ball touch the ground on their side!"
+          "didYouKnow": "In volleyball, players must not let the ball touch the ground on their side!",
+          "media": {
+            "image": "https://images.pexels.com/photos/6203583/pexels-photo-6203583.jpeg?w=600"
+          }
         },
         {
           "id": "baseball",
@@ -2992,7 +3403,10 @@
             "In baseball, players hit the ball with a bat and run around four bases.",
             "Baseball is very popular in the United States and Japan."
           ],
-          "didYouKnow": "A baseball game has nine innings!"
+          "didYouKnow": "A baseball game has nine innings!",
+          "media": {
+            "image": "https://images.pexels.com/photos/31327135/pexels-photo-31327135/free-photo-of-youth-playing-baseball-game-in-sunny-japan.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "golf",
@@ -3002,7 +3416,10 @@
             "In golf, players hit a small ball into holes with clubs.",
             "A normal round of golf has 18 holes."
           ],
-          "didYouKnow": "In golf, the player with the fewest hits wins!"
+          "didYouKnow": "In golf, the player with the fewest hits wins!",
+          "media": {
+            "image": "https://images.pexels.com/photos/27309420/pexels-photo-27309420/free-photo-of-a-man-is-mowing-the-grass-on-a-golf-course.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "boxing",
@@ -3012,7 +3429,10 @@
             "In boxing, two players fight with gloves in a ring.",
             "A boxing match is split into rounds."
           ],
-          "didYouKnow": "Boxers wear gloves to protect their hands and their opponent!"
+          "didYouKnow": "Boxers wear gloves to protect their hands and their opponent!",
+          "media": {
+            "image": "https://images.pexels.com/photos/7991941/pexels-photo-7991941.jpeg?auto=compress&cs=tinysrgb&w=1600&h=900&fit=crop"
+          }
         },
         {
           "id": "karate",
@@ -3022,7 +3442,10 @@
             "Karate is a martial art that began in Japan.",
             "Karate means 'empty hand' because fighters use no weapons."
           ],
-          "didYouKnow": "In karate, belts show a student's level — from white to black!"
+          "didYouKnow": "In karate, belts show a student's level — from white to black!",
+          "media": {
+            "image": "https://images.pexels.com/photos/5081175/pexels-photo-5081175.jpeg?auto=compress&w=600"
+          }
         },
         {
           "id": "surfing",
@@ -3032,7 +3455,10 @@
             "In surfing, people ride big waves on a board.",
             "Hawaii is a famous place for surfing."
           ],
-          "didYouKnow": "Surfers stand up on their boards as the wave carries them!"
+          "didYouKnow": "Surfers stand up on their boards as the wave carries them!",
+          "media": {
+            "image": "https://images.pexels.com/photos/6355523/pexels-photo-6355523.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
         },
         {
           "id": "banana",
@@ -3042,7 +3468,10 @@
             "Bananas grow in bunches on a tall plant.",
             "They give you quick energy, so they are a great snack for players."
           ],
-          "didYouKnow": "Monkeys love bananas, but they eat many other fruits too!"
+          "didYouKnow": "Monkeys love bananas, but they eat many other fruits too!",
+          "media": {
+            "image": "https://images.pexels.com/photos/34388951/pexels-photo-34388951/free-photo-of-bananas.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "mango",
@@ -3052,7 +3481,10 @@
             "Mangoes are sweet summer fruits.",
             "India grows more mangoes than any other country in the world."
           ],
-          "didYouKnow": "There are hundreds of kinds of mangoes!"
+          "didYouKnow": "There are hundreds of kinds of mangoes!",
+          "media": {
+            "image": "https://images.pexels.com/photos/30893227/pexels-photo-30893227.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+          }
         },
         {
           "id": "apple",
@@ -3062,7 +3494,10 @@
             "Apples grow on trees in orchards.",
             "An apple's seeds hide in the middle, in its core."
           ],
-          "didYouKnow": "Apples float in water because they are full of tiny air pockets!"
+          "didYouKnow": "Apples float in water because they are full of tiny air pockets!",
+          "media": {
+            "image": "https://images.pexels.com/photos/16182498/pexels-photo-16182498/free-photo-of-apple.jpeg?auto=compress&cs=tinysrgb&w=1200&loading=lazy"
+          }
         },
         {
           "id": "burger",
@@ -3072,7 +3507,10 @@
             "A burger is a tasty patty served inside a soft bun.",
             "Burgers are often made with beef, chicken or vegetables."
           ],
-          "didYouKnow": "The burger is named after Hamburg, a city in Germany!"
+          "didYouKnow": "The burger is named after Hamburg, a city in Germany!",
+          "media": {
+            "image": "https://images.pexels.com/photos/34051244/pexels-photo-34051244.jpeg?h=1000&w=1500&fit=crop&markalign=center%2Cmiddle&txt=pexels.com&txtalign=center&txtsize=60&txtclr=eeffffff&txtfont=Avenir-Heavy&txtshad=10&mark=https%3A%2F%2Fassets.imgix.net%2F~text%3Ftxtclr%3Dfff%26txtsize%3D120%26txtpad%3D20%26bg%3D80000000%26txtfont%3DAvenir-Heavy%26txtalign%3Dcenter%26w%3D1300%26txt%3DChristopher%2520Welsch%2520Leveroni%2520%25E6%258F%2590%25E4%25BE%259B%25E7%259A%2584%25E5%2585%258D%25E8%25B2%25BB%25E7%259B%25B8%25E7%2589%2587%25E5%2592%258C%25E5%25BD%25B1%25E7%2589%2587"
+          }
         },
         {
           "id": "pasta",
@@ -3082,7 +3520,10 @@
             "Pasta comes from Italy.",
             "It is made from wheat flour and water."
           ],
-          "didYouKnow": "Spaghetti is a kind of pasta that is long and thin like strings!"
+          "didYouKnow": "Spaghetti is a kind of pasta that is long and thin like strings!",
+          "media": {
+            "image": "https://images.pexels.com/photos/6287359/pexels-photo-6287359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+          }
         },
         {
           "id": "crispy-dosa",
@@ -3092,7 +3533,10 @@
             "A dosa is a crispy pancake from South India.",
             "It is made from a batter of rice and lentils."
           ],
-          "didYouKnow": "Dosa is eaten with sambar and coconut chutney!"
+          "didYouKnow": "Dosa is eaten with sambar and coconut chutney!",
+          "media": {
+            "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop"
+          }
         },
         {
           "id": "biryani",
@@ -3102,7 +3546,10 @@
             "Biryani is a tasty rice dish from India.",
             "It is made with rice, spices, and meat or vegetables."
           ],
-          "didYouKnow": "Biryani is cooked slowly so all the flavours mix together!"
+          "didYouKnow": "Biryani is cooked slowly so all the flavours mix together!",
+          "media": {
+            "image": "https://images.pexels.com/photos/9609869/pexels-photo-9609869.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "popcorn",
@@ -3112,7 +3559,10 @@
             "Popcorn is made from special corn kernels.",
             "When the kernels get hot, they pop open into fluffy white pieces."
           ],
-          "didYouKnow": "Popcorn is a favourite snack at the cinema!"
+          "didYouKnow": "Popcorn is a favourite snack at the cinema!",
+          "media": {
+            "image": "https://images.pexels.com/photos/10397069/pexels-photo-10397069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          }
         }
       ],
       "color": "#FF9F43",
@@ -3525,7 +3975,10 @@
             "The President of India lives in Rashtrapati Bhavan in New Delhi."
           ],
           "front": "What is the capital of India?",
-          "id": "in-easy-delhi"
+          "id": "in-easy-delhi",
+          "media": {
+            "image": "https://images.pexels.com/photos/30575028/pexels-photo-30575028/free-photo-of-view-of-india-gate-new-delhi-through-trees.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Bengal Tiger!",
@@ -3535,7 +3988,10 @@
             "Tigers have stripes just like human fingerprints — no two tigers have the same stripes."
           ],
           "front": "Which animal is the national animal of India?",
-          "id": "in-easy-tiger"
+          "id": "in-easy-tiger",
+          "media": {
+            "image": "https://images.pexels.com/photos/36530920/pexels-photo-36530920/free-photo-of-bengal-tiger-walking-in-karnataka-india.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Taj Mahal!",
@@ -3545,7 +4001,10 @@
             "It was built by Emperor Shah Jahan for his wife Mumtaz Mahal."
           ],
           "front": "Which famous white building stands in Agra?",
-          "id": "in-easy-taj"
+          "id": "in-easy-taj",
+          "media": {
+            "image": "https://images.pexels.com/photos/6012339/pexels-photo-6012339.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Peacock!",
@@ -3555,7 +4014,10 @@
             "Only male peacocks have the big colourful tail with eye-like spots."
           ],
           "front": "Which beautiful bird is the national bird of India?",
-          "id": "in-easy-peacock"
+          "id": "in-easy-peacock",
+          "media": {
+            "image": "https://images.pexels.com/photos/638738/pexels-photo-638738.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Lotus!",
@@ -3565,7 +4027,10 @@
             "It grows in muddy water but its petals always stay clean."
           ],
           "front": "Which flower is the national flower of India?",
-          "id": "india-gk-easy-x1"
+          "id": "india-gk-easy-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/33059564/pexels-photo-33059564/free-photo-of-vibrant-pink-lotus-flower-in-vietnamese-pond.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Mango!",
@@ -3575,7 +4040,10 @@
             "India grows more mangoes than any other country in the world."
           ],
           "front": "Which fruit is the national fruit of India?",
-          "id": "india-gk-easy-x2"
+          "id": "india-gk-easy-x2",
+          "media": {
+            "image": "https://images.pexels.com/photos/28939331/pexels-photo-28939331/free-photo-of-ripe-indian-mangoes-close-up-on-yellow-background.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-india-gate",
@@ -3585,7 +4053,10 @@
             "It was built to honour the Indian soldiers who died in wars.",
             "It is 42 metres tall, and the names of soldiers are written on its walls."
           ],
-          "didYouKnow": "India Gate was built almost 100 years ago, in 1931."
+          "didYouKnow": "India Gate was built almost 100 years ago, in 1931.",
+          "media": {
+            "image": "https://images.pexels.com/photos/789750/pexels-photo-789750.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-himalayas",
@@ -3595,7 +4066,10 @@
             "The Himalayas are the tallest mountains in the world.",
             "Mount Everest, the tallest mountain on Earth, is part of the Himalayas."
           ],
-          "didYouKnow": "Himalaya means 'home of snow' in Sanskrit."
+          "didYouKnow": "Himalaya means 'home of snow' in Sanskrit.",
+          "media": {
+            "image": "https://images.pexels.com/photos/32261668/pexels-photo-32261668/free-photo-of-stunning-view-of-the-himalayan-mountain-range.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-monsoon",
@@ -3605,7 +4079,10 @@
             "The monsoon brings rain to India from June to September.",
             "Farmers wait for the monsoon rain to grow their crops."
           ],
-          "didYouKnow": "The word monsoon comes from an Arabic word that means 'season'."
+          "didYouKnow": "The word monsoon comes from an Arabic word that means 'season'.",
+          "media": {
+            "image": "https://images.pexels.com/photos/6218061/pexels-photo-6218061.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-elephant",
@@ -3615,7 +4092,10 @@
             "Indian elephants have smaller ears than African elephants.",
             "An elephant eats about 150 kg of leaves and grass in a day."
           ],
-          "didYouKnow": "Elephants love to play in water and spray themselves with their trunks."
+          "didYouKnow": "Elephants love to play in water and spray themselves with their trunks.",
+          "media": {
+            "image": "https://images.pexels.com/photos/982021/pexels-photo-982021.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-cobra",
@@ -3625,7 +4105,10 @@
             "When it feels scared, the cobra spreads its hood to look big.",
             "A cobra's bite has venom, so we must stay far away from it."
           ],
-          "didYouKnow": "The Indian cobra is one of the four most venomous snakes in India."
+          "didYouKnow": "The Indian cobra is one of the four most venomous snakes in India.",
+          "media": {
+            "image": "https://images.pexels.com/photos/30570505/pexels-photo-30570505/free-photo-of-indian-cobra-in-natural-habitat-close-up.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-yoga",
@@ -3635,7 +4118,10 @@
             "Yoga began in India thousands of years ago.",
             "People all over the world do yoga to stay fit and calm."
           ],
-          "didYouKnow": "21st June is celebrated as International Yoga Day."
+          "didYouKnow": "21st June is celebrated as International Yoga Day.",
+          "media": {
+            "image": "https://images.pexels.com/photos/3822454/pexels-photo-3822454.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-cricket",
@@ -3645,7 +4131,10 @@
             "A cricket team has 11 players.",
             "The game is played with a wooden bat and a hard ball."
           ],
-          "didYouKnow": "Cricket came to India from England long ago."
+          "didYouKnow": "Cricket came to India from England long ago.",
+          "media": {
+            "image": "https://images.pexels.com/photos/29463867/pexels-photo-29463867/free-photo-of-cricket-batsman-playing-powerful-shot-on-field.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-hockey",
@@ -3655,7 +4144,10 @@
             "India has won 8 gold medals in hockey at the Olympics.",
             "Hockey is played with a stick and a small hard ball."
           ],
-          "didYouKnow": "Major Dhyan Chand, a great hockey player, is called the Wizard of Hockey."
+          "didYouKnow": "Major Dhyan Chand, a great hockey player, is called the Wizard of Hockey.",
+          "media": {
+            "image": "https://images.pexels.com/photos/13306301/pexels-photo-13306301.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-qutub-minar",
@@ -3665,7 +4157,10 @@
             "It is 73 metres tall and was built about 800 years ago.",
             "There are 379 steps inside it that go up to the top."
           ],
-          "didYouKnow": "The Qutub Minar is one of the tallest brick towers in the world."
+          "didYouKnow": "The Qutub Minar is one of the tallest brick towers in the world.",
+          "media": {
+            "image": "https://images.pexels.com/photos/17348001/pexels-photo-17348001/free-photo-of-qutub-minaret-in-new-delhi.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-charminar",
@@ -3675,7 +4170,10 @@
             "It was built more than 400 years ago, in 1591.",
             "It has four tall towers called minarets."
           ],
-          "didYouKnow": "Charminar means 'four towers'."
+          "didYouKnow": "Charminar means 'four towers'.",
+          "media": {
+            "image": "https://images.pexels.com/photos/5615112/pexels-photo-5615112.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-easy-gateway",
@@ -3685,7 +4183,10 @@
             "It was built to welcome a king who visited India in 1911.",
             "It stands on the shore of the Arabian Sea in Mumbai."
           ],
-          "didYouKnow": "The Gateway of India is 26 metres tall."
+          "didYouKnow": "The Gateway of India is 26 metres tall.",
+          "media": {
+            "image": "https://images.pexels.com/photos/36874536/pexels-photo-36874536/free-photo-of-view-of-gateway-of-india-in-mumbai-at-sunset.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-lotus-temple",
@@ -3695,7 +4196,10 @@
             "It is shaped like a big white lotus flower.",
             "People of all religions are welcome to pray there."
           ],
-          "didYouKnow": "The Lotus Temple has nine sides, like the petals of a flower."
+          "didYouKnow": "The Lotus Temple has nine sides, like the petals of a flower.",
+          "media": {
+            "image": "https://images.pexels.com/photos/34662732/pexels-photo-34662732/free-photo-of-iconic-lotus-temple-against-clear-blue-sky.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-golden-temple",
@@ -3705,7 +4209,10 @@
             "Its dome is covered with real gold.",
             "It is the holiest place for Sikhs."
           ],
-          "didYouKnow": "Free food is served to everyone who visits, in a hall called the langar."
+          "didYouKnow": "Free food is served to everyone who visits, in a hall called the langar.",
+          "media": {
+            "image": "https://images.pexels.com/photos/31617840/pexels-photo-31617840/free-photo-of-iconic-golden-temple-reflected-in-sacred-pool.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-easy-yamuna",
@@ -3715,7 +4222,10 @@
             "The Yamuna flows through Delhi and past the Taj Mahal in Agra.",
             "It joins the river Ganga at Prayagraj."
           ],
-          "didYouKnow": "The Yamuna is the longest river that joins the Ganga."
+          "didYouKnow": "The Yamuna is the longest river that joins the Ganga.",
+          "media": {
+            "image": "https://images.pexels.com/photos/8207634/pexels-photo-8207634.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-arabian-sea",
@@ -3725,7 +4235,10 @@
             "Mumbai and Goa are on the shore of the Arabian Sea.",
             "The Arabian Sea is part of the big Indian Ocean."
           ],
-          "didYouKnow": "Ships have sailed on the Arabian Sea for thousands of years."
+          "didYouKnow": "Ships have sailed on the Arabian Sea for thousands of years.",
+          "media": {
+            "image": "https://images.pexels.com/photos/28518932/pexels-photo-28518932/free-photo-of-scenic-view-of-chapora-beach-and-arabian-sea.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-coconut",
@@ -3735,7 +4248,10 @@
             "We drink sweet water from inside a green coconut.",
             "Coconut is used in cooking in many parts of India."
           ],
-          "didYouKnow": "A coconut tree can live for 60 to 80 years."
+          "didYouKnow": "A coconut tree can live for 60 to 80 years.",
+          "media": {
+            "image": "https://images.pexels.com/photos/16097003/pexels-photo-16097003/free-photo-of-coconuts-on-palm-trees.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-banana",
@@ -3745,7 +4261,10 @@
             "Bananas grow in big bunches on a banana plant.",
             "A banana gives us quick energy and is good for health."
           ],
-          "didYouKnow": "India grows more bananas than any other country in the world."
+          "didYouKnow": "India grows more bananas than any other country in the world.",
+          "media": {
+            "image": "https://images.pexels.com/photos/30543146/pexels-photo-30543146/free-photo-of-vibrant-yellow-bananas-bunches-at-market.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-rice",
@@ -3755,7 +4274,10 @@
             "Rice grows in fields filled with water, called paddy fields.",
             "India is one of the largest growers of rice in the world."
           ],
-          "didYouKnow": "Cooked rice is eaten with dal and vegetables in many Indian homes."
+          "didYouKnow": "Cooked rice is eaten with dal and vegetables in many Indian homes.",
+          "media": {
+            "image": "https://images.pexels.com/photos/34961113/pexels-photo-34961113/free-photo-of-lush-green-kerala-paddy-fields-in-summer.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-metro",
@@ -3765,7 +4287,10 @@
             "Metro trains run in Delhi, Mumbai, Bengaluru and many other cities.",
             "Lakhs of people travel by metro every day."
           ],
-          "didYouKnow": "The Kolkata Metro was the first metro train in India."
+          "didYouKnow": "The Kolkata Metro was the first metro train in India.",
+          "media": {
+            "image": "https://images.pexels.com/photos/1463008/pexels-photo-1463008.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-auto",
@@ -3775,7 +4300,10 @@
             "An auto rickshaw has three wheels and a small roof.",
             "It is a quick way to travel short distances in a city."
           ],
-          "didYouKnow": "Auto rickshaws are also called tuk-tuks."
+          "didYouKnow": "Auto rickshaws are also called tuk-tuks.",
+          "media": {
+            "image": "https://images.pexels.com/photos/37991386/pexels-photo-37991386/free-photo-of-colorful-auto-rickshaw-in-vibrant-indian-street.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-diya",
@@ -3785,7 +4313,10 @@
             "A diya is a small lamp made of clay.",
             "We fill it with oil and light it on Diwali, the festival of lights."
           ],
-          "didYouKnow": "People light diyas to show that light wins over darkness."
+          "didYouKnow": "People light diyas to show that light wins over darkness.",
+          "media": {
+            "image": "https://images.pexels.com/photos/40990286/pexels-photo-40990286/free-photo-of-traditional-diya-lamp-illuminated-at-night.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-rangoli",
@@ -3795,7 +4326,10 @@
             "Rangoli is made with colourful powders and flowers.",
             "People make rangoli to welcome guests and good luck."
           ],
-          "didYouKnow": "Rangoli is also called kolam in Tamil Nadu."
+          "didYouKnow": "Rangoli is also called kolam in Tamil Nadu.",
+          "media": {
+            "image": "https://images.pexels.com/photos/191077/pexels-photo-191077.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-sari",
@@ -3805,7 +4339,10 @@
             "A sari is a long cloth, about five metres long.",
             "It is worn in different ways in different parts of India."
           ],
-          "didYouKnow": "Saris can be made of silk, cotton and many other materials."
+          "didYouKnow": "Saris can be made of silk, cotton and many other materials.",
+          "media": {
+            "image": "https://images.pexels.com/photos/37145167/pexels-photo-37145167/free-photo-of-portrait-of-a-woman-in-vibrant-sari-outdoors.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "id": "in-easy-republic-day",
@@ -3815,7 +4352,10 @@
             "On this day in 1950, the Constitution of India came into effect.",
             "A big parade is held in New Delhi on Republic Day."
           ],
-          "didYouKnow": "On Republic Day, the President of India unfurls the national flag in New Delhi."
+          "didYouKnow": "On Republic Day, the President of India unfurls the national flag in New Delhi.",
+          "media": {
+            "image": "https://images.pexels.com/photos/13316037/pexels-photo-13316037.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         }
       ],
       "color": "#FF9933",
@@ -4228,7 +4768,10 @@
             "It starts in the Himalayas and flows into the Bay of Bengal."
           ],
           "front": "Which is the longest river in India?",
-          "id": "in-med-ganges"
+          "id": "in-med-ganges",
+          "media": {
+            "image": "https://images.pexels.com/photos/17869859/pexels-photo-17869859/free-photo-of-ganges-coast-in-varanasi-city.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Mumbai!",
@@ -4238,7 +4781,10 @@
             "It is also the financial capital of India."
           ],
           "front": "Which city is the capital of Maharashtra?",
-          "id": "in-med-mumbai"
+          "id": "in-med-mumbai",
+          "media": {
+            "image": "https://images.pexels.com/photos/5414582/pexels-photo-5414582.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Mahatma Gandhi!",
@@ -4258,7 +4804,10 @@
             "It is home to the largest number of one-horned rhinos in the world."
           ],
           "front": "Which national park is famous for one-horned rhinos?",
-          "id": "in-med-kaziranga"
+          "id": "in-med-kaziranga",
+          "media": {
+            "image": "https://images.pexels.com/photos/30542345/pexels-photo-30542345/free-photo-of-rhinos-grazing-in-kaziranga-national-park.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "C. V. Raman!",
@@ -4268,7 +4817,10 @@
             "He discovered why the sea looks blue — the Raman Effect."
           ],
           "front": "Who won India's first Nobel Prize in Science?",
-          "id": "india-gk-medium-x1"
+          "id": "india-gk-medium-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/5427862/pexels-photo-5427862.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Indian Railways!",
@@ -4278,7 +4830,10 @@
             "It has over 7,000 stations across the country."
           ],
           "front": "Which is one of the largest railway networks in the world?",
-          "id": "india-gk-medium-x2"
+          "id": "india-gk-medium-x2",
+          "media": {
+            "image": "https://images.pexels.com/photos/15665580/pexels-photo-15665580/free-photo-of-view-of-a-train-at-the-station-in-an-indian-town.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-kathak",
@@ -4298,7 +4853,10 @@
             "Chess began in India about 1,500 years ago as a game called chaturanga.",
             "It is played by two players with 16 pieces each."
           ],
-          "didYouKnow": "The word 'checkmate' comes from the Persian words 'shah mat', which mean 'the king is dead'."
+          "didYouKnow": "The word 'checkmate' comes from the Persian words 'shah mat', which mean 'the king is dead'.",
+          "media": {
+            "image": "https://images.pexels.com/photos/6114952/pexels-photo-6114952.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-kabaddi",
@@ -4348,7 +4906,10 @@
             "Ramanujan was a genius who loved numbers from a young age.",
             "He went to Cambridge in England and worked with the famous mathematician G. H. Hardy."
           ],
-          "didYouKnow": "Ramanujan died when he was only 32, but his work is still used by scientists today."
+          "didYouKnow": "Ramanujan died when he was only 32, but his work is still used by scientists today.",
+          "media": {
+            "image": "https://images.pexels.com/photos/5568720/pexels-photo-5568720.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-chanakya",
@@ -4368,7 +4929,10 @@
             "After the Kalinga war, Ashoka chose peace and Buddhism.",
             "The lion capital of Ashoka is India's national emblem."
           ],
-          "didYouKnow": "The wheel in the middle of the Indian flag is called the Ashoka Chakra."
+          "didYouKnow": "The wheel in the middle of the Indian flag is called the Ashoka Chakra.",
+          "media": {
+            "image": "https://images.pexels.com/photos/11042133/pexels-photo-11042133.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-shivaji",
@@ -4378,7 +4942,10 @@
             "Shivaji built many strong forts in the hills of Maharashtra.",
             "He was crowned king in 1674 at Raigad Fort."
           ],
-          "didYouKnow": "Shivaji was a master of guerrilla warfare, fighting with speed and surprise."
+          "didYouKnow": "Shivaji was a master of guerrilla warfare, fighting with speed and surprise.",
+          "media": {
+            "image": "https://images.pexels.com/photos/33304432/pexels-photo-33304432/free-photo-of-scenic-view-of-rajgad-fort-in-maharashtra.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-rani-lakshmibai",
@@ -4408,7 +4975,10 @@
             "Bose led the Indian National Army to free India.",
             "He is lovingly called Netaji by the people of India."
           ],
-          "didYouKnow": "Netaji's army had a women's unit called the Rani of Jhansi Regiment."
+          "didYouKnow": "Netaji's army had a women's unit called the Rani of Jhansi Regiment.",
+          "media": {
+            "image": "https://images.pexels.com/photos/34201914/pexels-photo-34201914/free-photo-of-red-fort-architectural-detail-at-sunset.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-nehru",
@@ -4428,7 +4998,10 @@
             "Mother Teresa started the Missionaries of Charity in Kolkata in 1950.",
             "She won the Nobel Peace Prize in 1979."
           ],
-          "didYouKnow": "Mother Teresa was given India's highest honour, the Bharat Ratna, in 1980."
+          "didYouKnow": "Mother Teresa was given India's highest honour, the Bharat Ratna, in 1980.",
+          "media": {
+            "image": "https://images.pexels.com/photos/16129343/pexels-photo-16129343/free-photo-of-man-near-vintage-taxi-on-street.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-kalpana-chawla",
@@ -4438,7 +5011,10 @@
             "Kalpana Chawla was born in Karnal, Haryana.",
             "She flew to space in 1997 on the Space Shuttle Columbia."
           ],
-          "didYouKnow": "Kalpana Chawla died in 2003 when the Columbia broke apart on its way back to Earth."
+          "didYouKnow": "Kalpana Chawla died in 2003 when the Columbia broke apart on its way back to Earth.",
+          "media": {
+            "image": "https://images.pexels.com/photos/39896/space-station-moon-landing-apollo-15-james-irwin-39896.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-konark",
@@ -4448,7 +5024,10 @@
             "It was built in the 13th century by King Narasimhadeva I.",
             "The temple is shaped like a chariot with 24 stone wheels."
           ],
-          "didYouKnow": "The wheels of the temple work as sundials and can tell the time."
+          "didYouKnow": "The wheels of the temple work as sundials and can tell the time.",
+          "media": {
+            "image": "https://images.pexels.com/photos/20371128/pexels-photo-20371128/free-photo-of-engraving-of-a-chariot-wheel-at-the-konark-sun-temple.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-hampi",
@@ -4458,7 +5037,10 @@
             "Hampi was the capital of the great Vijayanagara Empire.",
             "It is famous for its stone chariot and old temples."
           ],
-          "didYouKnow": "Hampi is a UNESCO World Heritage Site."
+          "didYouKnow": "Hampi is a UNESCO World Heritage Site.",
+          "media": {
+            "image": "https://images.pexels.com/photos/18320349/pexels-photo-18320349/free-photo-of-shree-vijaya-vitthala-temple-in-hampi.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-ajanta",
@@ -4478,7 +5060,10 @@
             "Varanasi is more than 3,000 years old.",
             "It is famous for its ghats, where people pray on the banks of the Ganga."
           ],
-          "didYouKnow": "Varanasi is also called Kashi and Banaras."
+          "didYouKnow": "Varanasi is also called Kashi and Banaras.",
+          "media": {
+            "image": "https://images.pexels.com/photos/31105902/pexels-photo-31105902/free-photo-of-varanasi-ghats-with-colorful-boats-at-dawn.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-western-ghats",
@@ -4488,7 +5073,10 @@
             "The Western Ghats run through Gujarat, Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu.",
             "They are home to many plants and animals found nowhere else in the world."
           ],
-          "didYouKnow": "The Western Ghats are a UNESCO World Heritage Site."
+          "didYouKnow": "The Western Ghats are a UNESCO World Heritage Site.",
+          "media": {
+            "image": "https://images.pexels.com/photos/11946311/pexels-photo-11946311.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-brahmaputra",
@@ -4498,7 +5086,10 @@
             "The Brahmaputra flows through Tibet, India and Bangladesh.",
             "It forms Majuli, the largest river island in the world."
           ],
-          "didYouKnow": "In Tibet, the Brahmaputra is called the Tsangpo."
+          "didYouKnow": "In Tibet, the Brahmaputra is called the Tsangpo.",
+          "media": {
+            "image": "https://images.pexels.com/photos/14115984/pexels-photo-14115984.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-med-lok-sabha",
@@ -4951,7 +5542,10 @@
             "He helped build India's first satellite launch vehicle."
           ],
           "front": "Who is known as the Missile Man of India?",
-          "id": "in-hard-kalam"
+          "id": "in-hard-kalam",
+          "media": {
+            "image": "https://images.pexels.com/photos/23764/pexels-photo.jpg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Rabindranath Tagore!",
@@ -4971,7 +5565,10 @@
             "India became the first country to land near the Moon's south pole."
           ],
           "front": "Which mission made India the first country to land near the Moon's south pole?",
-          "id": "india-gk-hard-x1"
+          "id": "india-gk-hard-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/975012/pexels-photo-975012.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Sundarbans!",
@@ -5081,7 +5678,10 @@
             "The Narmada flows to the west and falls into the Arabian Sea.",
             "It is one of the few Indian rivers that flow to the west."
           ],
-          "didYouKnow": "The Narmada is one of the seven holy rivers of India."
+          "didYouKnow": "The Narmada is one of the seven holy rivers of India.",
+          "media": {
+            "image": "https://images.pexels.com/photos/10483147/pexels-photo-10483147.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-hard-wular",
@@ -5101,7 +5701,10 @@
             "It was set up in 1936 in Uttarakhand.",
             "It is famous for the Bengal tiger."
           ],
-          "didYouKnow": "The park was first called Hailey National Park."
+          "didYouKnow": "The park was first called Hailey National Park.",
+          "media": {
+            "image": "https://images.pexels.com/photos/248314/pexels-photo-248314.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-hard-project-tiger",
@@ -5111,7 +5714,10 @@
             "Project Tiger began with 9 tiger reserves.",
             "Today India has more than 50 tiger reserves."
           ],
-          "didYouKnow": "The number of tigers in India has more than doubled since 2006."
+          "didYouKnow": "The number of tigers in India has more than doubled since 2006.",
+          "media": {
+            "image": "https://images.pexels.com/photos/2668605/pexels-photo-2668605.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-hard-mangalyaan",
@@ -5121,7 +5727,10 @@
             "Mangalyaan reached Mars in 2014.",
             "India was the first country to reach Mars on its very first try."
           ],
-          "didYouKnow": "Mangalyaan cost less than many Hollywood films."
+          "didYouKnow": "Mangalyaan cost less than many Hollywood films.",
+          "media": {
+            "image": "https://images.pexels.com/photos/796206/pexels-photo-796206.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-hard-aditya-l1",
@@ -5131,7 +5740,10 @@
             "Aditya-L1 was launched in 2023.",
             "It studies the Sun from a special point in space called L1."
           ],
-          "didYouKnow": "Aditya is another name for the Sun God."
+          "didYouKnow": "Aditya is another name for the Sun God.",
+          "media": {
+            "image": "https://images.pexels.com/photos/21637893/pexels-photo-21637893/free-photo-of-full-lunar-eclipse.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-hard-aryabhata",
@@ -5141,7 +5753,10 @@
             "Aryabhata lived about 1,500 years ago.",
             "He explained that the Earth spins on its axis and worked out the length of the year."
           ],
-          "didYouKnow": "India's first satellite was named Aryabhata in his honour."
+          "didYouKnow": "India's first satellite was named Aryabhata in his honour.",
+          "media": {
+            "image": "https://images.pexels.com/photos/41006/satellite-soyuz-spaceship-space-station-41006.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-hard-homi-bhabha",
@@ -5151,7 +5766,10 @@
             "Homi Bhabha set up the Tata Institute of Fundamental Research.",
             "He also led India's Atomic Energy Commission."
           ],
-          "didYouKnow": "Homi Bhabha dreamed that India would use atomic energy for peace."
+          "didYouKnow": "Homi Bhabha dreamed that India would use atomic energy for peace.",
+          "media": {
+            "image": "https://images.pexels.com/photos/3044473/pexels-photo-3044473.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-hard-sanchi",
@@ -5171,7 +5789,10 @@
             "It was built in 1799 by Maharaja Sawai Pratap Singh.",
             "It has 953 small windows, called jharokhas."
           ],
-          "didYouKnow": "The palace was built so royal women could watch festivals in the street without being seen."
+          "didYouKnow": "The palace was built so royal women could watch festivals in the street without being seen.",
+          "media": {
+            "image": "https://images.pexels.com/photos/14247658/pexels-photo-14247658.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "id": "in-hard-kumbh",
@@ -5634,7 +6255,10 @@
             "Chennai is on the east coast of India, by the Bay of Bengal."
           ],
           "front": "What is the capital of Tamil Nadu?",
-          "id": "tn-easy-chennai"
+          "id": "tn-easy-chennai",
+          "media": {
+            "image": "https://images.pexels.com/photos/9432498/pexels-photo-9432498.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Meenakshi Temple!",
@@ -5644,7 +6268,10 @@
             "It is famous for its tall, colourful towers called gopurams."
           ],
           "front": "Which famous temple stands in Madurai?",
-          "id": "tn-easy-meenakshi"
+          "id": "tn-easy-meenakshi",
+          "media": {
+            "image": "https://images.pexels.com/photos/5690494/pexels-photo-5690494.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Tamil!",
@@ -5654,7 +6281,10 @@
             "Tamil Nadu's name means 'the land of Tamils'."
           ],
           "front": "Which language do most people speak in Tamil Nadu?",
-          "id": "tn-easy-tamil"
+          "id": "tn-easy-tamil",
+          "media": {
+            "image": "https://images.pexels.com/photos/37862814/pexels-photo-37862814.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Pongal!",
@@ -5664,7 +6294,10 @@
             "Families cook sweet pongal in new pots to thank the Sun."
           ],
           "front": "Which harvest festival is celebrated in Tamil Nadu?",
-          "id": "tn-easy-pongal"
+          "id": "tn-easy-pongal",
+          "media": {
+            "image": "https://images.pexels.com/photos/30519625/pexels-photo-30519625.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Jallikattu!",
@@ -5674,7 +6307,10 @@
             "The bull is not killed — it is a test of bravery."
           ],
           "front": "Which famous bull sport is celebrated in Tamil Nadu during Pongal?",
-          "id": "tamil-nadu-gk-easy-x1"
+          "id": "tamil-nadu-gk-easy-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/19876545/pexels-photo-19876545.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "On a banana leaf!",
@@ -5684,7 +6320,10 @@
             "The hot food picks up a nice smell from the leaf."
           ],
           "front": "Why do people in Tamil Nadu eat food on a banana leaf?",
-          "id": "tamil-nadu-gk-easy-x2"
+          "id": "tamil-nadu-gk-easy-x2",
+          "media": {
+            "image": "https://images.pexels.com/photos/5410418/pexels-photo-5410418.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Salem!",
@@ -5694,7 +6333,10 @@
             "Salem is also famous for its sweet mangoes."
           ],
           "front": "Which city in Tamil Nadu is called the Steel City?",
-          "id": "salem-steel"
+          "id": "salem-steel",
+          "media": {
+            "image": "https://images.pexels.com/photos/6804258/pexels-photo-6804258.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Erode!",
@@ -5704,7 +6346,10 @@
             "Turmeric is the yellow powder used in cooking."
           ],
           "front": "Which city is famous for yellow turmeric?",
-          "id": "erode-turmeric"
+          "id": "erode-turmeric",
+          "media": {
+            "image": "https://images.pexels.com/photos/6104651/pexels-photo-6104651.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Dosa!",
@@ -5714,7 +6359,10 @@
             "It is served with sambar and coconut chutney."
           ],
           "front": "Which yummy food is a thin, crispy pancake?",
-          "id": "dosa"
+          "id": "dosa",
+          "media": {
+            "image": "https://images.pexels.com/photos/12392915/pexels-photo-12392915.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Idli!",
@@ -5724,7 +6372,10 @@
             "It is soft, light and very healthy."
           ],
           "front": "Which soft white food is steamed and eaten with sambar?",
-          "id": "idli"
+          "id": "idli",
+          "media": {
+            "image": "https://images.pexels.com/photos/4331491/pexels-photo-4331491.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Filter coffee!",
@@ -5734,7 +6385,10 @@
             "It is served in a small steel tumbler and bowl."
           ],
           "front": "Which hot drink do people in Tamil Nadu love in the morning?",
-          "id": "filter-coffee"
+          "id": "filter-coffee",
+          "media": {
+            "image": "https://images.pexels.com/photos/16128085/pexels-photo-16128085.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The coconut tree!",
@@ -5744,7 +6398,10 @@
             "Tender coconut water is a cool and healthy drink."
           ],
           "front": "Which tall tree gives us tender coconut water?",
-          "id": "coconut-tree"
+          "id": "coconut-tree",
+          "media": {
+            "image": "https://images.pexels.com/photos/1363855/pexels-photo-1363855.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Shore Temple!",
@@ -5754,7 +6411,10 @@
             "It is a UNESCO World Heritage Site."
           ],
           "front": "Which famous temple stands by the sea at Mamallapuram?",
-          "id": "mamallapuram-shore-temple"
+          "id": "mamallapuram-shore-temple",
+          "media": {
+            "image": "https://images.pexels.com/photos/12087907/pexels-photo-12087907.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Pamban Bridge!",
@@ -5764,7 +6424,10 @@
             "It was the first sea bridge in India."
           ],
           "front": "Which bridge takes trains across the sea to Rameswaram?",
-          "id": "rameswaram-pamban"
+          "id": "rameswaram-pamban",
+          "media": {
+            "image": "https://images.pexels.com/photos/13621055/pexels-photo-13621055.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Kanyakumari!",
@@ -5774,7 +6437,10 @@
             "Kanyakumari is the southernmost tip of India."
           ],
           "front": "At which place do three seas meet?",
-          "id": "kanyakumari-three-seas"
+          "id": "kanyakumari-three-seas",
+          "media": {
+            "image": "https://images.pexels.com/photos/10575835/pexels-photo-10575835.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Thiruvalluvar!",
@@ -5784,7 +6450,10 @@
             "It was built to honour Thiruvalluvar, who wrote the Thirukkural."
           ],
           "front": "Whose tall statue stands on a rock in the sea at Kanyakumari?",
-          "id": "thiruvalluvar-statue"
+          "id": "thiruvalluvar-statue",
+          "media": {
+            "image": "https://images.pexels.com/photos/6687168/pexels-photo-6687168.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Mudumalai Tiger Reserve!",
@@ -5794,7 +6463,10 @@
             "Tigers, elephants and deer live in this forest."
           ],
           "front": "Which forest in the Nilgiris is famous for tigers and elephants?",
-          "id": "mudumalai-tiger-reserve"
+          "id": "mudumalai-tiger-reserve",
+          "media": {
+            "image": "https://images.pexels.com/photos/11996336/pexels-photo-11996336.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Guindy National Park!",
@@ -5804,7 +6476,10 @@
             "Deer, jackals and many birds live there."
           ],
           "front": "Which national park is inside Chennai city?",
-          "id": "guindy-national-park"
+          "id": "guindy-national-park",
+          "media": {
+            "image": "https://images.pexels.com/photos/7941700/pexels-photo-7941700.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Puthandu!",
@@ -5814,7 +6489,10 @@
             "It falls on 14 April every year."
           ],
           "front": "Which new year festival do Tamil people celebrate in April?",
-          "id": "tamil-new-year"
+          "id": "tamil-new-year",
+          "media": {
+            "image": "https://images.pexels.com/photos/7458680/pexels-photo-7458680.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Srivilliputhur Temple Tower!",
@@ -5824,7 +6502,10 @@
             "It is the emblem of the Tamil Nadu government."
           ],
           "front": "Which temple tower is the symbol of Tamil Nadu?",
-          "id": "srivilliputhur-tower"
+          "id": "srivilliputhur-tower",
+          "media": {
+            "image": "https://images.pexels.com/photos/11539838/pexels-photo-11539838.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Palani Murugan Temple!",
@@ -5834,7 +6515,10 @@
             "People climb 690 steps to reach the temple on the hill."
           ],
           "front": "Which hill temple is one of the six holy homes of Lord Murugan?",
-          "id": "murugan-palani"
+          "id": "murugan-palani",
+          "media": {
+            "image": "https://images.pexels.com/photos/15094596/pexels-photo-15094596.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Kodaikanal!",
@@ -5844,7 +6528,10 @@
             "It has a beautiful star-shaped lake."
           ],
           "front": "Which hill station is called the Princess of Hill Stations?",
-          "id": "kodaikanal"
+          "id": "kodaikanal",
+          "media": {
+            "image": "https://images.pexels.com/photos/37255862/pexels-photo-37255862.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Hogenakkal Falls!",
@@ -5854,7 +6541,10 @@
             "Boats made of bamboo, called coracles, carry people near the falls."
           ],
           "front": "Which waterfall is called the Niagara of India?",
-          "id": "hogenakkal-falls"
+          "id": "hogenakkal-falls",
+          "media": {
+            "image": "https://images.pexels.com/photos/35310666/pexels-photo-35310666.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Kolam!",
@@ -5864,7 +6554,10 @@
             "People draw kolams to welcome guests and good luck."
           ],
           "front": "What beautiful drawing do people make in front of their homes every morning?",
-          "id": "kolam"
+          "id": "kolam",
+          "media": {
+            "image": "https://images.pexels.com/photos/33362142/pexels-photo-33362142.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Thanjavur Dancing Doll!",
@@ -5874,7 +6567,10 @@
             "Its head and body move when you tap it gently."
           ],
           "front": "Which famous doll nods its head when you touch it?",
-          "id": "thanjavur-doll"
+          "id": "thanjavur-doll",
+          "media": {
+            "image": "https://images.pexels.com/photos/35857805/pexels-photo-35857805.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Rockfort!",
@@ -5884,7 +6580,10 @@
             "There is a temple of Lord Ganesha at the top."
           ],
           "front": "Which fort in Trichy is built on top of a huge rock?",
-          "id": "trichy-rockfort"
+          "id": "trichy-rockfort",
+          "media": {
+            "image": "https://images.pexels.com/photos/36998144/pexels-photo-36998144.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Thoothukudi!",
@@ -5894,7 +6593,10 @@
             "It is called the Pearl City because pearls were found in its sea long ago."
           ],
           "front": "Which port city is called the Pearl City?",
-          "id": "tuticorin-pearl-city"
+          "id": "tuticorin-pearl-city",
+          "media": {
+            "image": "https://images.pexels.com/photos/37640892/pexels-photo-37640892.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Tiruppur!",
@@ -5904,7 +6606,10 @@
             "Its clothes are sold in many countries."
           ],
           "front": "Which city is called the knitwear capital of India?",
-          "id": "tiruppur-knitwear"
+          "id": "tiruppur-knitwear",
+          "media": {
+            "image": "https://images.pexels.com/photos/8246482/pexels-photo-8246482.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Courtallam!",
@@ -5914,7 +6619,10 @@
             "People bathe under the falls because the water is cool and fresh."
           ],
           "front": "Which place is called the Spa of South India?",
-          "id": "courtallam-falls"
+          "id": "courtallam-falls",
+          "media": {
+            "image": "https://images.pexels.com/photos/29156258/pexels-photo-29156258.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Sivakasi!",
@@ -5924,7 +6632,10 @@
             "It is also famous for printing presses."
           ],
           "front": "Which town makes most of the fireworks in India?",
-          "id": "sivakasi-fireworks"
+          "id": "sivakasi-fireworks",
+          "media": {
+            "image": "https://images.pexels.com/photos/1503520/pexels-photo-1503520.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         }
       ],
       "color": "#E91E63",
@@ -6337,7 +7048,10 @@
             "It began in the temples of Tamil Nadu many hundreds of years ago."
           ],
           "front": "Which classical dance comes from Tamil Nadu?",
-          "id": "tn-med-bharatanatyam"
+          "id": "tn-med-bharatanatyam",
+          "media": {
+            "image": "https://images.pexels.com/photos/26856873/pexels-photo-26856873/free-photo-of-dancer-in-traditional-clothing-dancing-in-darkness-at-temple.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Kaveri!",
@@ -6347,7 +7061,10 @@
             "It helps farmers grow rice in the delta region."
           ],
           "front": "Which is the most important river of Tamil Nadu?",
-          "id": "tn-med-kaveri"
+          "id": "tn-med-kaveri",
+          "media": {
+            "image": "https://images.pexels.com/photos/34171013/pexels-photo-34171013/free-photo-of-scenic-view-of-cauvery-river-in-karnataka-india.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "K. Kamaraj!",
@@ -6367,7 +7084,10 @@
             "It is famous for its cool weather, tea gardens and the toy train."
           ],
           "front": "Which hill station is called the Queen of the Nilgiris?",
-          "id": "tn-med-ooty"
+          "id": "tn-med-ooty",
+          "media": {
+            "image": "https://images.pexels.com/photos/38973383/pexels-photo-38973383/free-photo-of-scenic-road-through-the-green-hills-of-ooty.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Silambam!",
@@ -6377,7 +7097,10 @@
             "Its name comes from the sound the bamboo staff makes when it moves."
           ],
           "front": "Which martial art from Tamil Nadu uses a long bamboo stick?",
-          "id": "tamil-nadu-gk-medium-x1"
+          "id": "tamil-nadu-gk-medium-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/14828328/pexels-photo-14828328.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Nilgiri Mountain Railway!",
@@ -6387,7 +7110,10 @@
             "It has been running since 1908."
           ],
           "front": "Which famous train climbs the Nilgiri Hills to Ooty?",
-          "id": "tamil-nadu-gk-medium-x2"
+          "id": "tamil-nadu-gk-medium-x2",
+          "media": {
+            "image": "https://images.pexels.com/photos/39399049/pexels-photo-39399049/free-photo-of-scenic-train-journey-through-nilgiri-hills.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "M.S. Subbulakshmi!",
@@ -6397,7 +7123,10 @@
             "She sang the famous song 'Kurai Onrum Illai'."
           ],
           "front": "Who was the famous Carnatic singer called M.S.?",
-          "id": "ms-subbulakshmi"
+          "id": "ms-subbulakshmi",
+          "media": {
+            "image": "https://images.pexels.com/photos/10491556/pexels-photo-10491556.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Dr. A.P.J. Abdul Kalam!",
@@ -6407,7 +7136,10 @@
             "He was called the Missile Man of India."
           ],
           "front": "Which scientist from Rameswaram became the President of India?",
-          "id": "apj-abdul-kalam"
+          "id": "apj-abdul-kalam",
+          "media": {
+            "image": "https://images.pexels.com/photos/32654427/pexels-photo-32654427/free-photo-of-rameswaram-temple-tower-against-blue-sky.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Sir C.V. Raman!",
@@ -6417,7 +7149,10 @@
             "He won the Nobel Prize in 1930 for his work on light."
           ],
           "front": "Which scientist from Trichy won the Nobel Prize in Physics?",
-          "id": "cv-raman"
+          "id": "cv-raman",
+          "media": {
+            "image": "https://images.pexels.com/photos/11734794/pexels-photo-11734794.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Srinivasa Ramanujan!",
@@ -6427,7 +7162,10 @@
             "He worked with the famous mathematician G.H. Hardy in England."
           ],
           "front": "Which maths genius from Tamil Nadu amazed the world with numbers?",
-          "id": "ramanujan"
+          "id": "ramanujan",
+          "media": {
+            "image": "https://images.pexels.com/photos/22690751/pexels-photo-22690751/free-photo-of-close-up-of-complicated-equations-written-on-a-blackboard.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "C.N. Annadurai!",
@@ -6437,7 +7175,10 @@
             "He gave the state its name, Tamil Nadu, in 1969."
           ],
           "front": "Who was the first Chief Minister of Tamil Nadu?",
-          "id": "annadurai"
+          "id": "annadurai",
+          "media": {
+            "image": "https://images.pexels.com/photos/8572308/pexels-photo-8572308.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "V.O. Chidambaram Pillai!",
@@ -6447,7 +7188,10 @@
             "He wanted Indian ships to challenge British ships."
           ],
           "front": "Who is known as Kappalottiya Tamizhan, the Tamilian who launched a ship?",
-          "id": "voc-pillai"
+          "id": "voc-pillai",
+          "media": {
+            "image": "https://images.pexels.com/photos/12685010/pexels-photo-12685010.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Ilaiyaraaja!",
@@ -6457,7 +7201,10 @@
             "He has composed music for more than 1,000 films."
           ],
           "front": "Which music composer from Tamil Nadu made music for more than 1,000 films?",
-          "id": "ilaiyaraaja"
+          "id": "ilaiyaraaja",
+          "media": {
+            "image": "https://images.pexels.com/photos/7087606/pexels-photo-7087606.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Chola Dynasty!",
@@ -6467,7 +7214,10 @@
             "They built many great temples, like the Brihadeeswara Temple."
           ],
           "front": "Which great dynasty ruled Tamil Nadu for about 400 years?",
-          "id": "chola-dynasty"
+          "id": "chola-dynasty",
+          "media": {
+            "image": "https://images.pexels.com/photos/37862811/pexels-photo-37862811/free-photo-of-majestic-brihadeeswarar-temple-in-thanjavur.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Pallava Dynasty!",
@@ -6477,7 +7227,10 @@
             "They built the famous temples at Mamallapuram."
           ],
           "front": "Which dynasty had its capital at Kanchipuram?",
-          "id": "pallava-kanchipuram"
+          "id": "pallava-kanchipuram",
+          "media": {
+            "image": "https://images.pexels.com/photos/38312858/pexels-photo-38312858/free-photo-of-intricate-sculptures-at-kailasanathar-temple-kanchipuram.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Chera, Chola and Pandya!",
@@ -6487,7 +7240,10 @@
             "Each kingdom had its own capital, army and flag."
           ],
           "front": "Which three kingdoms ruled ancient Tamil Nadu?",
-          "id": "three-kingdoms"
+          "id": "three-kingdoms",
+          "media": {
+            "image": "https://images.pexels.com/photos/24246717/pexels-photo-24246717/free-photo-of-shore-temple-complex-by-bay-of-bengal-in-india.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Kamban!",
@@ -6497,7 +7253,10 @@
             "His Tamil Ramayana is one of the greatest books in Tamil literature."
           ],
           "front": "Who wrote the Ramayana in Tamil?",
-          "id": "kamban"
+          "id": "kamban",
+          "media": {
+            "image": "https://images.pexels.com/photos/33858011/pexels-photo-33858011/free-photo-of-traditional-writing-on-wooden-tablet-in-study.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Tamil!",
@@ -6507,7 +7266,10 @@
             "Old Tamil books like Sangam literature are still read today."
           ],
           "front": "Which language is one of the oldest still spoken in the world?",
-          "id": "tamil-oldest-language"
+          "id": "tamil-oldest-language",
+          "media": {
+            "image": "https://images.pexels.com/photos/37862814/pexels-photo-37862814/free-photo-of-ancient-tamil-inscriptions-on-thanjavur-temple-wall.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Kannagi!",
@@ -6517,7 +7279,10 @@
             "Her story is about justice — she fought for her husband, Kovalan."
           ],
           "front": "Who is the heroine of the Tamil epic Silappatikaram?",
-          "id": "kannagi-heroine"
+          "id": "kannagi-heroine",
+          "media": {
+            "image": "https://images.pexels.com/photos/23914402/pexels-photo-23914402/free-photo-of-meenakshi-amman-temple.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Vaigai River!",
@@ -6527,7 +7292,10 @@
             "It joins the sea in the Palk Strait."
           ],
           "front": "Which river flows through Madurai?",
-          "id": "vaigai-river"
+          "id": "vaigai-river",
+          "media": {
+            "image": "https://images.pexels.com/photos/12604357/pexels-photo-12604357.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Tamirabharani River!",
@@ -6537,7 +7305,10 @@
             "It flows through Tirunelveli and reaches the sea near Thoothukudi."
           ],
           "front": "Which river flows through Tirunelveli?",
-          "id": "tamirabharani-river"
+          "id": "tamirabharani-river",
+          "media": {
+            "image": "https://images.pexels.com/photos/39134518/pexels-photo-39134518/free-photo-of-scenic-river-view-at-keeriparai-forest.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Palk Strait!",
@@ -6547,7 +7318,10 @@
             "It is named after Robert Palk, a British governor of Madras."
           ],
           "front": "Which sea strait lies between Tamil Nadu and Sri Lanka?",
-          "id": "palk-strait"
+          "id": "palk-strait",
+          "media": {
+            "image": "https://images.pexels.com/photos/19792431/pexels-photo-19792431/free-photo-of-fishing-boats-on-sea-coast.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Gulf of Mannar!",
@@ -6557,7 +7331,10 @@
             "It is home to coral reefs, sea cows and pearl oysters."
           ],
           "front": "Which gulf between Tamil Nadu and Sri Lanka is famous for corals and pearls?",
-          "id": "gulf-of-mannar"
+          "id": "gulf-of-mannar",
+          "media": {
+            "image": "https://images.pexels.com/photos/17941856/pexels-photo-17941856/free-photo-of-fish-and-coral-reef-in-sea.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Pichavaram!",
@@ -6567,7 +7344,10 @@
             "Boats take visitors through its quiet green water channels."
           ],
           "front": "Which mangrove forest near Chidambaram is one of the largest in India?",
-          "id": "pichavaram-mangroves"
+          "id": "pichavaram-mangroves",
+          "media": {
+            "image": "https://images.pexels.com/photos/36584778/pexels-photo-36584778/free-photo-of-serene-boat-ride-through-honnavar-mangroves.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Sri Ranganathaswamy Temple, Srirangam!",
@@ -6577,7 +7357,10 @@
             "It has 21 tall towers called gopurams."
           ],
           "front": "Which temple in Trichy is one of the largest temple complexes in the world?",
-          "id": "srirangam-temple"
+          "id": "srirangam-temple",
+          "media": {
+            "image": "https://images.pexels.com/photos/37662256/pexels-photo-37662256/free-photo-of-intricate-gopuram-of-srirangam-temple-in-tamil-nadu.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Nataraja Temple, Chidambaram!",
@@ -6587,7 +7370,10 @@
             "It is one of the five Pancha Bhoota Sthalams, for the element of space."
           ],
           "front": "Which temple is famous for Lord Shiva as the dancing Nataraja?",
-          "id": "chidambaram-nataraja"
+          "id": "chidambaram-nataraja",
+          "media": {
+            "image": "https://images.pexels.com/photos/38349288/pexels-photo-38349288/free-photo-of-night-view-of-chidambaram-temple-gopuram.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Yercaud!",
@@ -6597,7 +7383,10 @@
             "Its lake is called the Emerald Lake."
           ],
           "front": "Which hill station near Salem is famous for its lake?",
-          "id": "yercaud"
+          "id": "yercaud",
+          "media": {
+            "image": "https://images.pexels.com/photos/32657239/pexels-photo-32657239/free-photo-of-scenic-aerial-view-of-hills-and-valleys-in-tamil-nadu-india.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Madras Crocodile Bank!",
@@ -6607,7 +7396,10 @@
             "It looks after many kinds of crocodiles and snakes."
           ],
           "front": "Which famous centre near Mamallapuram protects crocodiles?",
-          "id": "crocodile-bank"
+          "id": "crocodile-bank",
+          "media": {
+            "image": "https://images.pexels.com/photos/32213918/pexels-photo-32213918/free-photo-of-crocodiles-in-shaded-shallow-waters-france.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Thiruchendur Murugan Temple!",
@@ -6617,7 +7409,10 @@
             "It is the only Murugan temple that stands right on the sea shore."
           ],
           "front": "Which Murugan temple stands on the sea shore?",
-          "id": "thiruchendur"
+          "id": "thiruchendur",
+          "media": {
+            "image": "https://images.pexels.com/photos/14353572/pexels-photo-14353572.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Karagattam!",
@@ -6627,7 +7422,10 @@
             "Dancers balance a decorated pot on their head while dancing."
           ],
           "front": "In which Tamil dance do dancers balance a pot on their head?",
-          "id": "karagattam"
+          "id": "karagattam",
+          "media": {
+            "image": "https://images.pexels.com/photos/36870547/pexels-photo-36870547/free-photo-of-traditional-indian-festival-celebration-outdoors.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         }
       ],
       "color": "#E91E63",
@@ -7040,7 +7838,10 @@
             "It has 1,330 short poems about life, love and good conduct."
           ],
           "front": "Who wrote the Thirukkural?",
-          "id": "tn-hard-thirukkural"
+          "id": "tn-hard-thirukkural",
+          "media": {
+            "image": "https://images.pexels.com/photos/6687168/pexels-photo-6687168.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Brihadeeswara Temple!",
@@ -7050,7 +7851,10 @@
             "Its tower is made of granite stone and is about 66 metres tall."
           ],
           "front": "Which great temple did Raja Raja Chola build in Thanjavur?",
-          "id": "tn-hard-brihadeeswara"
+          "id": "tn-hard-brihadeeswara",
+          "media": {
+            "image": "https://images.pexels.com/photos/37862811/pexels-photo-37862811/free-photo-of-majestic-brihadeeswarar-temple-in-thanjavur.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "E. V. Ramasamy!",
@@ -7070,7 +7874,10 @@
             "It is one of the longest urban beaches in the world."
           ],
           "front": "Which is the longest natural urban beach in India?",
-          "id": "tn-hard-marina"
+          "id": "tn-hard-marina",
+          "media": {
+            "image": "https://images.pexels.com/photos/8572308/pexels-photo-8572308.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Gangaikonda Cholapuram!",
@@ -7080,7 +7887,10 @@
             "Its temple is also a UNESCO World Heritage Site."
           ],
           "front": "Which city did Rajendra Chola build as his capital?",
-          "id": "tamil-nadu-gk-hard-x1"
+          "id": "tamil-nadu-gk-hard-x1",
+          "media": {
+            "image": "https://images.pexels.com/photos/37903976/pexels-photo-37903976/free-photo-of-gangaikonda-cholapuram-temple-in-tamil-nadu-india.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Thanjavur paintings!",
@@ -7090,7 +7900,10 @@
             "They often show gods and goddesses."
           ],
           "front": "Which famous painting style comes from Thanjavur?",
-          "id": "tamil-nadu-gk-hard-x2"
+          "id": "tamil-nadu-gk-hard-x2",
+          "media": {
+            "image": "https://images.pexels.com/photos/39650030/pexels-photo-39650030/free-photo-of-ornate-goddess-lakshmi-temple-figurine-display.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Cholas!",
@@ -7100,7 +7913,10 @@
             "Their ships sailed to South-East Asia, to places like Malaysia and Indonesia."
           ],
           "front": "Which Tamil dynasty had a powerful navy that sailed to South-East Asia?",
-          "id": "chola-navy"
+          "id": "chola-navy",
+          "media": {
+            "image": "https://images.pexels.com/photos/14820684/pexels-photo-14820684.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Cholas!",
@@ -7110,7 +7926,10 @@
             "The dancing Shiva, or Nataraja, is the most famous Chola bronze."
           ],
           "front": "Which dynasty made the world-famous bronze statue of dancing Shiva?",
-          "id": "chola-bronze"
+          "id": "chola-bronze",
+          "media": {
+            "image": "https://images.pexels.com/photos/28133708/pexels-photo-28133708/free-photo-of-a-statue-of-a-man-in-a-circle.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Keezhadi!",
@@ -7120,7 +7939,10 @@
             "Artefacts found there are from the 6th century BCE, more than 2,500 years ago."
           ],
           "front": "Which excavation near Madurai found Tamil artefacts more than 2,500 years old?",
-          "id": "keezhadi"
+          "id": "keezhadi",
+          "media": {
+            "image": "https://images.pexels.com/photos/40194521/pexels-photo-40194521/free-photo-of-ancient-pottery-display-with-terracotta-vessels.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Sangam Literature!",
@@ -7130,7 +7952,10 @@
             "It was written more than 2,000 years ago by Tamil poets."
           ],
           "front": "What is the oldest Tamil writing called?",
-          "id": "sangam-literature"
+          "id": "sangam-literature",
+          "media": {
+            "image": "https://images.pexels.com/photos/29833969/pexels-photo-29833969/free-photo-of-antique-manuscripts-on-wooden-table-in-study.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Tolkappiyam!",
@@ -7140,7 +7965,10 @@
             "It was written more than 2,000 years ago."
           ],
           "front": "What is the oldest Tamil grammar book called?",
-          "id": "tolkappiyam"
+          "id": "tolkappiyam",
+          "media": {
+            "image": "https://images.pexels.com/photos/15235034/pexels-photo-15235034/free-photo-of-hands-of-a-person-examining-old-pages.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Manimekalai!",
@@ -7150,7 +7978,10 @@
             "Its heroine feeds the hungry with a magic bowl called Amudhasurabhi."
           ],
           "front": "Which Tamil epic tells of a woman who feeds the hungry with a magic bowl?",
-          "id": "manimekalai-bowl"
+          "id": "manimekalai-bowl",
+          "media": {
+            "image": "https://images.pexels.com/photos/35491919/pexels-photo-35491919/free-photo-of-intricate-stone-carvings-at-kanchipuram-temple.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Dravidian Architecture!",
@@ -7160,7 +7991,10 @@
             "Dravidian temples have tall towers called gopurams and pillared halls."
           ],
           "front": "In which style are the great temples of Tamil Nadu built?",
-          "id": "dravidian-architecture"
+          "id": "dravidian-architecture",
+          "media": {
+            "image": "https://images.pexels.com/photos/35866190/pexels-photo-35866190/free-photo-of-vibrant-dravidian-gopuram-temple-architecture.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Descent of the Ganges!",
@@ -7170,7 +8004,10 @@
             "It is about 29 metres long and 13 metres high."
           ],
           "front": "Which giant rock carving at Mamallapuram is one of the largest in the world?",
-          "id": "descent-of-ganges"
+          "id": "descent-of-ganges",
+          "media": {
+            "image": "https://images.pexels.com/photos/7914574/pexels-photo-7914574.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Five Rathas!",
@@ -7180,7 +8017,10 @@
             "Each ratha is named after a hero of the Mahabharata."
           ],
           "front": "Which five temples at Mamallapuram are each carved from a single rock?",
-          "id": "five-rathas"
+          "id": "five-rathas",
+          "media": {
+            "image": "https://images.pexels.com/photos/39033665/pexels-photo-39033665/free-photo-of-pancha-rathas-in-mahabalipuram-under-a-clear-sky.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Kailasanathar Temple!",
@@ -7190,7 +8030,10 @@
             "It was built by the Pallava king Narasimhavarman II."
           ],
           "front": "Which is the oldest temple in Kanchipuram?",
-          "id": "kailasanathar-kanchipuram"
+          "id": "kailasanathar-kanchipuram",
+          "media": {
+            "image": "https://images.pexels.com/photos/12517431/pexels-photo-12517431.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Airavatesvara Temple!",
@@ -7200,7 +8043,10 @@
             "It is one of the three Great Living Chola Temples on the UNESCO list."
           ],
           "front": "Which Chola temple at Darasuram is on the UNESCO World Heritage list?",
-          "id": "airavatesvara-darasuram"
+          "id": "airavatesvara-darasuram",
+          "media": {
+            "image": "https://images.pexels.com/photos/38073986/pexels-photo-38073986/free-photo-of-magnificent-airavatesvara-temple-in-tamil-nadu.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Veerapandiya Kattabomman!",
@@ -7210,7 +8056,10 @@
             "He refused to pay taxes to the British and fought them."
           ],
           "front": "Which Tamil king fought the British and was hanged in 1799?",
-          "id": "veerapandiya-kattabomman"
+          "id": "veerapandiya-kattabomman",
+          "media": {
+            "image": "https://images.pexels.com/photos/27650165/pexels-photo-27650165/free-photo-of-rockfort.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Dheeran Chinnamalai!",
@@ -7220,7 +8069,10 @@
             "He fought the British in three battles at Cauvery, Odanilai and Arachalur."
           ],
           "front": "Which freedom fighter from Kongu Nadu fought the British?",
-          "id": "dheeran-chinnamalai"
+          "id": "dheeran-chinnamalai",
+          "media": {
+            "image": "https://images.pexels.com/photos/14736447/pexels-photo-14736447.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Marudhu Brothers!",
@@ -7230,7 +8082,10 @@
             "They fought the British and were hanged in 1801."
           ],
           "front": "Which two brothers were freedom fighters from Sivaganga?",
-          "id": "marudhu-brothers"
+          "id": "marudhu-brothers",
+          "media": {
+            "image": "https://images.pexels.com/photos/4776145/pexels-photo-4776145.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Tiruppur Kumaran!",
@@ -7240,7 +8095,10 @@
             "He died in 1932 while holding the Indian flag in a protest."
           ],
           "front": "Which freedom fighter died holding the Indian flag in 1932?",
-          "id": "tiruppur-kumaran"
+          "id": "tiruppur-kumaran",
+          "media": {
+            "image": "https://images.pexels.com/photos/39024516/pexels-photo-39024516/free-photo-of-indian-national-flag-featuring-ashoka-chakra.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "J. Jayalalithaa!",
@@ -7250,7 +8108,10 @@
             "She was the Chief Minister of Tamil Nadu six times."
           ],
           "front": "Which actor became the Chief Minister of Tamil Nadu?",
-          "id": "jayalalithaa"
+          "id": "jayalalithaa",
+          "media": {
+            "image": "https://images.pexels.com/photos/31653799/pexels-photo-31653799/free-photo-of-chennai-lighthouse-on-scenic-beachfront.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "Korkai!",
@@ -7260,7 +8121,10 @@
             "It was famous for pearl fishing long ago."
           ],
           "front": "Which ancient Pandya port was famous for pearls?",
-          "id": "korkai-port"
+          "id": "korkai-port",
+          "media": {
+            "image": "https://images.pexels.com/photos/31186058/pexels-photo-31186058/free-photo-of-close-up-of-oyster-shells-with-pearls.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Vellore Mutiny!",
@@ -7270,7 +8134,10 @@
             "Indian soldiers rose against the British, many years before the revolt of 1857."
           ],
           "front": "Which revolt in 1806 was one of the first against British rule in India?",
-          "id": "vellore-mutiny"
+          "id": "vellore-mutiny",
+          "media": {
+            "image": "https://images.pexels.com/photos/14352575/pexels-photo-14352575.jpeg?auto=compress&w=1260&h=750&dpr=1"
+          }
         },
         {
           "answer": "The Western Ghats!",
@@ -7280,7 +8147,10 @@
             "They are one of the world's richest places for plants and animals."
           ],
           "front": "Which mountain range runs along Tamil Nadu and is a UNESCO World Heritage site?",
-          "id": "western-ghats"
+          "id": "western-ghats",
+          "media": {
+            "image": "https://images.pexels.com/photos/12311221/pexels-photo-12311221.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Vedanthangal Bird Sanctuary!",
@@ -7290,7 +8160,10 @@
             "Thousands of birds from faraway countries come here every year."
           ],
           "front": "Which is one of the oldest bird sanctuaries in India?",
-          "id": "vedanthangal-birds"
+          "id": "vedanthangal-birds",
+          "media": {
+            "image": "https://images.pexels.com/photos/37818189/pexels-photo-37818189/free-photo-of-diverse-birdlife-in-wetland-habitat.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Tamil!",
@@ -7300,7 +8173,10 @@
             "It was the first Indian language to get this honour."
           ],
           "front": "Which was the first Indian language declared a classical language?",
-          "id": "tamil-classical-language"
+          "id": "tamil-classical-language",
+          "media": {
+            "image": "https://images.pexels.com/photos/37862814/pexels-photo-37862814/free-photo-of-ancient-tamil-inscriptions-on-thanjavur-temple-wall.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Bhavanisagar Dam!",
@@ -7310,7 +8186,10 @@
             "It is one of the largest earthen dams in the world."
           ],
           "front": "Which dam in Tamil Nadu is one of the largest earthen dams in the world?",
-          "id": "bhavanisagar-dam"
+          "id": "bhavanisagar-dam",
+          "media": {
+            "image": "https://images.pexels.com/photos/8967820/pexels-photo-8967820.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "Kalpakkam!",
@@ -7320,7 +8199,10 @@
             "The power station makes electricity from nuclear energy."
           ],
           "front": "Which town near Chennai has a nuclear power plant?",
-          "id": "kalapakkam-nuclear"
+          "id": "kalapakkam-nuclear",
+          "media": {
+            "image": "https://images.pexels.com/photos/16705829/pexels-photo-16705829/free-photo-of-nuclear-power-station.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         },
         {
           "answer": "The Saraswathi Mahal Library!",
@@ -7330,7 +8212,10 @@
             "It has thousands of old palm-leaf manuscripts in Tamil and Sanskrit."
           ],
           "front": "Which library in Thanjavur is one of the oldest in Asia?",
-          "id": "saraswathi-mahal-library"
+          "id": "saraswathi-mahal-library",
+          "media": {
+            "image": "https://images.pexels.com/photos/38235439/pexels-photo-38235439/free-photo-of-historical-library-interior-with-wooden-archways.jpeg?cs=tinysrgb&dpr=1&w=500"
+          }
         }
       ],
       "color": "#E91E63",
@@ -7734,5 +8619,5 @@
       ]
     }
   ],
-  "version": 3
+  "version": 4
 }
