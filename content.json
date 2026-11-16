@@ -41,6 +41,26 @@
           ],
           "front": "Which insect tastes with its feet?",
           "id": "butterfly"
+        },
+        {
+          "answer": "The Cheetah!",
+          "didYouKnow": "Cheetahs cannot roar like lions — they chirp and purr like a house cat.",
+          "facts": [
+            "A cheetah can run up to 100 km per hour — faster than a car on a city road!",
+            "It can go from 0 to 100 km per hour in about 3 seconds."
+          ],
+          "front": "Which land animal is the fastest runner?",
+          "id": "amazing-animals-x1"
+        },
+        {
+          "answer": "The Octopus!",
+          "didYouKnow": "An octopus has 3 hearts, and two of them stop beating when it swims!",
+          "facts": [
+            "Octopuses have three hearts and blue blood.",
+            "They can change colour and squeeze through a gap as small as a coin."
+          ],
+          "front": "Which sea animal has three hearts?",
+          "id": "amazing-animals-x2"
         }
       ],
       "color": "#FF6B6B",
@@ -115,6 +135,71 @@
             "Pup"
           ],
           "text": "What is a baby frog called?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x3",
+          "options": [
+            "Giraffe",
+            "Elephant",
+            "Horse",
+            "Camel"
+          ],
+          "text": "Which is the tallest land animal?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x4",
+          "options": [
+            "Shark",
+            "Dolphin",
+            "Whale",
+            "Bat"
+          ],
+          "text": "Which of these is NOT a mammal?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x5",
+          "options": [
+            "Dolphin",
+            "Dog",
+            "Cat",
+            "Rabbit"
+          ],
+          "text": "Which animal can sleep with one eye open?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x6",
+          "options": [
+            "Climb into its mother's pouch",
+            "Swim in a river",
+            "Fly away",
+            "Dig a hole"
+          ],
+          "text": "What does a baby kangaroo do right after it is born?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "amazing-animals-x7",
+          "options": [
+            "Ostrich",
+            "Penguin",
+            "Kiwi",
+            "Emu"
+          ],
+          "text": "Which bird cannot fly but runs the fastest on land?"
         }
       ]
     },
@@ -159,6 +244,26 @@
           ],
           "front": "Which planet wears beautiful rings?",
           "id": "saturn"
+        },
+        {
+          "answer": "Jupiter!",
+          "didYouKnow": "A day on Jupiter is the shortest of all planets — only about 10 hours long!",
+          "facts": [
+            "Jupiter is the biggest planet — more than 1,300 Earths could fit inside it.",
+            "Its Great Red Spot is a giant storm bigger than Earth that has raged for hundreds of years."
+          ],
+          "front": "Which is the biggest planet in our solar system?",
+          "id": "space-adventure-x1"
+        },
+        {
+          "answer": "The International Space Station!",
+          "didYouKnow": "Astronauts on the space station see 16 sunrises and sunsets every single day!",
+          "facts": [
+            "Astronauts live and work on the space station, floating high above Earth.",
+            "It goes all the way around Earth in about 90 minutes, and it is as big as a football field."
+          ],
+          "front": "Where do astronauts live in space?",
+          "id": "space-adventure-x2"
         }
       ],
       "color": "#7B61FF",
@@ -233,6 +338,71 @@
             "The Moon"
           ],
           "text": "Which of these are planets? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x3",
+          "options": [
+            "Jupiter",
+            "Saturn",
+            "Neptune",
+            "Uranus"
+          ],
+          "text": "Which planet is bigger — Jupiter or Saturn?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x4",
+          "options": [
+            "2 times",
+            "1 time",
+            "27 times",
+            "54 times"
+          ],
+          "text": "The Moon takes about 27 days to go around the Earth. How many times does it go around in about 54 days?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x5",
+          "options": [
+            "Pluto",
+            "Mars",
+            "Venus",
+            "Mercury"
+          ],
+          "text": "Which of these is NOT a planet?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x6",
+          "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars"
+          ],
+          "text": "Which planet is closest to the Sun?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "space-adventure-x7",
+          "options": [
+            "A meteor",
+            "A comet",
+            "A planet",
+            "A moon"
+          ],
+          "text": "What do we call a star that falls from the sky and burns brightly?"
         }
       ]
     },
@@ -277,6 +447,26 @@
           ],
           "front": "Which statue holds a torch in New York?",
           "id": "liberty"
+        },
+        {
+          "answer": "The Colosseum!",
+          "didYouKnow": "The Colosseum is the biggest amphitheatre ever built — and it is still standing after nearly 2,000 years!",
+          "facts": [
+            "The Colosseum stands in Rome, Italy, and was built almost 2,000 years ago.",
+            "It could hold about 50,000 people, and gladiators fought there long ago."
+          ],
+          "front": "Which giant round building in Rome did gladiators fight in?",
+          "id": "our-wonderful-world-x1"
+        },
+        {
+          "answer": "The Sahara Desert!",
+          "didYouKnow": "Some sand dunes in the Sahara are taller than a 30-storey building!",
+          "facts": [
+            "The Sahara is the largest hot desert in the world, about the size of the USA.",
+            "Thousands of years ago, the Sahara was green, with lakes and rivers."
+          ],
+          "front": "Which is the largest hot desert in the world?",
+          "id": "our-wonderful-world-x2"
         }
       ],
       "color": "#2EC4B6",
@@ -351,6 +541,71 @@
             "Volcano"
           ],
           "text": "Which of these are man-made wonders? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x3",
+          "options": [
+            "Eiffel Tower",
+            "Great Pyramid of Giza",
+            "Statue of Liberty",
+            "Big Ben"
+          ],
+          "text": "Which is taller — the Eiffel Tower or the Great Pyramid of Giza?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x4",
+          "options": [
+            "The Amazon Rainforest",
+            "Eiffel Tower",
+            "Colosseum",
+            "Big Ben"
+          ],
+          "text": "Which of these is NOT in Europe?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x5",
+          "options": [
+            "About 1,000 days",
+            "About 100 days",
+            "About 21 days",
+            "About 10 days"
+          ],
+          "text": "The Great Wall is over 21,000 km long. If you walked 21 km every day, about how many days would it take to walk the whole wall?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x6",
+          "options": [
+            "Italy",
+            "Greece",
+            "France",
+            "Spain"
+          ],
+          "text": "In which country is the Colosseum?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "our-wonderful-world-x7",
+          "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Thar"
+          ],
+          "text": "Which desert is the largest hot desert in the world?"
         }
       ]
     },
@@ -395,6 +650,26 @@
           ],
           "front": "Which tiny insect makes honey?",
           "id": "bee"
+        },
+        {
+          "answer": "Your Heart!",
+          "didYouKnow": "Your heart beats about 100,000 times a day — that is about 3 billion times in a lifetime!",
+          "facts": [
+            "Your heart is about the size of your fist and pumps blood all around your body.",
+            "It beats about 100,000 times every single day, even while you sleep."
+          ],
+          "front": "Which part of your body pumps blood all day and night?",
+          "id": "science-fun-x1"
+        },
+        {
+          "answer": "Lightning!",
+          "didYouKnow": "A bolt of lightning is about five times hotter than the surface of the Sun!",
+          "facts": [
+            "Lightning is a huge spark of electricity in the sky during a storm.",
+            "We see lightning before we hear thunder because light travels faster than sound."
+          ],
+          "front": "What flash of light do we see in the sky during a storm?",
+          "id": "science-fun-x2"
         }
       ],
       "color": "#FFC93C",
@@ -469,6 +744,71 @@
             "A volcano"
           ],
           "text": "Which two need sunlight? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x3",
+          "options": [
+            "Lightning",
+            "The Sun's surface",
+            "Lava",
+            "A hot oven"
+          ],
+          "text": "Which is hotter — lightning or the surface of the Sun?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x4",
+          "options": [
+            "Smoke",
+            "Ice",
+            "Steam",
+            "Snow"
+          ],
+          "text": "Which of these is NOT a form of water?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x5",
+          "options": [
+            "2 bees",
+            "1 bee",
+            "10 bees",
+            "100 bees"
+          ],
+          "text": "One bee makes about half a teaspoon of honey in its whole life. How many bees would it take to make one full teaspoon?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x6",
+          "options": [
+            "8",
+            "6",
+            "10",
+            "4"
+          ],
+          "text": "How many legs does a spider have?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "science-fun-x7",
+          "options": [
+            "Hail",
+            "Snow",
+            "Rain",
+            "Sleet"
+          ],
+          "text": "What do we call water that falls from the sky as frozen balls of ice?"
         }
       ]
     },
@@ -513,6 +853,26 @@
           ],
           "front": "Which games bring athletes from all over the world?",
           "id": "olympics"
+        },
+        {
+          "answer": "Cricket!",
+          "didYouKnow": "The longest cricket match ever lasted 12 days — and it still ended in a draw!",
+          "facts": [
+            "Cricket is played with a bat, a hard ball and wickets.",
+            "A cricket team has 11 players, and it is one of the most popular sports in India."
+          ],
+          "front": "Which sport is played with a bat, a ball and wickets?",
+          "id": "sports-yummy-food-x1"
+        },
+        {
+          "answer": "Ice Cream!",
+          "didYouKnow": "It takes about 50 licks to finish one scoop of ice cream!",
+          "facts": [
+            "The first ice cream shop in America opened in New York in 1776.",
+            "Vanilla is the most popular ice cream flavour in the world."
+          ],
+          "front": "Which cold, sweet treat comes in a cone?",
+          "id": "sports-yummy-food-x2"
         }
       ],
       "color": "#FF9F43",
@@ -587,6 +947,71 @@
             "The Olympics"
           ],
           "text": "Which of these are foods? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x3",
+          "options": [
+            "Football",
+            "Cricket ball",
+            "Tennis ball",
+            "Golf ball"
+          ],
+          "text": "Which of these balls is the heaviest?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x4",
+          "options": [
+            "Swimming",
+            "Football",
+            "Cricket",
+            "Tennis"
+          ],
+          "text": "Which of these is NOT played with a ball?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x5",
+          "options": [
+            "22 players",
+            "11 players",
+            "20 players",
+            "12 players"
+          ],
+          "text": "A cricket team has 11 players. How many players are on the field in a match between two teams?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x6",
+          "options": [
+            "Tomato",
+            "Apple",
+            "Banana",
+            "Orange"
+          ],
+          "text": "Which fruit is used to make ketchup?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "sports-yummy-food-x7",
+          "options": [
+            "New York",
+            "Boston",
+            "Chicago",
+            "Los Angeles"
+          ],
+          "text": "The first ice cream shop in America opened in which city?"
         }
       ]
     },
@@ -631,6 +1056,26 @@
           ],
           "front": "Which beautiful bird is the national bird of India?",
           "id": "in-easy-peacock"
+        },
+        {
+          "answer": "The Lotus!",
+          "didYouKnow": "A lotus flower closes at night and opens again in the morning.",
+          "facts": [
+            "The lotus is the national flower of India.",
+            "It grows in muddy water but its petals always stay clean."
+          ],
+          "front": "Which flower is the national flower of India?",
+          "id": "india-gk-easy-x1"
+        },
+        {
+          "answer": "The Mango!",
+          "didYouKnow": "The Alphonso mango is called the king of mangoes.",
+          "facts": [
+            "The mango is the national fruit of India.",
+            "India grows more mangoes than any other country in the world."
+          ],
+          "front": "Which fruit is the national fruit of India?",
+          "id": "india-gk-easy-x2"
         }
       ],
       "color": "#FF9933",
@@ -705,6 +1150,71 @@
             "Penguin"
           ],
           "text": "Which of these are national symbols of India? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x3",
+          "options": [
+            "Lotus",
+            "Rose",
+            "Sunflower",
+            "Jasmine"
+          ],
+          "text": "Which of these is the national flower of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x4",
+          "options": [
+            "Penguin",
+            "Peacock",
+            "Bengal Tiger",
+            "Lotus"
+          ],
+          "text": "Which one of these is NOT a national symbol of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x5",
+          "options": [
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Maharashtra",
+            "Uttar Pradesh"
+          ],
+          "text": "Which is the largest state in India by size?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x6",
+          "options": [
+            "Mango",
+            "Banana",
+            "Apple",
+            "Orange"
+          ],
+          "text": "What is the national fruit of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-easy-x7",
+          "options": [
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Bihar"
+          ],
+          "text": "The Taj Mahal is in Agra. Agra is in which state?"
         }
       ]
     },
@@ -749,6 +1259,26 @@
           ],
           "front": "Which national park is famous for one-horned rhinos?",
           "id": "in-med-kaziranga"
+        },
+        {
+          "answer": "C. V. Raman!",
+          "didYouKnow": "National Science Day is celebrated on 28 February, the day he discovered the Raman Effect.",
+          "facts": [
+            "C. V. Raman won the Nobel Prize in Physics in 1930.",
+            "He discovered why the sea looks blue — the Raman Effect."
+          ],
+          "front": "Who won India's first Nobel Prize in Science?",
+          "id": "india-gk-medium-x1"
+        },
+        {
+          "answer": "Indian Railways!",
+          "didYouKnow": "The Vande Bharat Express is one of India's fastest trains.",
+          "facts": [
+            "Indian Railways runs more than 13,000 trains every day.",
+            "It has over 7,000 stations across the country."
+          ],
+          "front": "Which is one of the largest railway networks in the world?",
+          "id": "india-gk-medium-x2"
         }
       ],
       "color": "#FF9933",
@@ -823,6 +1353,71 @@
             "Kathmandu"
           ],
           "text": "Which of these are states of India? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x3",
+          "options": [
+            "C. V. Raman",
+            "Homi Bhabha",
+            "Vikram Sarabhai",
+            "S. Chandrasekhar"
+          ],
+          "text": "Which Indian scientist won the Nobel Prize in Physics in 1930?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x4",
+          "options": [
+            "Ganga",
+            "Godavari",
+            "Yamuna",
+            "Narmada"
+          ],
+          "text": "Which is longer, the Ganga or the Godavari?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x5",
+          "options": [
+            "Jaipur",
+            "Jodhpur",
+            "Udaipur",
+            "Jaisalmer"
+          ],
+          "text": "Which city is known as the Pink City?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x6",
+          "options": [
+            "Gujarat",
+            "Maharashtra",
+            "Rajasthan",
+            "Madhya Pradesh"
+          ],
+          "text": "Gandhi was born in Porbandar. Porbandar is in which state?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-medium-x7",
+          "options": [
+            "Thames",
+            "Ganga",
+            "Yamuna",
+            "Godavari"
+          ],
+          "text": "Which of these is NOT a river of India?"
         }
       ]
     },
@@ -867,6 +1462,26 @@
           ],
           "front": "Who was the first Indian to win the Nobel Prize?",
           "id": "in-hard-nobel"
+        },
+        {
+          "answer": "Chandrayaan-3!",
+          "didYouKnow": "The lander was named Vikram and the rover was named Pragyan.",
+          "facts": [
+            "Chandrayaan-3 landed on the Moon in August 2023.",
+            "India became the first country to land near the Moon's south pole."
+          ],
+          "front": "Which mission made India the first country to land near the Moon's south pole?",
+          "id": "india-gk-hard-x1"
+        },
+        {
+          "answer": "The Sundarbans!",
+          "didYouKnow": "The forest gets its name from the Sundari tree.",
+          "facts": [
+            "The Sundarbans is the largest mangrove forest in the world.",
+            "It is home to the Royal Bengal tiger."
+          ],
+          "front": "Which is the largest mangrove forest in the world?",
+          "id": "india-gk-hard-x2"
         }
       ],
       "color": "#FF9933",
@@ -941,6 +1556,71 @@
             "Jawaharlal Nehru"
           ],
           "text": "Which of these were Presidents of India? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x3",
+          "options": [
+            "It has only 100 articles",
+            "It came into effect on 26 January 1950",
+            "It is the longest written constitution in the world",
+            "Dr. B. R. Ambedkar chaired the drafting committee"
+          ],
+          "text": "Which of these is NOT true about the Indian Constitution?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x4",
+          "options": [
+            "Kanchenjunga",
+            "Nanda Devi",
+            "Annapurna",
+            "Makalu"
+          ],
+          "text": "Which mountain is taller, Kanchenjunga or Nanda Devi?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x5",
+          "options": [
+            "1975",
+            "1969",
+            "1980",
+            "1984"
+          ],
+          "text": "In which year did India launch its first satellite, Aryabhata?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x6",
+          "options": [
+            "34 years",
+            "24 years",
+            "44 years",
+            "54 years"
+          ],
+          "text": "Tagore won the Nobel Prize in 1913. How many years after that did India become independent?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "india-gk-hard-x7",
+          "options": [
+            "Pratibha Patil",
+            "Indira Gandhi",
+            "Sarojini Naidu",
+            "Draupadi Murmu"
+          ],
+          "text": "Who was the first woman President of India?"
         }
       ]
     },
@@ -985,6 +1665,26 @@
           ],
           "front": "Which harvest festival is celebrated in Tamil Nadu?",
           "id": "tn-easy-pongal"
+        },
+        {
+          "answer": "Jallikattu!",
+          "didYouKnow": "Alanganallur, Palamedu and Avaniyapuram are the most famous places for Jallikattu.",
+          "facts": [
+            "Jallikattu is a famous bull sport held during Pongal.",
+            "The bull is not killed — it is a test of bravery."
+          ],
+          "front": "Which famous bull sport is celebrated in Tamil Nadu during Pongal?",
+          "id": "tamil-nadu-gk-easy-x1"
+        },
+        {
+          "answer": "On a banana leaf!",
+          "didYouKnow": "The banana leaf is thrown away after eating, so no washing is needed.",
+          "facts": [
+            "Food served on a banana leaf is a Tamil tradition.",
+            "The hot food picks up a nice smell from the leaf."
+          ],
+          "front": "Why do people in Tamil Nadu eat food on a banana leaf?",
+          "id": "tamil-nadu-gk-easy-x2"
         }
       ],
       "color": "#E91E63",
@@ -1059,6 +1759,71 @@
             "Noodles"
           ],
           "text": "Which of these are famous foods of Tamil Nadu? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x3",
+          "options": [
+            "Jallikattu",
+            "Kabaddi",
+            "Silambam",
+            "Cricket"
+          ],
+          "text": "Which sport is played with bulls during Pongal in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x4",
+          "options": [
+            "Kochi",
+            "Madurai",
+            "Salem",
+            "Trichy"
+          ],
+          "text": "Which one of these is NOT a city in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x5",
+          "options": [
+            "Emerald Dove",
+            "Peacock",
+            "Sparrow",
+            "Crow"
+          ],
+          "text": "What is the state bird of Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x6",
+          "options": [
+            "Thai",
+            "Chithirai",
+            "Aadi",
+            "Purattasi"
+          ],
+          "text": "Pongal is celebrated in January. Which Tamil month does Pongal fall in?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-easy-x7",
+          "options": [
+            "Adhirasam",
+            "Rasgulla",
+            "Sandesh",
+            "Modak"
+          ],
+          "text": "Which of these is a famous sweet of Tamil Nadu?"
         }
       ]
     },
@@ -1103,6 +1868,26 @@
           ],
           "front": "Which hill station is called the Queen of the Nilgiris?",
           "id": "tn-med-ooty"
+        },
+        {
+          "answer": "Silambam!",
+          "didYouKnow": "Silambam was practised by Tamil kings and warriors long ago.",
+          "facts": [
+            "Silambam is a martial art from Tamil Nadu that uses a long bamboo stick.",
+            "Its name comes from the sound the bamboo staff makes when it moves."
+          ],
+          "front": "Which martial art from Tamil Nadu uses a long bamboo stick?",
+          "id": "tamil-nadu-gk-medium-x1"
+        },
+        {
+          "answer": "The Nilgiri Mountain Railway!",
+          "didYouKnow": "It is a UNESCO World Heritage Site.",
+          "facts": [
+            "The Nilgiri Mountain Railway is the famous toy train that climbs to Ooty.",
+            "It has been running since 1908."
+          ],
+          "front": "Which famous train climbs the Nilgiri Hills to Ooty?",
+          "id": "tamil-nadu-gk-medium-x2"
         }
       ],
       "color": "#E91E63",
@@ -1177,6 +1962,71 @@
             "Madurai"
           ],
           "text": "Which of these are hill stations of Tamil Nadu? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x3",
+          "options": [
+            "Silambam",
+            "Kalaripayattu",
+            "Kabaddi",
+            "Mallakhamb"
+          ],
+          "text": "Which martial art of Tamil Nadu uses a bamboo stick?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x4",
+          "options": [
+            "Kaveri",
+            "Vaigai",
+            "Palar",
+            "Thamirabarani"
+          ],
+          "text": "Which is longer, the Kaveri or the Vaigai?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x5",
+          "options": [
+            "Mayilattam",
+            "Karagattam",
+            "Oyilattam",
+            "Bharatanatyam"
+          ],
+          "text": "Which dance is known as the dance of the peacock in Tamil Nadu?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x6",
+          "options": [
+            "Blue Mountains",
+            "Green Hills",
+            "High Peaks",
+            "Snow Mountains"
+          ],
+          "text": "Ooty is in the Nilgiri Hills. What does 'Nilgiri' mean?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-medium-x7",
+          "options": [
+            "Wayanad",
+            "Coimbatore",
+            "Salem",
+            "Madurai"
+          ],
+          "text": "Which of these is NOT a district of Tamil Nadu?"
         }
       ]
     },
@@ -1221,6 +2071,26 @@
           ],
           "front": "Which is the longest natural urban beach in India?",
           "id": "tn-hard-marina"
+        },
+        {
+          "answer": "Gangaikonda Cholapuram!",
+          "didYouKnow": "Rajendra Chola's navy sailed all the way to Southeast Asia.",
+          "facts": [
+            "Gangaikonda Cholapuram was built by Rajendra Chola I around 1025 CE.",
+            "Its temple is also a UNESCO World Heritage Site."
+          ],
+          "front": "Which city did Rajendra Chola build as his capital?",
+          "id": "tamil-nadu-gk-hard-x1"
+        },
+        {
+          "answer": "Thanjavur paintings!",
+          "didYouKnow": "Thanjavur paintings are protected with a GI tag.",
+          "facts": [
+            "Thanjavur paintings use gold foil and bright colours.",
+            "They often show gods and goddesses."
+          ],
+          "front": "Which famous painting style comes from Thanjavur?",
+          "id": "tamil-nadu-gk-hard-x2"
         }
       ],
       "color": "#E91E63",
@@ -1295,6 +2165,71 @@
             "Tipu Sultan"
           ],
           "text": "Which of these were social reformers of Tamil Nadu? (pick 2)"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x3",
+          "options": [
+            "It has 10 books",
+            "It has 1,330 couplets",
+            "It was written by Thiruvalluvar",
+            "It has three parts about virtue, wealth and love"
+          ],
+          "text": "Which of these is NOT true about the Thirukkural?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x4",
+          "options": [
+            "Raja Raja Chola I",
+            "Rajendra Chola I",
+            "Kulothunga Chola I",
+            "Rajaraja Chola II"
+          ],
+          "text": "Who ruled first — Raja Raja Chola I or Rajendra Chola I?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x5",
+          "options": [
+            "2004",
+            "1998",
+            "2010",
+            "1956"
+          ],
+          "text": "In which year was Tamil declared a classical language of India?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x6",
+          "options": [
+            "About 1,000 years",
+            "About 500 years",
+            "About 2,000 years",
+            "About 100 years"
+          ],
+          "text": "The Brihadeeswara Temple was built around 1010 CE. How many years ago was that?"
+        },
+        {
+          "correct": [
+            0
+          ],
+          "id": "tamil-nadu-gk-hard-x7",
+          "options": [
+            "Ilango Adigal",
+            "Kambar",
+            "Thiruvalluvar",
+            "Avvaiyar"
+          ],
+          "text": "Which Tamil poet wrote the epic Silappatikaram?"
         }
       ]
     }
